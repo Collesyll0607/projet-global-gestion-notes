@@ -1,0 +1,63 @@
+[
+  {
+    "id_etudiant": 1001,
+    "nom": "Fall",
+    "prenom": "Ibrahima",
+    "date_naissance": "2001-03-15",
+    "email": "ibrahima.fall@student.sn",
+    "adresse": "Dakar, Plateau",
+    "filiere": { "id_filiere": 1, "nom_filiere": "Data Engineering" },
+    "niveau": { "id_niveau": 4, "nom_niveau": "Master 1" },
+    "evaluations": [
+      { "id_matiere": 201, "nom_matiere": "Bases de Données Relationnelles (SQL)", "coefficient": 4.0, "note": 16.5, "professeur": { "id_prof": 104, "nom_prof": "Diop Fatou" }, "date_evaluation": "2026-01-10" },
+      { "id_matiere": 202, "nom_matiere": "Bases de Données NoSQL (MongoDB)", "coefficient": 3.0, "note": 17.0, "professeur": { "id_prof": 104, "nom_prof": "Diop Fatou" }, "date_evaluation": "2026-01-12" },
+      { "id_matiere": 203, "nom_matiere": "Big Data & Hadoop/Spark", "coefficient": 4.0, "note": 15.5, "professeur": { "id_prof": 101, "nom_prof": "Diallo Mamadou" }, "date_evaluation": "2026-01-15" },
+      { "id_matiere": 205, "nom_matiere": "Data Warehousing & ETL", "coefficient": 4.0, "note": 18.0, "professeur": { "id_prof": 101, "nom_prof": "Diallo Mamadou" }, "date_evaluation": "2026-01-20" }
+    ]
+  },
+  {
+    "id_etudiant": 1002,
+    "nom": "Ba",
+    "prenom": "Aminata",
+    "date_naissance": "2002-07-22",
+    "email": "aminata.ba@student.sn",
+    "adresse": "Dakar, Mermoz",
+    "filiere": { "id_filiere": 1, "nom_filiere": "Data Engineering" },
+    "niveau": { "id_niveau": 4, "nom_niveau": "Master 1" },
+    "evaluations": [
+      { "id_matiere": 201, "nom_matiere": "Bases de Données Relationnelles (SQL)", "coefficient": 4.0, "note": 14.0, "professeur": { "id_prof": 104, "nom_prof": "Diop Fatou" }, "date_evaluation": "2026-01-10" },
+      { "id_matiere": 202, "nom_matiere": "Bases de Données NoSQL (MongoDB)", "coefficient": 3.0, "note": 15.5, "professeur": { "id_prof": 104, "nom_prof": "Diop Fatou" }, "date_evaluation": "2026-01-12" },
+      { "id_matiere": 203, "nom_matiere": "Big Data & Hadoop/Spark", "coefficient": 4.0, "note": 13.0, "professeur": { "id_prof": 101, "nom_prof": "Diallo Mamadou" }, "date_evaluation": "2026-01-15" },
+      { "id_matiere": 205, "nom_matiere": "Data Warehousing & ETL", "coefficient": 4.0, "note": 16.0, "professeur": { "id_prof": 101, "nom_prof": "Diallo Mamadou" }, "date_evaluation": "2026-01-20" }
+    ]
+  },
+  {
+    "id_etudiant": 1003,
+    "nom": "Gaye",
+    "prenom": "Moussa",
+    "date_naissance": "2000-11-10",
+    "email": "moussa.gaye@student.sn",
+    "adresse": "Thiès, Center",
+    "filiere": { "id_filiere": 1, "nom_filiere": "Data Engineering" },
+    "niveau": { "id_niveau": 5, "nom_niveau": "Master 2" },
+    "evaluations": [
+      { "id_matiere": 203, "nom_matiere": "Big Data & Hadoop/Spark", "coefficient": 4.0, "note": 18.5, "professeur": { "id_prof": 101, "nom_prof": "Diallo Mamadou" }, "date_evaluation": "2026-01-15" },
+      { "id_matiere": 205, "nom_matiere": "Data Warehousing & ETL", "coefficient": 4.0, "note": 19.0, "professeur": { "id_prof": 101, "nom_prof": "Diallo Mamadou" }, "date_evaluation": "2026-01-20" },
+      { "id_matiere": 206, "nom_matiere": "Machine Learning & Deep Learning", "coefficient": 4.0, "note": 17.5, "professeur": { "id_prof": 102, "nom_prof": "Sow Aïssatou" }, "date_evaluation": "2026-01-22" }
+    ]
+  },
+  {
+    "id_etudiant": 1005,
+    "nom": "Sarr",
+    "prenom": "Modou",
+    "date_naissance": "2001-09-18",
+    "email": "modou.sarr@student.sn",
+    "adresse": "Saint-Louis",
+    "filiere": { "id_filiere": 2, "nom_filiere": "Génie Logiciel" },
+    "niveau": { "id_niveau": 4, "nom_niveau": "Master 1" },
+    "evaluations": [
+      { "id_matiere": 201, "nom_matiere": "Bases de Données Relationnelles (SQL)", "coefficient": 4.0, "note": 9.5, "professeur": { "id_prof": 104, "nom_prof": "Diop Fatou" }, "date_evaluation": "2026-01-10" },
+      { "id_matiere": 207, "nom_matiere": "Architecture Microservices", "coefficient": 3.0, "note": 13.0, "professeur": { "id_prof": 103, "nom_prof": "Ndiaye Cheikh" }, "date_evaluation": "2026-01-18" }
+    ]
+  }
+]

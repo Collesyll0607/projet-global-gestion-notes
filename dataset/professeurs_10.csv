@@ -1,0 +1,11 @@
+id_prof,nom,prenom,departement,genre,email
+101,Diallo,Mamadou,Big Data & Cloud,Masculin,mamadou.diallo@univ.sn
+102,Sow,Aïssatou,Intelligence Artificielle,Féminin,aissatou.sow@univ.sn
+103,Ndiaye,Cheikh,Génie Logiciel,Masculin,cheikh.ndiaye@univ.sn
+104,Diop,Fatou,Base de Données,Féminin,fatou.diop@univ.sn
+105,Faye,Ousmane,Cybersécurité,Masculin,ousmane.faye@univ.sn
+106,Kane,Babacar,Statistiques & Data,Masculin,babacar.kane@univ.sn
+107,Cissé,Aminata,Génie Logiciel,Féminin,aminata.cisse@univ.sn
+108,Seck,Moussa,Big Data & Cloud,Masculin,moussa.seck@univ.sn
+109,Ba,Mariama,Base de Données,Féminin,mariama.ba@univ.sn
+110,Gaye,Ibrahima,Intelligence Artificielle,Masculin,ibrahima.gaye@univ.sn

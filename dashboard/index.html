@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau de Bord Pédagogique - Suivi des Notes & Performances</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="logo-icon"><i class="fa-solid fa-graduation-cap"></i></div>
+                <div class="brand-text">
+                    <h2>EduAnalytics</h2>
+                    <span>Gestion Pédagogique</span>
+                </div>
+            </div>
+
+            <nav class="nav-menu">
+                <a href="#overview" class="nav-link active"><i class="fa-solid fa-chart-pie"></i> Vue Globale</a>
+                <a href="#performance" class="nav-link"><i class="fa-solid fa-award"></i> Performances</a>
+                <a href="#students" class="nav-link"><i class="fa-solid fa-users"></i> Étudiants</a>
+                <a href="#professors" class="nav-link"><i class="fa-solid fa-user-tie"></i> Enseignants</a>
+            </nav>
+
+            <div class="user-profile">
+                <div class="avatar">RP</div>
+                <div class="info">
+                    <span class="name">Dr. Responsable</span>
+                    <span class="role">Directeur des Études</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Header Bar -->
+            <header class="top-header">
+                <div class="header-title">
+                    <h1>Tableau de Bord Suivi des Notes</h1>
+                    <p>Analyse décisionnelle temps réel (Base SQL & Data Warehouse OLAP)</p>
+                </div>
+                <div class="header-actions">
+                    <div class="filter-group">
+                        <label><i class="fa-solid fa-filter"></i> Filière :</label>
+                        <select id="filiereFilter" onchange="filterData()">
+                            <option value="ALL">Toutes les Filières</option>
+                            <option value="Data Engineering">Data Engineering</option>
+                            <option value="Génie Logiciel">Génie Logiciel</option>
+                            <option value="Intelligence Artificielle">Intelligence Artificielle</option>
+                            <option value="Cybersécurité">Cybersécurité</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label><i class="fa-solid fa-layer-group"></i> Niveau :</label>
+                        <select id="niveauFilter" onchange="filterData()">
+                            <option value="ALL">Tous les Niveaux</option>
+                            <option value="Master 1">Master 1</option>
+                            <option value="Master 2">Master 2</option>
+                            <option value="Licence 3">Licence 3</option>
+                        </select>
+                    </div>
+                </div>
+            </header>
+
+            <!-- KPI Cards -->
+            <section class="kpi-grid">
+                <div class="kpi-card glass">
+                    <div class="kpi-icon blue"><i class="fa-solid fa-user-graduate"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-title">Étudiants Évalués</span>
+                        <h3 id="totalStudents">10</h3>
+                        <span class="kpi-trend positive"><i class="fa-solid fa-check"></i> 100% à jour</span>
+                    </div>
+                </div>
+
+                <div class="kpi-card glass">
+                    <div class="kpi-icon purple"><i class="fa-solid fa-star"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-title">Moyenne Générale School</span>
+                        <h3 id="avgGpa">14.85 / 20</h3>
+                        <span class="kpi-trend positive"><i class="fa-solid fa-arrow-up"></i> +1.2 vs 2025</span>
+                    </div>
+                </div>
+
+                <div class="kpi-card glass">
+                    <div class="kpi-icon green"><i class="fa-solid fa-circle-check"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-title">Taux de Réussite</span>
+                        <h3 id="passRate">90 %</h3>
+                        <span class="kpi-trend positive"><i class="fa-solid fa-shield-halved"></i> Seuil admis >= 10</span>
+                    </div>
+                </div>
+
+                <div class="kpi-card glass">
+                    <div class="kpi-icon orange"><i class="fa-solid fa-book-bookmark"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-title">Matières Enseignées</span>
+                        <h3 id="totalSubjects">8 Cours</h3>
+                        <span class="kpi-trend neutral"><i class="fa-solid fa-chalkboard-user"></i> 5 Professeurs</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Charts Section -->
+            <section class="charts-grid">
+                <div class="chart-card glass">
+                    <div class="chart-header">
+                        <h3><i class="fa-solid fa-chart-column"></i> Moyenne par Filière</h3>
+                    </div>
+                    <div class="chart-body">
+                        <canvas id="filiereChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-card glass">
+                    <div class="chart-header">
+                        <h3><i class="fa-solid fa-chart-pie"></i> Distribution des Mentions</h3>
+                    </div>
+                    <div class="chart-body">
+                        <canvas id="mentionChart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Student Performance Table -->
+            <section class="table-section glass">
+                <div class="table-header">
+                    <h3><i class="fa-solid fa-list-ol"></i> Classement Général des Étudiants</h3>
+                    <div class="search-box">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        <input type="text" id="searchInput" placeholder="Rechercher un étudiant..." onkeyup="searchTable()">
+                    </div>
+                </div>
+                <div class="table-responsive">
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Rang</th>
+                                <th>Étudiant</th>
+                                <th>Filière</th>
+                                <th>Niveau</th>
+                                <th>Moyenne Pondérée</th>
+                                <th>Mention</th>
+                                <th>Statut</th>
+                            </tr>
+                        </thead>
+                        <tbody id="studentTableBody">
+                            <!-- Populated dynamically via app.js -->
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Subject & Professor Workload Section -->
+            <section class="prof-section glass">
+                <div class="table-header">
+                    <h3><i class="fa-solid fa-chalkboard-user"></i> Affectation des Enseignants & Chargement</h3>
+                </div>
+                <div class="prof-grid" id="profGrid">
+                    <!-- Populated dynamically -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

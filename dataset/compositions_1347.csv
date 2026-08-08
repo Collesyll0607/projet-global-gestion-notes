@@ -1,0 +1,1348 @@
+eval_id,id_etudiant,nom_etudiant,filiere,niveau,id_matiere,nom_matiere,coefficient,id_prof,nom_prof,note,annee_academique,semestre,date_evaluation
+1,1220,Saliou Badji,Génie Logiciel,Licence 2,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,15.39,2023-2024,S1,2024-01-15
+2,1142,Ibrahima Dramé,Data Engineering,Licence 3,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,13.36,2022-2023,S2,2023-06-20
+3,1284,Moussa Diallo,Cybersécurité,Licence 3,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,15.87,2024-2025,S1,2025-01-15
+4,1338,Mamadou Kane,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,18.67,2023-2024,S2,2024-06-20
+5,1311,Fatou Dramé,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,13.05,2023-2024,S2,2024-06-20
+6,1152,Mamadou Sow,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,13.05,2022-2023,S1,2023-01-15
+7,1254,Fatou Mendy,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,104,Fatou Diop,18.85,2022-2023,S2,2023-06-20
+8,1256,Aminata Mendy,Data Engineering,Licence 3,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,16.26,2022-2023,S2,2023-06-20
+9,1007,Moussa Kane,Data Engineering,Licence 2,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,12.3,2024-2025,S2,2025-06-20
+10,1199,Aminata Touré,Cybersécurité,Licence 3,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,15.54,2025-2026,S1,2026-01-15
+11,1280,Rokhaya Faye,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,108,Moussa Seck,12.32,2023-2024,S1,2024-01-15
+12,1038,Moussa Ndiaye,Génie Logiciel,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,12.31,2022-2023,S2,2023-06-20
+13,1135,Awa Ndiaye,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,14.57,2022-2023,S1,2023-01-15
+14,1204,Awa Diallo,Data Engineering,Licence 3,209,Statistiques Inférentielles,3.0,109,Mariama Ba,7.68,2024-2025,S1,2025-01-15
+15,1213,Mamadou Samb,Data Engineering,Licence 3,207,Architecture Microservices & Cloud,3.0,102,Aïssatou Sow,8.28,2025-2026,S1,2026-01-15
+16,1328,Mariama Diallo,Génie Logiciel,Licence 2,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,12.0,2023-2024,S1,2024-01-15
+17,1043,Rokhaya Sow,Cybersécurité,Master 2,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,10.56,2022-2023,S2,2023-06-20
+18,1105,Mariama Diallo,Génie Logiciel,Licence 3,203,Big Data & Hadoop/Spark,4.0,107,Aminata Cissé,14.81,2024-2025,S2,2025-06-20
+19,1301,Saliou Diallo,Data Engineering,Master 2,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,10.89,2022-2023,S2,2023-06-20
+20,1358,Modou Mendy,Cybersécurité,Licence 2,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,9.28,2023-2024,S2,2024-06-20
+21,1126,Aïssatou Mendy,Intelligence Artificielle,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,18.49,2025-2026,S1,2026-01-15
+22,1233,Cheikh Badiane,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,13.08,2022-2023,S1,2023-01-15
+23,1342,Oumar Cissé,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,14.02,2023-2024,S1,2024-01-15
+24,1007,Moussa Kane,Data Engineering,Licence 2,212,Gouvernance des Données & DPO,2.5,101,Mamadou Diallo,9.24,2023-2024,S1,2024-01-15
+25,1084,Pape Fall,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,12.06,2024-2025,S2,2025-06-20
+26,1265,Adama Sy,Data Engineering,Master 2,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,14.15,2024-2025,S1,2025-01-15
+27,1191,Modou Samb,Cybersécurité,Licence 1,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,10.12,2024-2025,S1,2025-01-15
+28,1016,Awa Badji,Intelligence Artificielle,Licence 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,15.0,2025-2026,S1,2026-01-15
+29,1269,Rokhaya Ba,Cybersécurité,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,11.88,2024-2025,S1,2025-01-15
+30,1322,Cheikh Ba,Data Engineering,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,12.87,2025-2026,S2,2026-06-20
+31,1262,Aminata Sy,Data Engineering,Master 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,11.87,2022-2023,S1,2023-01-15
+32,1291,Mamadou Sy,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,19.73,2024-2025,S2,2025-06-20
+33,1131,Fatou Mendy,Cybersécurité,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,13.76,2022-2023,S2,2023-06-20
+34,1261,Fatou Camara,Intelligence Artificielle,Master 2,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,10.42,2022-2023,S1,2023-01-15
+35,1126,Aïssatou Mendy,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,16.43,2025-2026,S2,2026-06-20
+36,1197,Saliou Samb,Génie Logiciel,Licence 2,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,9.89,2023-2024,S1,2024-01-15
+37,1284,Moussa Diallo,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,14.47,2025-2026,S1,2026-01-15
+38,1165,Aïssatou Touré,Génie Logiciel,Licence 2,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,7.53,2025-2026,S1,2026-01-15
+39,1139,Aïssatou Sarr,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,9.55,2024-2025,S2,2025-06-20
+40,1258,Abdoulaye Seck,Intelligence Artificielle,Licence 2,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,14.43,2022-2023,S1,2023-01-15
+41,1115,Rokhaya Badji,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,16.16,2022-2023,S1,2023-01-15
+42,1036,Mamadou Camara,Génie Logiciel,Licence 3,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,14.35,2024-2025,S1,2025-01-15
+43,1168,Mamadou Cissé,Data Engineering,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,101,Mamadou Diallo,13.43,2025-2026,S2,2026-06-20
+44,1189,Adama Kane,Génie Logiciel,Licence 3,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,12.84,2024-2025,S1,2025-01-15
+45,1156,Oumar Touré,Data Engineering,Licence 3,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,9.07,2023-2024,S2,2024-06-20
+46,1189,Adama Kane,Génie Logiciel,Licence 3,210,Business Intelligence & Power BI,3.5,104,Fatou Diop,11.5,2025-2026,S2,2026-06-20
+47,1280,Rokhaya Faye,Cybersécurité,Licence 1,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,12.33,2023-2024,S1,2024-01-15
+48,1210,Moussa Sarr,Génie Logiciel,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,17.18,2023-2024,S2,2024-06-20
+49,1178,Pape Gaye,Génie Logiciel,Licence 1,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,14.9,2022-2023,S1,2023-01-15
+50,1001,Ibrahima Cissé,Intelligence Artificielle,Licence 2,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,8.16,2025-2026,S1,2026-01-15
+51,1054,Pape Mendy,Intelligence Artificielle,Master 1,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,14.84,2023-2024,S2,2024-06-20
+52,1252,Aminata Sy,Data Engineering,Master 1,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,12.57,2023-2024,S1,2024-01-15
+53,1048,Oumar Touré,Génie Logiciel,Master 1,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,11.63,2023-2024,S2,2024-06-20
+54,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,15.76,2024-2025,S2,2025-06-20
+55,1044,Cheikh Ba,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,17.1,2022-2023,S2,2023-06-20
+56,1069,Rokhaya Faye,Génie Logiciel,Master 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,16.78,2025-2026,S1,2026-01-15
+57,1304,Rokhaya Diop,Intelligence Artificielle,Master 1,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,11.11,2022-2023,S1,2023-01-15
+58,1340,Khadija Mendy,Cybersécurité,Master 2,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,12.81,2023-2024,S2,2024-06-20
+59,1134,Cheikh Badji,Data Engineering,Master 1,206,Machine Learning & Deep Learning,4.0,106,Babacar Kane,14.86,2025-2026,S1,2026-01-15
+60,1163,Binta Badiane,Intelligence Artificielle,Licence 1,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,16.92,2024-2025,S1,2025-01-15
+61,1039,Ibrahima Samb,Intelligence Artificielle,Licence 1,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,12.27,2023-2024,S1,2024-01-15
+62,1056,Ibrahima Badji,Intelligence Artificielle,Licence 3,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,13.21,2022-2023,S2,2023-06-20
+63,1231,Fatou Seck,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,10.26,2024-2025,S2,2025-06-20
+64,1062,Oumar Badji,Data Engineering,Master 1,209,Statistiques Inférentielles,3.0,104,Fatou Diop,9.97,2024-2025,S2,2025-06-20
+65,1232,Binta Mendy,Data Engineering,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,16.4,2025-2026,S2,2026-06-20
+66,1062,Oumar Badji,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,105,Ousmane Faye,18.14,2023-2024,S1,2024-01-15
+67,1357,Oumar Gaye,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,104,Fatou Diop,13.57,2022-2023,S1,2023-01-15
+68,1168,Mamadou Cissé,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,17.01,2022-2023,S2,2023-06-20
+69,1183,Modou Diallo,Data Engineering,Master 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,14.96,2022-2023,S1,2023-01-15
+70,1134,Cheikh Badji,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,107,Aminata Cissé,11.74,2022-2023,S1,2023-01-15
+71,1232,Binta Mendy,Data Engineering,Licence 1,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,14.96,2023-2024,S2,2024-06-20
+72,1237,Mamadou Cissé,Intelligence Artificielle,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,18.72,2023-2024,S1,2024-01-15
+73,1007,Moussa Kane,Data Engineering,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,13.69,2023-2024,S2,2024-06-20
+74,1102,Adama Diallo,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,102,Aïssatou Sow,18.81,2024-2025,S2,2025-06-20
+75,1299,Jean Sy,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,5.42,2024-2025,S1,2025-01-15
+76,1012,Modou Sow,Intelligence Artificielle,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,16.43,2023-2024,S2,2024-06-20
+77,1066,Oumar Sarr,Cybersécurité,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,14.08,2024-2025,S2,2025-06-20
+78,1022,Abdoulaye Ndiaye,Cybersécurité,Licence 1,208,Sécurité des Systèmes d'Information,3.0,103,Cheikh Ndiaye,12.84,2022-2023,S1,2023-01-15
+79,1294,Moussa Sy,Génie Logiciel,Licence 1,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,14.09,2025-2026,S1,2026-01-15
+80,1016,Awa Badji,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,7.44,2025-2026,S1,2026-01-15
+81,1182,Jean Ndiaye,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,13.1,2023-2024,S1,2024-01-15
+82,1144,Modou Sarr,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,14.94,2023-2024,S1,2024-01-15
+83,1315,Modou Cissé,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,18.53,2023-2024,S2,2024-06-20
+84,1256,Aminata Mendy,Data Engineering,Licence 3,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,12.14,2025-2026,S2,2026-06-20
+85,1045,Cheikh Ba,Génie Logiciel,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,11.21,2025-2026,S1,2026-01-15
+86,1215,Moussa Sow,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,109,Mariama Ba,12.19,2023-2024,S2,2024-06-20
+87,1010,Oumar Badji,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,16.73,2024-2025,S2,2025-06-20
+88,1279,Modou Mendy,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,14.85,2024-2025,S2,2025-06-20
+89,1258,Abdoulaye Seck,Intelligence Artificielle,Licence 2,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,12.1,2025-2026,S1,2026-01-15
+90,1093,Aminata Badiane,Génie Logiciel,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,15.44,2024-2025,S2,2025-06-20
+91,1113,Awa Gaye,Cybersécurité,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,14.11,2024-2025,S1,2025-01-15
+92,1242,Awa Touré,Génie Logiciel,Licence 1,209,Statistiques Inférentielles,3.0,110,Ibrahima Gaye,16.9,2024-2025,S2,2025-06-20
+93,1120,Rokhaya Touré,Data Engineering,Master 2,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,11.55,2022-2023,S2,2023-06-20
+94,1337,Khadija Sarr,Intelligence Artificielle,Master 1,204,Algorithmique & Python Advanced,3.5,109,Mariama Ba,12.75,2024-2025,S1,2025-01-15
+95,1029,Ibrahima Badji,Data Engineering,Licence 2,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,12.55,2025-2026,S1,2026-01-15
+96,1089,Pape Badiane,Intelligence Artificielle,Licence 1,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,9.12,2023-2024,S2,2024-06-20
+97,1163,Binta Badiane,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,14.75,2024-2025,S2,2025-06-20
+98,1015,Abdoulaye Dramé,Intelligence Artificielle,Master 2,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,14.64,2024-2025,S2,2025-06-20
+99,1289,Binta Cissé,Intelligence Artificielle,Licence 2,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,13.82,2023-2024,S2,2024-06-20
+100,1278,Modou Ba,Intelligence Artificielle,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,13.05,2023-2024,S1,2024-01-15
+101,1020,Moussa Touré,Génie Logiciel,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,9.27,2022-2023,S1,2023-01-15
+102,1309,Jean Fall,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,109,Mariama Ba,12.45,2022-2023,S1,2023-01-15
+103,1245,Pape Sarr,Génie Logiciel,Master 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,12.7,2024-2025,S2,2025-06-20
+104,1104,Khadija Camara,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,11.23,2024-2025,S2,2025-06-20
+105,1166,Cheikh Badji,Data Engineering,Master 1,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,13.28,2022-2023,S1,2023-01-15
+106,1301,Saliou Diallo,Data Engineering,Master 2,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,15.09,2023-2024,S1,2024-01-15
+107,1270,Saliou Kane,Data Engineering,Licence 1,206,Machine Learning & Deep Learning,4.0,106,Babacar Kane,19.84,2022-2023,S2,2023-06-20
+108,1340,Khadija Mendy,Cybersécurité,Master 2,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,14.36,2022-2023,S2,2023-06-20
+109,1155,Aminata Faye,Intelligence Artificielle,Master 2,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,14.62,2023-2024,S1,2024-01-15
+110,1224,Adama Dramé,Intelligence Artificielle,Master 2,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,13.56,2025-2026,S2,2026-06-20
+111,1090,Ibrahima Mendy,Génie Logiciel,Licence 3,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,7.66,2024-2025,S2,2025-06-20
+112,1341,Awa Cissé,Intelligence Artificielle,Master 2,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,13.72,2023-2024,S1,2024-01-15
+113,1158,Fatou Mendy,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,13.99,2024-2025,S1,2025-01-15
+114,1091,Binta Sarr,Data Engineering,Licence 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,20.0,2022-2023,S1,2023-01-15
+115,1201,Khadija Diallo,Cybersécurité,Master 1,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,13.18,2022-2023,S1,2023-01-15
+116,1309,Jean Fall,Cybersécurité,Licence 3,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,14.76,2023-2024,S2,2024-06-20
+117,1054,Pape Mendy,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,13.69,2023-2024,S1,2024-01-15
+118,1040,Modou Badji,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,10.06,2024-2025,S2,2025-06-20
+119,1086,Jean Sy,Intelligence Artificielle,Master 1,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,17.46,2022-2023,S2,2023-06-20
+120,1229,Mariama Badji,Intelligence Artificielle,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,16.21,2024-2025,S1,2025-01-15
+121,1128,Awa Diop,Data Engineering,Master 2,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,16.33,2022-2023,S2,2023-06-20
+122,1132,Awa Samb,Génie Logiciel,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,101,Mamadou Diallo,10.89,2022-2023,S1,2023-01-15
+123,1198,Aïssatou Badiane,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,103,Cheikh Ndiaye,18.29,2025-2026,S1,2026-01-15
+124,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,9.31,2025-2026,S1,2026-01-15
+125,1280,Rokhaya Faye,Cybersécurité,Licence 1,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,15.68,2022-2023,S2,2023-06-20
+126,1296,Pape Fall,Intelligence Artificielle,Master 2,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,20.0,2023-2024,S2,2024-06-20
+127,1232,Binta Mendy,Data Engineering,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,105,Ousmane Faye,10.63,2022-2023,S1,2023-01-15
+128,1011,Moussa Camara,Génie Logiciel,Master 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,11.99,2024-2025,S1,2025-01-15
+129,1038,Moussa Ndiaye,Génie Logiciel,Licence 3,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,14.12,2023-2024,S1,2024-01-15
+130,1083,Babacar Touré,Intelligence Artificielle,Licence 3,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,12.19,2022-2023,S2,2023-06-20
+131,1048,Oumar Touré,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,8.84,2025-2026,S2,2026-06-20
+132,1221,Pape Cissé,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,14.02,2023-2024,S1,2024-01-15
+133,1223,Adama Mendy,Data Engineering,Master 2,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,10.4,2022-2023,S1,2023-01-15
+134,1170,Fatou Mendy,Génie Logiciel,Licence 3,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,15.32,2023-2024,S2,2024-06-20
+135,1357,Oumar Gaye,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,10.86,2024-2025,S1,2025-01-15
+136,1153,Binta Sarr,Data Engineering,Licence 1,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,18.76,2022-2023,S2,2023-06-20
+137,1202,Babacar Mendy,Data Engineering,Licence 2,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,11.29,2025-2026,S2,2026-06-20
+138,1028,Khadija Faye,Intelligence Artificielle,Master 1,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,12.77,2022-2023,S1,2023-01-15
+139,1045,Cheikh Ba,Génie Logiciel,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,104,Fatou Diop,16.4,2025-2026,S2,2026-06-20
+140,1050,Mamadou Samb,Intelligence Artificielle,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,9.86,2023-2024,S2,2024-06-20
+141,1327,Fatou Sow,Data Engineering,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,14.53,2022-2023,S2,2023-06-20
+142,1060,Saliou Faye,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,17.98,2025-2026,S1,2026-01-15
+143,1251,Awa Badji,Génie Logiciel,Licence 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,8.66,2024-2025,S1,2025-01-15
+144,1329,Abdoulaye Faye,Génie Logiciel,Master 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,14.39,2025-2026,S1,2026-01-15
+145,1190,Pape Cissé,Data Engineering,Licence 3,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,14.63,2024-2025,S2,2025-06-20
+146,1226,Jean Badji,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,16.3,2024-2025,S1,2025-01-15
+147,1138,Oumar Cissé,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,9.84,2022-2023,S1,2023-01-15
+148,1357,Oumar Gaye,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,9.57,2022-2023,S2,2023-06-20
+149,1343,Oumar Cissé,Génie Logiciel,Master 2,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,15.47,2025-2026,S1,2026-01-15
+150,1117,Binta Sarr,Data Engineering,Licence 2,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,14.75,2022-2023,S1,2023-01-15
+151,1268,Abdoulaye Samb,Data Engineering,Master 1,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,14.6,2025-2026,S2,2026-06-20
+152,1121,Aïssatou Gaye,Data Engineering,Licence 1,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,14.91,2024-2025,S1,2025-01-15
+153,1203,Binta Badji,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,11.62,2022-2023,S1,2023-01-15
+154,1293,Aminata Badji,Data Engineering,Licence 1,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,14.54,2023-2024,S1,2024-01-15
+155,1230,Mariama Sarr,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,14.74,2023-2024,S1,2024-01-15
+156,1099,Rokhaya Cissé,Génie Logiciel,Licence 2,203,Big Data & Hadoop/Spark,4.0,107,Aminata Cissé,11.51,2022-2023,S1,2023-01-15
+157,1041,Pape Camara,Cybersécurité,Licence 3,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,19.77,2025-2026,S1,2026-01-15
+158,1322,Cheikh Ba,Data Engineering,Licence 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,15.32,2024-2025,S1,2025-01-15
+159,1035,Saliou Badiane,Intelligence Artificielle,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,109,Mariama Ba,9.99,2025-2026,S1,2026-01-15
+160,1204,Awa Diallo,Data Engineering,Licence 3,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,15.9,2024-2025,S2,2025-06-20
+161,1267,Pape Diallo,Cybersécurité,Licence 1,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,10.68,2022-2023,S1,2023-01-15
+162,1301,Saliou Diallo,Data Engineering,Master 2,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,16.32,2025-2026,S1,2026-01-15
+163,1213,Mamadou Samb,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,17.51,2023-2024,S1,2024-01-15
+164,1302,Moussa Ba,Intelligence Artificielle,Master 2,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,11.17,2022-2023,S2,2023-06-20
+165,1289,Binta Cissé,Intelligence Artificielle,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,109,Mariama Ba,16.88,2024-2025,S1,2025-01-15
+166,1177,Binta Dramé,Génie Logiciel,Licence 1,207,Architecture Microservices & Cloud,3.0,107,Aminata Cissé,15.12,2024-2025,S1,2025-01-15
+167,1336,Aïssatou Diop,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,16.43,2025-2026,S2,2026-06-20
+168,1089,Pape Badiane,Intelligence Artificielle,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,19.87,2025-2026,S1,2026-01-15
+169,1317,Khadija Diallo,Cybersécurité,Licence 3,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,13.01,2025-2026,S1,2026-01-15
+170,1203,Binta Badji,Intelligence Artificielle,Licence 1,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,11.39,2023-2024,S2,2024-06-20
+171,1244,Babacar Faye,Cybersécurité,Master 2,205,Data Warehousing & ETL (SSIS),4.0,101,Mamadou Diallo,10.95,2024-2025,S2,2025-06-20
+172,1173,Saliou Badiane,Cybersécurité,Master 2,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,11.19,2024-2025,S1,2025-01-15
+173,1252,Aminata Sy,Data Engineering,Master 1,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,13.55,2022-2023,S2,2023-06-20
+174,1069,Rokhaya Faye,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,14.89,2025-2026,S2,2026-06-20
+175,1138,Oumar Cissé,Génie Logiciel,Master 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,14.69,2025-2026,S1,2026-01-15
+176,1331,Moussa Camara,Data Engineering,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,16.45,2023-2024,S2,2024-06-20
+177,1109,Abdoulaye Mendy,Cybersécurité,Licence 1,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,13.84,2025-2026,S2,2026-06-20
+178,1192,Mamadou Ba,Intelligence Artificielle,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,18.45,2023-2024,S1,2024-01-15
+179,1160,Cheikh Seck,Intelligence Artificielle,Licence 3,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,12.95,2025-2026,S1,2026-01-15
+180,1269,Rokhaya Ba,Cybersécurité,Licence 3,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,20.0,2022-2023,S1,2023-01-15
+181,1099,Rokhaya Cissé,Génie Logiciel,Licence 2,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,15.8,2022-2023,S1,2023-01-15
+182,1017,Pape Camara,Génie Logiciel,Master 2,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,11.06,2022-2023,S1,2023-01-15
+183,1102,Adama Diallo,Intelligence Artificielle,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,10.37,2024-2025,S2,2025-06-20
+184,1259,Khadija Kane,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,15.34,2022-2023,S2,2023-06-20
+185,1124,Adama Diop,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,13.08,2025-2026,S2,2026-06-20
+186,1229,Mariama Badji,Intelligence Artificielle,Licence 2,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,16.08,2025-2026,S2,2026-06-20
+187,1283,Rokhaya Ba,Cybersécurité,Master 1,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,15.31,2024-2025,S2,2025-06-20
+188,1133,Abdoulaye Cissé,Data Engineering,Licence 2,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,13.57,2022-2023,S2,2023-06-20
+189,1015,Abdoulaye Dramé,Intelligence Artificielle,Master 2,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,11.09,2022-2023,S1,2023-01-15
+190,1293,Aminata Badji,Data Engineering,Licence 1,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,8.95,2023-2024,S2,2024-06-20
+191,1347,Mamadou Sy,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,12.37,2024-2025,S1,2025-01-15
+192,1263,Jean Cissé,Intelligence Artificielle,Master 2,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,16.54,2022-2023,S1,2023-01-15
+193,1068,Mamadou Badiane,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,14.49,2023-2024,S1,2024-01-15
+194,1005,Mamadou Gaye,Data Engineering,Licence 3,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,9.81,2024-2025,S1,2025-01-15
+195,1157,Aïssatou Sy,Data Engineering,Master 2,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,14.35,2024-2025,S1,2025-01-15
+196,1193,Mariama Diallo,Intelligence Artificielle,Licence 2,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,15.03,2025-2026,S2,2026-06-20
+197,1112,Abdoulaye Sy,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,10.97,2024-2025,S1,2025-01-15
+198,1320,Aïssatou Gaye,Cybersécurité,Licence 2,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,14.29,2022-2023,S2,2023-06-20
+199,1262,Aminata Sy,Data Engineering,Master 1,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,13.99,2024-2025,S2,2025-06-20
+200,1332,Awa Cissé,Cybersécurité,Master 2,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,10.14,2024-2025,S1,2025-01-15
+201,1351,Fatou Mendy,Génie Logiciel,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,14.94,2025-2026,S2,2026-06-20
+202,1173,Saliou Badiane,Cybersécurité,Master 2,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,15.59,2024-2025,S2,2025-06-20
+203,1134,Cheikh Badji,Data Engineering,Master 1,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,17.27,2024-2025,S1,2025-01-15
+204,1077,Jean Fall,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,101,Mamadou Diallo,17.17,2023-2024,S2,2024-06-20
+205,1308,Modou Camara,Cybersécurité,Licence 2,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,9.39,2024-2025,S2,2025-06-20
+206,1014,Mariama Ba,Génie Logiciel,Licence 2,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,10.8,2025-2026,S2,2026-06-20
+207,1133,Abdoulaye Cissé,Data Engineering,Licence 2,207,Architecture Microservices & Cloud,3.0,107,Aminata Cissé,15.45,2025-2026,S1,2026-01-15
+208,1019,Jean Ndiaye,Génie Logiciel,Licence 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,15.44,2023-2024,S2,2024-06-20
+209,1114,Saliou Badiane,Cybersécurité,Licence 2,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,15.45,2025-2026,S2,2026-06-20
+210,1260,Binta Sarr,Intelligence Artificielle,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,20.0,2023-2024,S1,2024-01-15
+211,1093,Aminata Badiane,Génie Logiciel,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,15.63,2022-2023,S2,2023-06-20
+212,1066,Oumar Sarr,Cybersécurité,Licence 2,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,17.43,2024-2025,S1,2025-01-15
+213,1094,Adama Faye,Génie Logiciel,Master 2,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,16.85,2024-2025,S2,2025-06-20
+214,1114,Saliou Badiane,Cybersécurité,Licence 2,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,15.88,2023-2024,S2,2024-06-20
+215,1216,Khadija Mendy,Génie Logiciel,Licence 3,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,12.79,2024-2025,S2,2025-06-20
+216,1300,Aminata Touré,Data Engineering,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,102,Aïssatou Sow,16.23,2025-2026,S2,2026-06-20
+217,1241,Mariama Diallo,Cybersécurité,Master 2,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,11.33,2022-2023,S2,2023-06-20
+218,1100,Adama Mendy,Intelligence Artificielle,Master 1,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,13.04,2022-2023,S2,2023-06-20
+219,1272,Cheikh Faye,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,101,Mamadou Diallo,12.25,2025-2026,S1,2026-01-15
+220,1078,Adama Mendy,Data Engineering,Master 2,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,14.06,2023-2024,S2,2024-06-20
+221,1210,Moussa Sarr,Génie Logiciel,Licence 3,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,20.0,2025-2026,S2,2026-06-20
+222,1162,Aïssatou Sow,Intelligence Artificielle,Licence 2,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,7.82,2023-2024,S1,2024-01-15
+223,1250,Cheikh Gaye,Cybersécurité,Licence 3,206,Machine Learning & Deep Learning,4.0,106,Babacar Kane,16.0,2023-2024,S1,2024-01-15
+224,1325,Binta Fall,Data Engineering,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,8.64,2022-2023,S1,2023-01-15
+225,1141,Awa Diop,Génie Logiciel,Licence 1,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,12.29,2023-2024,S1,2024-01-15
+226,1082,Saliou Sow,Cybersécurité,Licence 3,208,Sécurité des Systèmes d'Information,3.0,103,Cheikh Ndiaye,17.28,2022-2023,S2,2023-06-20
+227,1315,Modou Cissé,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,107,Aminata Cissé,14.01,2025-2026,S1,2026-01-15
+228,1220,Saliou Badji,Génie Logiciel,Licence 2,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,10.35,2025-2026,S1,2026-01-15
+229,1020,Moussa Touré,Génie Logiciel,Licence 2,209,Statistiques Inférentielles,3.0,106,Babacar Kane,11.51,2023-2024,S2,2024-06-20
+230,1008,Mamadou Cissé,Intelligence Artificielle,Master 1,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,15.97,2023-2024,S2,2024-06-20
+231,1347,Mamadou Sy,Cybersécurité,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,11.46,2023-2024,S2,2024-06-20
+232,1356,Ibrahima Sow,Data Engineering,Licence 3,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,14.49,2024-2025,S1,2025-01-15
+233,1053,Moussa Faye,Intelligence Artificielle,Master 2,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,13.95,2024-2025,S1,2025-01-15
+234,1034,Saliou Cissé,Génie Logiciel,Master 2,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,11.71,2024-2025,S1,2025-01-15
+235,1234,Ibrahima Badji,Data Engineering,Master 1,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,20.0,2024-2025,S2,2025-06-20
+236,1352,Abdoulaye Cissé,Data Engineering,Licence 1,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,15.83,2024-2025,S2,2025-06-20
+237,1184,Fatou Kane,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,7.32,2023-2024,S1,2024-01-15
+238,1010,Oumar Badji,Intelligence Artificielle,Licence 1,204,Algorithmique & Python Advanced,3.5,103,Cheikh Ndiaye,14.4,2023-2024,S2,2024-06-20
+239,1109,Abdoulaye Mendy,Cybersécurité,Licence 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,11.68,2022-2023,S1,2023-01-15
+240,1259,Khadija Kane,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,16.53,2022-2023,S2,2023-06-20
+241,1334,Saliou Dramé,Data Engineering,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,11.26,2025-2026,S1,2026-01-15
+242,1274,Ibrahima Fall,Intelligence Artificielle,Master 1,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,13.43,2022-2023,S1,2023-01-15
+243,1025,Modou Badji,Cybersécurité,Licence 2,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,15.42,2022-2023,S2,2023-06-20
+244,1025,Modou Badji,Cybersécurité,Licence 2,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,16.57,2022-2023,S2,2023-06-20
+245,1228,Modou Dramé,Intelligence Artificielle,Licence 3,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,9.96,2022-2023,S2,2023-06-20
+246,1130,Aminata Cissé,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,12.73,2023-2024,S1,2024-01-15
+247,1356,Ibrahima Sow,Data Engineering,Licence 3,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,12.28,2022-2023,S1,2023-01-15
+248,1216,Khadija Mendy,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,11.71,2022-2023,S2,2023-06-20
+249,1139,Aïssatou Sarr,Data Engineering,Master 1,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,19.45,2023-2024,S1,2024-01-15
+250,1054,Pape Mendy,Intelligence Artificielle,Master 1,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,15.1,2022-2023,S2,2023-06-20
+251,1059,Modou Kane,Data Engineering,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,9.77,2025-2026,S2,2026-06-20
+252,1312,Oumar Badji,Génie Logiciel,Master 1,204,Algorithmique & Python Advanced,3.5,109,Mariama Ba,16.74,2024-2025,S1,2025-01-15
+253,1104,Khadija Camara,Cybersécurité,Master 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,20.0,2025-2026,S1,2026-01-15
+254,1083,Babacar Touré,Intelligence Artificielle,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,17.1,2025-2026,S2,2026-06-20
+255,1353,Modou Kane,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,8.94,2024-2025,S2,2025-06-20
+256,1002,Moussa Badji,Cybersécurité,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,12.25,2022-2023,S2,2023-06-20
+257,1294,Moussa Sy,Génie Logiciel,Licence 1,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,17.85,2025-2026,S2,2026-06-20
+258,1047,Oumar Faye,Intelligence Artificielle,Licence 2,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,11.54,2022-2023,S2,2023-06-20
+259,1132,Awa Samb,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,108,Moussa Seck,15.22,2023-2024,S2,2024-06-20
+260,1152,Mamadou Sow,Cybersécurité,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,101,Mamadou Diallo,16.28,2025-2026,S2,2026-06-20
+261,1052,Babacar Badiane,Intelligence Artificielle,Licence 1,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,10.83,2022-2023,S1,2023-01-15
+262,1185,Pape Cissé,Data Engineering,Licence 3,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,13.61,2024-2025,S2,2025-06-20
+263,1060,Saliou Faye,Génie Logiciel,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,101,Mamadou Diallo,4.0,2022-2023,S1,2023-01-15
+264,1071,Saliou Diop,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,10.52,2023-2024,S1,2024-01-15
+265,1184,Fatou Kane,Cybersécurité,Licence 2,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,12.99,2024-2025,S1,2025-01-15
+266,1191,Modou Samb,Cybersécurité,Licence 1,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,9.81,2023-2024,S1,2024-01-15
+267,1206,Aïssatou Gaye,Data Engineering,Master 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,19.02,2025-2026,S2,2026-06-20
+268,1198,Aïssatou Badiane,Génie Logiciel,Licence 1,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,9.22,2025-2026,S2,2026-06-20
+269,1333,Cheikh Cissé,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,12.39,2022-2023,S2,2023-06-20
+270,1357,Oumar Gaye,Cybersécurité,Licence 1,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,14.22,2022-2023,S1,2023-01-15
+271,1054,Pape Mendy,Intelligence Artificielle,Master 1,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,18.41,2025-2026,S2,2026-06-20
+272,1348,Moussa Gaye,Cybersécurité,Master 2,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,9.21,2023-2024,S1,2024-01-15
+273,1195,Rokhaya Sarr,Cybersécurité,Licence 1,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,17.52,2022-2023,S1,2023-01-15
+274,1248,Binta Kane,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,13.83,2022-2023,S2,2023-06-20
+275,1226,Jean Badji,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,10.66,2022-2023,S2,2023-06-20
+276,1336,Aïssatou Diop,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,109,Mariama Ba,15.28,2022-2023,S1,2023-01-15
+277,1296,Pape Fall,Intelligence Artificielle,Master 2,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,14.44,2023-2024,S2,2024-06-20
+278,1266,Mariama Badiane,Data Engineering,Master 2,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,11.88,2022-2023,S2,2023-06-20
+279,1339,Moussa Seck,Data Engineering,Licence 2,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,14.02,2023-2024,S2,2024-06-20
+280,1178,Pape Gaye,Génie Logiciel,Licence 1,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,12.57,2025-2026,S1,2026-01-15
+281,1286,Fatou Kane,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,14.16,2022-2023,S1,2023-01-15
+282,1330,Adama Fall,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,15.92,2025-2026,S2,2026-06-20
+283,1085,Binta Sy,Cybersécurité,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,18.88,2025-2026,S2,2026-06-20
+284,1124,Adama Diop,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,9.84,2024-2025,S1,2025-01-15
+285,1260,Binta Sarr,Intelligence Artificielle,Licence 2,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,20.0,2025-2026,S1,2026-01-15
+286,1121,Aïssatou Gaye,Data Engineering,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,7.55,2025-2026,S2,2026-06-20
+287,1294,Moussa Sy,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,13.31,2022-2023,S2,2023-06-20
+288,1229,Mariama Badji,Intelligence Artificielle,Licence 2,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,15.68,2022-2023,S2,2023-06-20
+289,1335,Cheikh Seck,Génie Logiciel,Master 2,201,Bases de Données Relationnelles (SQL),4.0,107,Aminata Cissé,14.7,2022-2023,S2,2023-06-20
+290,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,11.81,2022-2023,S1,2023-01-15
+291,1310,Abdoulaye Faye,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,13.13,2024-2025,S1,2025-01-15
+292,1288,Rokhaya Sow,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,12.22,2025-2026,S2,2026-06-20
+293,1187,Jean Dramé,Cybersécurité,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,11.91,2023-2024,S2,2024-06-20
+294,1170,Fatou Mendy,Génie Logiciel,Licence 3,209,Statistiques Inférentielles,3.0,106,Babacar Kane,16.52,2025-2026,S2,2026-06-20
+295,1232,Binta Mendy,Data Engineering,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,14.94,2022-2023,S2,2023-06-20
+296,1002,Moussa Badji,Cybersécurité,Licence 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,11.58,2024-2025,S2,2025-06-20
+297,1281,Fatou Samb,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,16.68,2024-2025,S2,2025-06-20
+298,1024,Aminata Gaye,Intelligence Artificielle,Licence 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,14.78,2025-2026,S2,2026-06-20
+299,1210,Moussa Sarr,Génie Logiciel,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,16.4,2024-2025,S1,2025-01-15
+300,1101,Awa Diop,Cybersécurité,Master 1,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,15.81,2022-2023,S2,2023-06-20
+301,1111,Modou Cissé,Cybersécurité,Licence 3,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,11.15,2023-2024,S2,2024-06-20
+302,1056,Ibrahima Badji,Intelligence Artificielle,Licence 3,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,12.01,2022-2023,S1,2023-01-15
+303,1064,Oumar Camara,Intelligence Artificielle,Master 2,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,16.19,2025-2026,S2,2026-06-20
+304,1259,Khadija Kane,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,15.75,2025-2026,S2,2026-06-20
+305,1272,Cheikh Faye,Cybersécurité,Master 1,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,13.73,2022-2023,S1,2023-01-15
+306,1222,Jean Samb,Data Engineering,Licence 3,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,14.18,2025-2026,S2,2026-06-20
+307,1091,Binta Sarr,Data Engineering,Licence 1,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,17.89,2023-2024,S1,2024-01-15
+308,1054,Pape Mendy,Intelligence Artificielle,Master 1,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,11.91,2024-2025,S2,2025-06-20
+309,1197,Saliou Samb,Génie Logiciel,Licence 2,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,15.55,2023-2024,S2,2024-06-20
+310,1204,Awa Diallo,Data Engineering,Licence 3,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,13.15,2024-2025,S1,2025-01-15
+311,1069,Rokhaya Faye,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,13.1,2025-2026,S1,2026-01-15
+312,1359,Abdoulaye Seck,Intelligence Artificielle,Licence 2,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,17.32,2024-2025,S1,2025-01-15
+313,1161,Aminata Dramé,Data Engineering,Licence 3,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,16.44,2023-2024,S2,2024-06-20
+314,1108,Adama Ndiaye,Cybersécurité,Master 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,16.4,2024-2025,S1,2025-01-15
+315,1345,Khadija Badji,Intelligence Artificielle,Licence 3,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,17.98,2023-2024,S1,2024-01-15
+316,1278,Modou Ba,Intelligence Artificielle,Licence 2,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,13.87,2024-2025,S2,2025-06-20
+317,1181,Adama Camara,Génie Logiciel,Licence 3,209,Statistiques Inférentielles,3.0,110,Ibrahima Gaye,15.98,2025-2026,S2,2026-06-20
+318,1293,Aminata Badji,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,12.81,2025-2026,S1,2026-01-15
+319,1147,Mariama Badiane,Cybersécurité,Master 2,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,14.84,2022-2023,S1,2023-01-15
+320,1055,Babacar Sarr,Cybersécurité,Master 1,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,13.38,2025-2026,S1,2026-01-15
+321,1028,Khadija Faye,Intelligence Artificielle,Master 1,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,14.11,2022-2023,S1,2023-01-15
+322,1137,Aïssatou Mendy,Data Engineering,Licence 2,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,15.7,2024-2025,S1,2025-01-15
+323,1075,Oumar Sarr,Génie Logiciel,Master 1,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,11.18,2024-2025,S1,2025-01-15
+324,1278,Modou Ba,Intelligence Artificielle,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,20.0,2024-2025,S2,2025-06-20
+325,1053,Moussa Faye,Intelligence Artificielle,Master 2,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,10.58,2023-2024,S2,2024-06-20
+326,1200,Cheikh Gaye,Génie Logiciel,Licence 1,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,9.91,2024-2025,S1,2025-01-15
+327,1196,Aïssatou Sy,Cybersécurité,Licence 1,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,17.51,2025-2026,S1,2026-01-15
+328,1283,Rokhaya Ba,Cybersécurité,Master 1,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,16.33,2022-2023,S1,2023-01-15
+329,1104,Khadija Camara,Cybersécurité,Master 1,210,Business Intelligence & Power BI,3.5,104,Fatou Diop,15.8,2025-2026,S2,2026-06-20
+330,1325,Binta Fall,Data Engineering,Licence 3,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,15.81,2024-2025,S2,2025-06-20
+331,1280,Rokhaya Faye,Cybersécurité,Licence 1,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,13.76,2023-2024,S2,2024-06-20
+332,1151,Rokhaya Cissé,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,10.93,2023-2024,S1,2024-01-15
+333,1096,Babacar Kane,Intelligence Artificielle,Licence 1,203,Big Data & Hadoop/Spark,4.0,107,Aminata Cissé,14.04,2022-2023,S2,2023-06-20
+334,1021,Aïssatou Dramé,Génie Logiciel,Master 2,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,11.63,2024-2025,S1,2025-01-15
+335,1136,Rokhaya Dramé,Intelligence Artificielle,Master 2,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,16.92,2023-2024,S1,2024-01-15
+336,1131,Fatou Mendy,Cybersécurité,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,13.33,2024-2025,S2,2025-06-20
+337,1080,Modou Sow,Cybersécurité,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,11.16,2023-2024,S1,2024-01-15
+338,1306,Ibrahima Diallo,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,12.77,2024-2025,S1,2025-01-15
+339,1294,Moussa Sy,Génie Logiciel,Licence 1,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,15.12,2024-2025,S2,2025-06-20
+340,1163,Binta Badiane,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,12.0,2023-2024,S2,2024-06-20
+341,1267,Pape Diallo,Cybersécurité,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,11.17,2023-2024,S1,2024-01-15
+342,1279,Modou Mendy,Génie Logiciel,Master 1,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,14.58,2025-2026,S1,2026-01-15
+343,1179,Adama Samb,Génie Logiciel,Licence 3,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,14.58,2023-2024,S2,2024-06-20
+344,1170,Fatou Mendy,Génie Logiciel,Licence 3,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,12.18,2024-2025,S1,2025-01-15
+345,1317,Khadija Diallo,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,109,Mariama Ba,12.29,2025-2026,S2,2026-06-20
+346,1333,Cheikh Cissé,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,14.54,2022-2023,S2,2023-06-20
+347,1229,Mariama Badji,Intelligence Artificielle,Licence 2,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,9.17,2023-2024,S2,2024-06-20
+348,1350,Rokhaya Gaye,Cybersécurité,Licence 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,9.3,2025-2026,S1,2026-01-15
+349,1198,Aïssatou Badiane,Génie Logiciel,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,101,Mamadou Diallo,11.5,2024-2025,S1,2025-01-15
+350,1265,Adama Sy,Data Engineering,Master 2,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,13.12,2025-2026,S2,2026-06-20
+351,1023,Rokhaya Badiane,Génie Logiciel,Master 2,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,14.79,2023-2024,S2,2024-06-20
+352,1264,Adama Sow,Intelligence Artificielle,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,18.52,2022-2023,S2,2023-06-20
+353,1276,Adama Faye,Data Engineering,Licence 2,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,16.54,2022-2023,S1,2023-01-15
+354,1108,Adama Ndiaye,Cybersécurité,Master 1,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,13.29,2023-2024,S2,2024-06-20
+355,1054,Pape Mendy,Intelligence Artificielle,Master 1,204,Algorithmique & Python Advanced,3.5,102,Aïssatou Sow,13.74,2025-2026,S1,2026-01-15
+356,1352,Abdoulaye Cissé,Data Engineering,Licence 1,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,10.59,2022-2023,S1,2023-01-15
+357,1170,Fatou Mendy,Génie Logiciel,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,13.74,2022-2023,S2,2023-06-20
+358,1028,Khadija Faye,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,12.88,2024-2025,S1,2025-01-15
+359,1037,Adama Sow,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,14.83,2023-2024,S2,2024-06-20
+360,1209,Moussa Ba,Cybersécurité,Licence 3,207,Architecture Microservices & Cloud,3.0,107,Aminata Cissé,11.15,2025-2026,S2,2026-06-20
+361,1222,Jean Samb,Data Engineering,Licence 3,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,15.46,2022-2023,S1,2023-01-15
+362,1345,Khadija Badji,Intelligence Artificielle,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,18.7,2022-2023,S1,2023-01-15
+363,1033,Moussa Samb,Génie Logiciel,Licence 1,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,13.45,2022-2023,S1,2023-01-15
+364,1184,Fatou Kane,Cybersécurité,Licence 2,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,15.09,2022-2023,S2,2023-06-20
+365,1352,Abdoulaye Cissé,Data Engineering,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,16.01,2022-2023,S2,2023-06-20
+366,1225,Awa Badiane,Génie Logiciel,Master 2,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,12.52,2025-2026,S1,2026-01-15
+367,1243,Aminata Sy,Data Engineering,Licence 2,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,14.52,2023-2024,S2,2024-06-20
+368,1201,Khadija Diallo,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,13.84,2024-2025,S1,2025-01-15
+369,1153,Binta Sarr,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,14.11,2024-2025,S2,2025-06-20
+370,1284,Moussa Diallo,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,11.33,2023-2024,S1,2024-01-15
+371,1022,Abdoulaye Ndiaye,Cybersécurité,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,13.88,2025-2026,S1,2026-01-15
+372,1281,Fatou Samb,Cybersécurité,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,15.39,2024-2025,S1,2025-01-15
+373,1177,Binta Dramé,Génie Logiciel,Licence 1,204,Algorithmique & Python Advanced,3.5,109,Mariama Ba,18.44,2025-2026,S1,2026-01-15
+374,1073,Awa Diop,Cybersécurité,Licence 3,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,16.87,2023-2024,S1,2024-01-15
+375,1316,Abdoulaye Diallo,Intelligence Artificielle,Master 1,205,Data Warehousing & ETL (SSIS),4.0,102,Aïssatou Sow,20.0,2023-2024,S2,2024-06-20
+376,1093,Aminata Badiane,Génie Logiciel,Licence 2,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,11.34,2022-2023,S1,2023-01-15
+377,1237,Mamadou Cissé,Intelligence Artificielle,Licence 3,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,16.59,2022-2023,S2,2023-06-20
+378,1344,Modou Dramé,Génie Logiciel,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,14.39,2024-2025,S1,2025-01-15
+379,1102,Adama Diallo,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,20.0,2025-2026,S2,2026-06-20
+380,1183,Modou Diallo,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,11.21,2023-2024,S2,2024-06-20
+381,1146,Aïssatou Sarr,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,104,Fatou Diop,11.11,2022-2023,S2,2023-06-20
+382,1163,Binta Badiane,Intelligence Artificielle,Licence 1,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,11.88,2025-2026,S2,2026-06-20
+383,1316,Abdoulaye Diallo,Intelligence Artificielle,Master 1,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,7.0,2024-2025,S1,2025-01-15
+384,1079,Moussa Ndiaye,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,12.12,2024-2025,S2,2025-06-20
+385,1220,Saliou Badji,Génie Logiciel,Licence 2,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,11.37,2022-2023,S1,2023-01-15
+386,1127,Mamadou Sy,Intelligence Artificielle,Master 2,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,14.28,2025-2026,S1,2026-01-15
+387,1185,Pape Cissé,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,14.89,2024-2025,S2,2025-06-20
+388,1237,Mamadou Cissé,Intelligence Artificielle,Licence 3,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,19.8,2024-2025,S2,2025-06-20
+389,1250,Cheikh Gaye,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,16.84,2022-2023,S2,2023-06-20
+390,1331,Moussa Camara,Data Engineering,Master 2,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,11.95,2022-2023,S2,2023-06-20
+391,1072,Awa Ba,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,10.93,2023-2024,S2,2024-06-20
+392,1321,Mamadou Faye,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,101,Mamadou Diallo,15.37,2022-2023,S2,2023-06-20
+393,1260,Binta Sarr,Intelligence Artificielle,Licence 2,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,9.58,2022-2023,S1,2023-01-15
+394,1297,Mariama Seck,Data Engineering,Master 2,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,19.66,2023-2024,S2,2024-06-20
+395,1283,Rokhaya Ba,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,17.57,2025-2026,S2,2026-06-20
+396,1188,Cheikh Kane,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,12.3,2023-2024,S2,2024-06-20
+397,1149,Moussa Sow,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,8.32,2025-2026,S2,2026-06-20
+398,1262,Aminata Sy,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,18.13,2025-2026,S1,2026-01-15
+399,1258,Abdoulaye Seck,Intelligence Artificielle,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,13.43,2023-2024,S2,2024-06-20
+400,1351,Fatou Mendy,Génie Logiciel,Master 2,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,17.76,2023-2024,S1,2024-01-15
+401,1082,Saliou Sow,Cybersécurité,Licence 3,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,8.7,2023-2024,S1,2024-01-15
+402,1184,Fatou Kane,Cybersécurité,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,11.88,2023-2024,S2,2024-06-20
+403,1119,Fatou Camara,Cybersécurité,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,13.82,2024-2025,S1,2025-01-15
+404,1120,Rokhaya Touré,Data Engineering,Master 2,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,13.95,2023-2024,S2,2024-06-20
+405,1185,Pape Cissé,Data Engineering,Licence 3,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,12.36,2025-2026,S2,2026-06-20
+406,1024,Aminata Gaye,Intelligence Artificielle,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,15.79,2024-2025,S2,2025-06-20
+407,1267,Pape Diallo,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,10.38,2024-2025,S1,2025-01-15
+408,1297,Mariama Seck,Data Engineering,Master 2,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,13.34,2023-2024,S1,2024-01-15
+409,1335,Cheikh Seck,Génie Logiciel,Master 2,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,14.18,2024-2025,S2,2025-06-20
+410,1335,Cheikh Seck,Génie Logiciel,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,15.45,2024-2025,S1,2025-01-15
+411,1115,Rokhaya Badji,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,106,Babacar Kane,16.08,2025-2026,S1,2026-01-15
+412,1177,Binta Dramé,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,10.2,2025-2026,S2,2026-06-20
+413,1004,Khadija Fall,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,108,Moussa Seck,8.89,2023-2024,S1,2024-01-15
+414,1085,Binta Sy,Cybersécurité,Master 1,204,Algorithmique & Python Advanced,3.5,109,Mariama Ba,17.89,2022-2023,S2,2023-06-20
+415,1330,Adama Fall,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,14.86,2023-2024,S2,2024-06-20
+416,1096,Babacar Kane,Intelligence Artificielle,Licence 1,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,11.4,2024-2025,S2,2025-06-20
+417,1061,Mariama Fall,Cybersécurité,Licence 2,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,18.76,2023-2024,S2,2024-06-20
+418,1170,Fatou Mendy,Génie Logiciel,Licence 3,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,14.17,2022-2023,S2,2023-06-20
+419,1346,Aminata Faye,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,17.57,2025-2026,S2,2026-06-20
+420,1303,Saliou Kane,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,14.02,2025-2026,S1,2026-01-15
+421,1125,Ibrahima Camara,Cybersécurité,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,20.0,2023-2024,S1,2024-01-15
+422,1304,Rokhaya Diop,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,19.42,2023-2024,S1,2024-01-15
+423,1021,Aïssatou Dramé,Génie Logiciel,Master 2,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,13.0,2023-2024,S1,2024-01-15
+424,1086,Jean Sy,Intelligence Artificielle,Master 1,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,16.91,2023-2024,S1,2024-01-15
+425,1208,Cheikh Sow,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,15.87,2022-2023,S1,2023-01-15
+426,1044,Cheikh Ba,Génie Logiciel,Master 1,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,18.18,2025-2026,S2,2026-06-20
+427,1242,Awa Touré,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,10.71,2023-2024,S1,2024-01-15
+428,1211,Abdoulaye Sarr,Intelligence Artificielle,Licence 3,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,16.0,2023-2024,S1,2024-01-15
+429,1094,Adama Faye,Génie Logiciel,Master 2,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,17.19,2024-2025,S1,2025-01-15
+430,1352,Abdoulaye Cissé,Data Engineering,Licence 1,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,8.17,2025-2026,S2,2026-06-20
+431,1303,Saliou Kane,Génie Logiciel,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,10.01,2023-2024,S2,2024-06-20
+432,1198,Aïssatou Badiane,Génie Logiciel,Licence 1,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,7.27,2022-2023,S2,2023-06-20
+433,1104,Khadija Camara,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,12.94,2025-2026,S1,2026-01-15
+434,1311,Fatou Dramé,Cybersécurité,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,16.1,2023-2024,S1,2024-01-15
+435,1315,Modou Cissé,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,18.61,2022-2023,S1,2023-01-15
+436,1258,Abdoulaye Seck,Intelligence Artificielle,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,14.04,2022-2023,S2,2023-06-20
+437,1338,Mamadou Kane,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,107,Aminata Cissé,19.01,2022-2023,S1,2023-01-15
+438,1268,Abdoulaye Samb,Data Engineering,Master 1,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,9.38,2024-2025,S2,2025-06-20
+439,1358,Modou Mendy,Cybersécurité,Licence 2,209,Statistiques Inférentielles,3.0,104,Fatou Diop,8.35,2025-2026,S1,2026-01-15
+440,1247,Babacar Touré,Génie Logiciel,Licence 3,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,13.62,2024-2025,S2,2025-06-20
+441,1357,Oumar Gaye,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,15.03,2022-2023,S2,2023-06-20
+442,1120,Rokhaya Touré,Data Engineering,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,13.7,2024-2025,S1,2025-01-15
+443,1279,Modou Mendy,Génie Logiciel,Master 1,207,Architecture Microservices & Cloud,3.0,104,Fatou Diop,7.18,2024-2025,S1,2025-01-15
+444,1003,Ibrahima Dramé,Génie Logiciel,Master 2,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,13.51,2022-2023,S1,2023-01-15
+445,1268,Abdoulaye Samb,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,9.63,2022-2023,S1,2023-01-15
+446,1336,Aïssatou Diop,Génie Logiciel,Master 1,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,15.94,2024-2025,S2,2025-06-20
+447,1186,Adama Seck,Génie Logiciel,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,14.97,2023-2024,S1,2024-01-15
+448,1334,Saliou Dramé,Data Engineering,Licence 2,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,10.79,2024-2025,S1,2025-01-15
+449,1275,Cheikh Sow,Génie Logiciel,Licence 3,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,12.16,2024-2025,S2,2025-06-20
+450,1142,Ibrahima Dramé,Data Engineering,Licence 3,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,10.41,2025-2026,S1,2026-01-15
+451,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,13.6,2025-2026,S2,2026-06-20
+452,1190,Pape Cissé,Data Engineering,Licence 3,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,16.86,2025-2026,S2,2026-06-20
+453,1158,Fatou Mendy,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,10.65,2024-2025,S2,2025-06-20
+454,1071,Saliou Diop,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,15.41,2022-2023,S2,2023-06-20
+455,1229,Mariama Badji,Intelligence Artificielle,Licence 2,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,12.1,2023-2024,S1,2024-01-15
+456,1110,Jean Seck,Data Engineering,Master 2,209,Statistiques Inférentielles,3.0,106,Babacar Kane,11.26,2025-2026,S1,2026-01-15
+457,1282,Binta Badji,Génie Logiciel,Licence 2,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,13.46,2022-2023,S1,2023-01-15
+458,1200,Cheikh Gaye,Génie Logiciel,Licence 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,10.49,2022-2023,S1,2023-01-15
+459,1075,Oumar Sarr,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,12.03,2025-2026,S1,2026-01-15
+460,1033,Moussa Samb,Génie Logiciel,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,9.97,2023-2024,S2,2024-06-20
+461,1041,Pape Camara,Cybersécurité,Licence 3,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,20.0,2022-2023,S1,2023-01-15
+462,1206,Aïssatou Gaye,Data Engineering,Master 1,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,13.91,2024-2025,S1,2025-01-15
+463,1030,Aminata Diop,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,11.56,2025-2026,S2,2026-06-20
+464,1006,Rokhaya Sow,Data Engineering,Master 1,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,14.48,2024-2025,S1,2025-01-15
+465,1018,Khadija Ndiaye,Data Engineering,Master 2,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,13.44,2023-2024,S2,2024-06-20
+466,1087,Awa Sow,Intelligence Artificielle,Licence 3,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,13.09,2022-2023,S1,2023-01-15
+467,1123,Pape Sy,Cybersécurité,Master 2,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,15.77,2022-2023,S1,2023-01-15
+468,1181,Adama Camara,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,16.22,2025-2026,S1,2026-01-15
+469,1301,Saliou Diallo,Data Engineering,Master 2,204,Algorithmique & Python Advanced,3.5,102,Aïssatou Sow,12.1,2022-2023,S1,2023-01-15
+470,1047,Oumar Faye,Intelligence Artificielle,Licence 2,209,Statistiques Inférentielles,3.0,109,Mariama Ba,11.96,2024-2025,S1,2025-01-15
+471,1299,Jean Sy,Data Engineering,Licence 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,12.92,2024-2025,S2,2025-06-20
+472,1116,Oumar Diop,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,6.43,2023-2024,S2,2024-06-20
+473,1207,Fatou Gaye,Intelligence Artificielle,Licence 3,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,8.95,2022-2023,S1,2023-01-15
+474,1090,Ibrahima Mendy,Génie Logiciel,Licence 3,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,18.17,2022-2023,S2,2023-06-20
+475,1038,Moussa Ndiaye,Génie Logiciel,Licence 3,209,Statistiques Inférentielles,3.0,106,Babacar Kane,19.06,2024-2025,S1,2025-01-15
+476,1060,Saliou Faye,Génie Logiciel,Master 1,209,Statistiques Inférentielles,3.0,109,Mariama Ba,13.0,2024-2025,S1,2025-01-15
+477,1295,Adama Dramé,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,15.64,2025-2026,S2,2026-06-20
+478,1289,Binta Cissé,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,14.8,2023-2024,S2,2024-06-20
+479,1235,Cheikh Diop,Data Engineering,Master 1,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,20.0,2025-2026,S2,2026-06-20
+480,1015,Abdoulaye Dramé,Intelligence Artificielle,Master 2,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,17.38,2022-2023,S2,2023-06-20
+481,1035,Saliou Badiane,Intelligence Artificielle,Licence 3,207,Architecture Microservices & Cloud,3.0,104,Fatou Diop,13.39,2023-2024,S2,2024-06-20
+482,1162,Aïssatou Sow,Intelligence Artificielle,Licence 2,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,10.74,2024-2025,S2,2025-06-20
+483,1275,Cheikh Sow,Génie Logiciel,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,8.66,2024-2025,S1,2025-01-15
+484,1148,Aminata Fall,Cybersécurité,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,14.45,2025-2026,S1,2026-01-15
+485,1039,Ibrahima Samb,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,108,Moussa Seck,11.38,2023-2024,S1,2024-01-15
+486,1161,Aminata Dramé,Data Engineering,Licence 3,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,9.25,2023-2024,S2,2024-06-20
+487,1138,Oumar Cissé,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,11.73,2023-2024,S2,2024-06-20
+488,1103,Saliou Camara,Data Engineering,Licence 2,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,10.34,2023-2024,S2,2024-06-20
+489,1106,Rokhaya Diop,Data Engineering,Master 1,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,19.2,2023-2024,S2,2024-06-20
+490,1317,Khadija Diallo,Cybersécurité,Licence 3,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,16.62,2023-2024,S1,2024-01-15
+491,1062,Oumar Badji,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,13.77,2025-2026,S2,2026-06-20
+492,1004,Khadija Fall,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,108,Moussa Seck,18.54,2022-2023,S1,2023-01-15
+493,1191,Modou Samb,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,14.05,2024-2025,S2,2025-06-20
+494,1094,Adama Faye,Génie Logiciel,Master 2,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,11.04,2024-2025,S1,2025-01-15
+495,1114,Saliou Badiane,Cybersécurité,Licence 2,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,18.67,2023-2024,S1,2024-01-15
+496,1270,Saliou Kane,Data Engineering,Licence 1,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,15.52,2025-2026,S2,2026-06-20
+497,1017,Pape Camara,Génie Logiciel,Master 2,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,10.48,2024-2025,S2,2025-06-20
+498,1352,Abdoulaye Cissé,Data Engineering,Licence 1,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,13.19,2025-2026,S2,2026-06-20
+499,1358,Modou Mendy,Cybersécurité,Licence 2,209,Statistiques Inférentielles,3.0,106,Babacar Kane,11.0,2025-2026,S2,2026-06-20
+500,1353,Modou Kane,Intelligence Artificielle,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,9.38,2022-2023,S1,2023-01-15
+501,1195,Rokhaya Sarr,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,16.76,2022-2023,S2,2023-06-20
+502,1186,Adama Seck,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,19.91,2024-2025,S1,2025-01-15
+503,1281,Fatou Samb,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,9.32,2023-2024,S2,2024-06-20
+504,1242,Awa Touré,Génie Logiciel,Licence 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,15.6,2024-2025,S2,2025-06-20
+505,1095,Aïssatou Badiane,Intelligence Artificielle,Master 2,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,11.72,2025-2026,S1,2026-01-15
+506,1215,Moussa Sow,Intelligence Artificielle,Licence 3,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,12.24,2024-2025,S2,2025-06-20
+507,1206,Aïssatou Gaye,Data Engineering,Master 1,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,11.9,2025-2026,S2,2026-06-20
+508,1293,Aminata Badji,Data Engineering,Licence 1,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,11.04,2023-2024,S2,2024-06-20
+509,1139,Aïssatou Sarr,Data Engineering,Master 1,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,13.96,2025-2026,S1,2026-01-15
+510,1101,Awa Diop,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,11.14,2023-2024,S1,2024-01-15
+511,1005,Mamadou Gaye,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,14.67,2025-2026,S1,2026-01-15
+512,1069,Rokhaya Faye,Génie Logiciel,Master 1,211,DevOps & Docker/Kubernetes,3.0,108,Moussa Seck,13.64,2024-2025,S2,2025-06-20
+513,1154,Modou Ndiaye,Data Engineering,Master 2,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,13.04,2022-2023,S1,2023-01-15
+514,1051,Adama Cissé,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,101,Mamadou Diallo,10.9,2023-2024,S1,2024-01-15
+515,1111,Modou Cissé,Cybersécurité,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,102,Aïssatou Sow,11.95,2025-2026,S2,2026-06-20
+516,1231,Fatou Seck,Intelligence Artificielle,Licence 2,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,16.22,2024-2025,S2,2025-06-20
+517,1185,Pape Cissé,Data Engineering,Licence 3,206,Machine Learning & Deep Learning,4.0,106,Babacar Kane,15.4,2024-2025,S1,2025-01-15
+518,1011,Moussa Camara,Génie Logiciel,Master 2,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,10.67,2022-2023,S2,2023-06-20
+519,1348,Moussa Gaye,Cybersécurité,Master 2,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,14.12,2023-2024,S2,2024-06-20
+520,1295,Adama Dramé,Cybersécurité,Master 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,16.2,2023-2024,S1,2024-01-15
+521,1182,Jean Ndiaye,Cybersécurité,Licence 2,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,8.46,2025-2026,S2,2026-06-20
+522,1041,Pape Camara,Cybersécurité,Licence 3,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,15.54,2024-2025,S1,2025-01-15
+523,1324,Pape Sy,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,11.68,2023-2024,S1,2024-01-15
+524,1216,Khadija Mendy,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,15.63,2025-2026,S1,2026-01-15
+525,1041,Pape Camara,Cybersécurité,Licence 3,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,11.36,2024-2025,S2,2025-06-20
+526,1161,Aminata Dramé,Data Engineering,Licence 3,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,8.02,2024-2025,S1,2025-01-15
+527,1310,Abdoulaye Faye,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,8.59,2025-2026,S1,2026-01-15
+528,1228,Modou Dramé,Intelligence Artificielle,Licence 3,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,13.95,2025-2026,S2,2026-06-20
+529,1086,Jean Sy,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,14.63,2022-2023,S1,2023-01-15
+530,1121,Aïssatou Gaye,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,10.91,2024-2025,S1,2025-01-15
+531,1108,Adama Ndiaye,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,15.84,2025-2026,S1,2026-01-15
+532,1049,Babacar Fall,Cybersécurité,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,109,Mariama Ba,8.48,2025-2026,S2,2026-06-20
+533,1028,Khadija Faye,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,13.59,2025-2026,S1,2026-01-15
+534,1043,Rokhaya Sow,Cybersécurité,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,9.92,2024-2025,S1,2025-01-15
+535,1080,Modou Sow,Cybersécurité,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,105,Ousmane Faye,11.71,2025-2026,S1,2026-01-15
+536,1118,Abdoulaye Samb,Data Engineering,Licence 2,204,Algorithmique & Python Advanced,3.5,108,Moussa Seck,13.95,2024-2025,S1,2025-01-15
+537,1321,Mamadou Faye,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,11.05,2023-2024,S1,2024-01-15
+538,1088,Rokhaya Cissé,Génie Logiciel,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,12.57,2022-2023,S1,2023-01-15
+539,1167,Fatou Gaye,Cybersécurité,Master 2,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,17.02,2025-2026,S2,2026-06-20
+540,1140,Abdoulaye Sow,Génie Logiciel,Licence 3,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,11.95,2025-2026,S2,2026-06-20
+541,1358,Modou Mendy,Cybersécurité,Licence 2,209,Statistiques Inférentielles,3.0,110,Ibrahima Gaye,16.47,2023-2024,S1,2024-01-15
+542,1306,Ibrahima Diallo,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,10.18,2025-2026,S1,2026-01-15
+543,1328,Mariama Diallo,Génie Logiciel,Licence 2,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,15.5,2024-2025,S1,2025-01-15
+544,1247,Babacar Touré,Génie Logiciel,Licence 3,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,18.41,2023-2024,S2,2024-06-20
+545,1227,Aminata Gaye,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,5.89,2024-2025,S2,2025-06-20
+546,1134,Cheikh Badji,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,11.25,2024-2025,S1,2025-01-15
+547,1001,Ibrahima Cissé,Intelligence Artificielle,Licence 2,209,Statistiques Inférentielles,3.0,106,Babacar Kane,15.65,2023-2024,S1,2024-01-15
+548,1147,Mariama Badiane,Cybersécurité,Master 2,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,13.15,2022-2023,S1,2023-01-15
+549,1245,Pape Sarr,Génie Logiciel,Master 2,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,14.99,2022-2023,S1,2023-01-15
+550,1150,Rokhaya Badiane,Intelligence Artificielle,Master 1,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,11.87,2023-2024,S2,2024-06-20
+551,1281,Fatou Samb,Cybersécurité,Master 1,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,14.08,2023-2024,S2,2024-06-20
+552,1288,Rokhaya Sow,Intelligence Artificielle,Licence 3,207,Architecture Microservices & Cloud,3.0,104,Fatou Diop,13.3,2025-2026,S1,2026-01-15
+553,1084,Pape Fall,Génie Logiciel,Licence 1,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,17.54,2025-2026,S1,2026-01-15
+554,1113,Awa Gaye,Cybersécurité,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,14.61,2022-2023,S2,2023-06-20
+555,1321,Mamadou Faye,Data Engineering,Master 1,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,14.88,2024-2025,S1,2025-01-15
+556,1333,Cheikh Cissé,Intelligence Artificielle,Master 1,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,12.48,2024-2025,S1,2025-01-15
+557,1097,Aïssatou Fall,Cybersécurité,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,12.24,2023-2024,S1,2024-01-15
+558,1149,Moussa Sow,Data Engineering,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,12.42,2025-2026,S2,2026-06-20
+559,1097,Aïssatou Fall,Cybersécurité,Master 2,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,15.06,2022-2023,S1,2023-01-15
+560,1026,Cheikh Faye,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,12.45,2022-2023,S1,2023-01-15
+561,1053,Moussa Faye,Intelligence Artificielle,Master 2,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,14.73,2024-2025,S1,2025-01-15
+562,1225,Awa Badiane,Génie Logiciel,Master 2,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,20.0,2022-2023,S1,2023-01-15
+563,1047,Oumar Faye,Intelligence Artificielle,Licence 2,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,16.59,2022-2023,S1,2023-01-15
+564,1112,Abdoulaye Sy,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,12.76,2025-2026,S1,2026-01-15
+565,1256,Aminata Mendy,Data Engineering,Licence 3,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,17.64,2025-2026,S2,2026-06-20
+566,1170,Fatou Mendy,Génie Logiciel,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,101,Mamadou Diallo,12.49,2023-2024,S1,2024-01-15
+567,1137,Aïssatou Mendy,Data Engineering,Licence 2,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,7.28,2022-2023,S2,2023-06-20
+568,1241,Mariama Diallo,Cybersécurité,Master 2,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,10.57,2023-2024,S2,2024-06-20
+569,1196,Aïssatou Sy,Cybersécurité,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,7.81,2022-2023,S2,2023-06-20
+570,1198,Aïssatou Badiane,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,12.68,2023-2024,S2,2024-06-20
+571,1102,Adama Diallo,Intelligence Artificielle,Licence 1,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,13.86,2022-2023,S2,2023-06-20
+572,1341,Awa Cissé,Intelligence Artificielle,Master 2,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,19.16,2025-2026,S2,2026-06-20
+573,1349,Saliou Diallo,Data Engineering,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,14.85,2024-2025,S2,2025-06-20
+574,1323,Aminata Dramé,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,13.1,2022-2023,S1,2023-01-15
+575,1267,Pape Diallo,Cybersécurité,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,16.45,2024-2025,S1,2025-01-15
+576,1327,Fatou Sow,Data Engineering,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,6.72,2023-2024,S2,2024-06-20
+577,1027,Fatou Diop,Data Engineering,Licence 2,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,14.55,2023-2024,S2,2024-06-20
+578,1121,Aïssatou Gaye,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,16.27,2025-2026,S1,2026-01-15
+579,1008,Mamadou Cissé,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,9.07,2024-2025,S1,2025-01-15
+580,1062,Oumar Badji,Data Engineering,Master 1,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,17.46,2023-2024,S2,2024-06-20
+581,1022,Abdoulaye Ndiaye,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,14.88,2025-2026,S2,2026-06-20
+582,1080,Modou Sow,Cybersécurité,Licence 2,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,12.47,2022-2023,S2,2023-06-20
+583,1081,Saliou Faye,Intelligence Artificielle,Licence 3,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,15.82,2022-2023,S2,2023-06-20
+584,1174,Binta Gaye,Cybersécurité,Licence 3,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,20.0,2022-2023,S1,2023-01-15
+585,1183,Modou Diallo,Data Engineering,Master 1,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,14.38,2023-2024,S1,2024-01-15
+586,1055,Babacar Sarr,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,14.59,2025-2026,S2,2026-06-20
+587,1163,Binta Badiane,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,108,Moussa Seck,12.33,2024-2025,S2,2025-06-20
+588,1099,Rokhaya Cissé,Génie Logiciel,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,11.08,2025-2026,S1,2026-01-15
+589,1069,Rokhaya Faye,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,16.46,2022-2023,S1,2023-01-15
+590,1225,Awa Badiane,Génie Logiciel,Master 2,209,Statistiques Inférentielles,3.0,109,Mariama Ba,11.06,2024-2025,S1,2025-01-15
+591,1357,Oumar Gaye,Cybersécurité,Licence 1,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,14.03,2023-2024,S2,2024-06-20
+592,1096,Babacar Kane,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,106,Babacar Kane,12.27,2024-2025,S2,2025-06-20
+593,1240,Pape Diallo,Cybersécurité,Master 2,205,Data Warehousing & ETL (SSIS),4.0,102,Aïssatou Sow,15.33,2023-2024,S1,2024-01-15
+594,1272,Cheikh Faye,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,14.87,2025-2026,S2,2026-06-20
+595,1135,Awa Ndiaye,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,108,Moussa Seck,17.12,2024-2025,S2,2025-06-20
+596,1095,Aïssatou Badiane,Intelligence Artificielle,Master 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,12.17,2024-2025,S2,2025-06-20
+597,1123,Pape Sy,Cybersécurité,Master 2,206,Machine Learning & Deep Learning,4.0,109,Mariama Ba,12.94,2022-2023,S2,2023-06-20
+598,1199,Aminata Touré,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,109,Mariama Ba,10.67,2025-2026,S2,2026-06-20
+599,1079,Moussa Ndiaye,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,12.38,2024-2025,S1,2025-01-15
+600,1210,Moussa Sarr,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,15.01,2024-2025,S2,2025-06-20
+601,1050,Mamadou Samb,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,101,Mamadou Diallo,16.22,2022-2023,S2,2023-06-20
+602,1067,Abdoulaye Badji,Cybersécurité,Licence 1,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,10.85,2022-2023,S1,2023-01-15
+603,1055,Babacar Sarr,Cybersécurité,Master 1,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,16.58,2023-2024,S2,2024-06-20
+604,1017,Pape Camara,Génie Logiciel,Master 2,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,18.14,2025-2026,S1,2026-01-15
+605,1270,Saliou Kane,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,15.12,2024-2025,S1,2025-01-15
+606,1188,Cheikh Kane,Cybersécurité,Master 1,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,19.81,2022-2023,S2,2023-06-20
+607,1107,Pape Diop,Data Engineering,Master 2,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,11.32,2025-2026,S2,2026-06-20
+608,1240,Pape Diallo,Cybersécurité,Master 2,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,9.82,2022-2023,S1,2023-01-15
+609,1286,Fatou Kane,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,8.11,2025-2026,S1,2026-01-15
+610,1030,Aminata Diop,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,18.59,2024-2025,S1,2025-01-15
+611,1021,Aïssatou Dramé,Génie Logiciel,Master 2,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,15.89,2022-2023,S2,2023-06-20
+612,1040,Modou Badji,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,102,Aïssatou Sow,13.62,2022-2023,S2,2023-06-20
+613,1119,Fatou Camara,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,104,Fatou Diop,14.7,2025-2026,S1,2026-01-15
+614,1099,Rokhaya Cissé,Génie Logiciel,Licence 2,209,Statistiques Inférentielles,3.0,110,Ibrahima Gaye,10.2,2023-2024,S2,2024-06-20
+615,1321,Mamadou Faye,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,20.0,2025-2026,S1,2026-01-15
+616,1327,Fatou Sow,Data Engineering,Licence 3,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,14.21,2024-2025,S2,2025-06-20
+617,1360,Moussa Kane,Data Engineering,Licence 2,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,14.15,2025-2026,S1,2026-01-15
+618,1086,Jean Sy,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,16.12,2025-2026,S1,2026-01-15
+619,1173,Saliou Badiane,Cybersécurité,Master 2,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,15.34,2023-2024,S1,2024-01-15
+620,1308,Modou Camara,Cybersécurité,Licence 2,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,14.52,2024-2025,S2,2025-06-20
+621,1282,Binta Badji,Génie Logiciel,Licence 2,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,11.27,2024-2025,S2,2025-06-20
+622,1325,Binta Fall,Data Engineering,Licence 3,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,15.31,2024-2025,S2,2025-06-20
+623,1124,Adama Diop,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,19.82,2023-2024,S2,2024-06-20
+624,1282,Binta Badji,Génie Logiciel,Licence 2,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,18.11,2024-2025,S1,2025-01-15
+625,1232,Binta Mendy,Data Engineering,Licence 1,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,18.9,2025-2026,S1,2026-01-15
+626,1018,Khadija Ndiaye,Data Engineering,Master 2,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,12.16,2022-2023,S1,2023-01-15
+627,1070,Fatou Diop,Cybersécurité,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,10.63,2022-2023,S1,2023-01-15
+628,1114,Saliou Badiane,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,13.4,2024-2025,S2,2025-06-20
+629,1354,Cheikh Gaye,Génie Logiciel,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,102,Aïssatou Sow,13.98,2023-2024,S1,2024-01-15
+630,1020,Moussa Touré,Génie Logiciel,Licence 2,208,Sécurité des Systèmes d'Information,3.0,103,Cheikh Ndiaye,17.3,2024-2025,S2,2025-06-20
+631,1071,Saliou Diop,Data Engineering,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,110,Ibrahima Gaye,8.38,2024-2025,S2,2025-06-20
+632,1128,Awa Diop,Data Engineering,Master 2,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,18.69,2024-2025,S1,2025-01-15
+633,1048,Oumar Touré,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,13.29,2025-2026,S1,2026-01-15
+634,1112,Abdoulaye Sy,Génie Logiciel,Master 1,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,12.43,2022-2023,S2,2023-06-20
+635,1248,Binta Kane,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,10.56,2025-2026,S2,2026-06-20
+636,1049,Babacar Fall,Cybersécurité,Licence 3,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,8.5,2024-2025,S1,2025-01-15
+637,1296,Pape Fall,Intelligence Artificielle,Master 2,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,16.43,2022-2023,S2,2023-06-20
+638,1172,Khadija Kane,Génie Logiciel,Licence 1,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,14.03,2025-2026,S1,2026-01-15
+639,1062,Oumar Badji,Data Engineering,Master 1,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,9.67,2022-2023,S1,2023-01-15
+640,1028,Khadija Faye,Intelligence Artificielle,Master 1,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,9.66,2022-2023,S1,2023-01-15
+641,1277,Aminata Dramé,Génie Logiciel,Licence 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,12.73,2023-2024,S1,2024-01-15
+642,1258,Abdoulaye Seck,Intelligence Artificielle,Licence 2,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,19.14,2023-2024,S2,2024-06-20
+643,1026,Cheikh Faye,Cybersécurité,Master 1,211,DevOps & Docker/Kubernetes,3.0,108,Moussa Seck,12.97,2025-2026,S1,2026-01-15
+644,1305,Aminata Ndiaye,Data Engineering,Master 1,210,Business Intelligence & Power BI,3.5,104,Fatou Diop,8.99,2022-2023,S2,2023-06-20
+645,1222,Jean Samb,Data Engineering,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,13.01,2025-2026,S1,2026-01-15
+646,1068,Mamadou Badiane,Cybersécurité,Licence 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,12.93,2022-2023,S2,2023-06-20
+647,1293,Aminata Badji,Data Engineering,Licence 1,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,5.17,2022-2023,S1,2023-01-15
+648,1205,Fatou Diop,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,13.63,2022-2023,S2,2023-06-20
+649,1257,Pape Badji,Cybersécurité,Licence 2,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,13.06,2023-2024,S1,2024-01-15
+650,1250,Cheikh Gaye,Cybersécurité,Licence 3,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,16.03,2023-2024,S2,2024-06-20
+651,1316,Abdoulaye Diallo,Intelligence Artificielle,Master 1,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,19.72,2023-2024,S2,2024-06-20
+652,1037,Adama Sow,Data Engineering,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,17.41,2025-2026,S1,2026-01-15
+653,1351,Fatou Mendy,Génie Logiciel,Master 2,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,12.94,2022-2023,S2,2023-06-20
+654,1344,Modou Dramé,Génie Logiciel,Licence 2,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,10.26,2025-2026,S1,2026-01-15
+655,1179,Adama Samb,Génie Logiciel,Licence 3,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,20.0,2024-2025,S2,2025-06-20
+656,1305,Aminata Ndiaye,Data Engineering,Master 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,13.99,2022-2023,S1,2023-01-15
+657,1087,Awa Sow,Intelligence Artificielle,Licence 3,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,13.84,2025-2026,S2,2026-06-20
+658,1075,Oumar Sarr,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,13.72,2022-2023,S1,2023-01-15
+659,1103,Saliou Camara,Data Engineering,Licence 2,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,14.43,2024-2025,S2,2025-06-20
+660,1044,Cheikh Ba,Génie Logiciel,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,13.34,2022-2023,S1,2023-01-15
+661,1318,Fatou Sy,Cybersécurité,Licence 3,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,11.96,2024-2025,S1,2025-01-15
+662,1176,Adama Gaye,Cybersécurité,Master 1,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,12.05,2022-2023,S2,2023-06-20
+663,1231,Fatou Seck,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,13.7,2022-2023,S1,2023-01-15
+664,1108,Adama Ndiaye,Cybersécurité,Master 1,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,12.06,2023-2024,S2,2024-06-20
+665,1280,Rokhaya Faye,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,109,Mariama Ba,11.52,2024-2025,S1,2025-01-15
+666,1248,Binta Kane,Intelligence Artificielle,Master 1,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,14.14,2023-2024,S1,2024-01-15
+667,1193,Mariama Diallo,Intelligence Artificielle,Licence 2,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,12.98,2022-2023,S1,2023-01-15
+668,1088,Rokhaya Cissé,Génie Logiciel,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,18.61,2024-2025,S1,2025-01-15
+669,1357,Oumar Gaye,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,5.32,2024-2025,S1,2025-01-15
+670,1239,Pape Dramé,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,17.29,2022-2023,S1,2023-01-15
+671,1199,Aminata Touré,Cybersécurité,Licence 3,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,17.79,2024-2025,S1,2025-01-15
+672,1056,Ibrahima Badji,Intelligence Artificielle,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,107,Aminata Cissé,7.17,2024-2025,S1,2025-01-15
+673,1119,Fatou Camara,Cybersécurité,Licence 1,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,12.7,2022-2023,S2,2023-06-20
+674,1249,Saliou Cissé,Cybersécurité,Master 1,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,12.61,2022-2023,S2,2023-06-20
+675,1102,Adama Diallo,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,109,Mariama Ba,9.3,2025-2026,S2,2026-06-20
+676,1012,Modou Sow,Intelligence Artificielle,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,11.31,2023-2024,S2,2024-06-20
+677,1157,Aïssatou Sy,Data Engineering,Master 2,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,10.25,2025-2026,S2,2026-06-20
+678,1081,Saliou Faye,Intelligence Artificielle,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,19.41,2024-2025,S2,2025-06-20
+679,1182,Jean Ndiaye,Cybersécurité,Licence 2,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,16.79,2024-2025,S1,2025-01-15
+680,1257,Pape Badji,Cybersécurité,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,17.87,2022-2023,S1,2023-01-15
+681,1199,Aminata Touré,Cybersécurité,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,16.11,2024-2025,S1,2025-01-15
+682,1078,Adama Mendy,Data Engineering,Master 2,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,10.19,2025-2026,S1,2026-01-15
+683,1045,Cheikh Ba,Génie Logiciel,Licence 2,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,12.12,2025-2026,S1,2026-01-15
+684,1214,Binta Mendy,Génie Logiciel,Licence 1,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,15.37,2023-2024,S1,2024-01-15
+685,1160,Cheikh Seck,Intelligence Artificielle,Licence 3,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,9.89,2024-2025,S2,2025-06-20
+686,1278,Modou Ba,Intelligence Artificielle,Licence 2,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,16.08,2023-2024,S2,2024-06-20
+687,1298,Awa Ndiaye,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,13.03,2023-2024,S2,2024-06-20
+688,1159,Ibrahima Sarr,Data Engineering,Master 2,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,12.6,2023-2024,S1,2024-01-15
+689,1075,Oumar Sarr,Génie Logiciel,Master 1,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,16.08,2023-2024,S1,2024-01-15
+690,1035,Saliou Badiane,Intelligence Artificielle,Licence 3,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,15.22,2022-2023,S2,2023-06-20
+691,1163,Binta Badiane,Intelligence Artificielle,Licence 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,12.64,2022-2023,S1,2023-01-15
+692,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,17.51,2024-2025,S1,2025-01-15
+693,1327,Fatou Sow,Data Engineering,Licence 3,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,10.34,2024-2025,S1,2025-01-15
+694,1095,Aïssatou Badiane,Intelligence Artificielle,Master 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,15.77,2024-2025,S1,2025-01-15
+695,1291,Mamadou Sy,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,15.7,2023-2024,S2,2024-06-20
+696,1119,Fatou Camara,Cybersécurité,Licence 1,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,12.81,2022-2023,S1,2023-01-15
+697,1041,Pape Camara,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,14.84,2025-2026,S2,2026-06-20
+698,1258,Abdoulaye Seck,Intelligence Artificielle,Licence 2,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,9.8,2025-2026,S2,2026-06-20
+699,1095,Aïssatou Badiane,Intelligence Artificielle,Master 2,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,16.76,2025-2026,S2,2026-06-20
+700,1071,Saliou Diop,Data Engineering,Licence 1,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,13.21,2023-2024,S2,2024-06-20
+701,1017,Pape Camara,Génie Logiciel,Master 2,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,12.13,2022-2023,S1,2023-01-15
+702,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,17.16,2023-2024,S2,2024-06-20
+703,1034,Saliou Cissé,Génie Logiciel,Master 2,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,11.55,2025-2026,S2,2026-06-20
+704,1251,Awa Badji,Génie Logiciel,Licence 1,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,9.29,2024-2025,S2,2025-06-20
+705,1127,Mamadou Sy,Intelligence Artificielle,Master 2,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,8.82,2025-2026,S1,2026-01-15
+706,1312,Oumar Badji,Génie Logiciel,Master 1,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,15.74,2025-2026,S1,2026-01-15
+707,1202,Babacar Mendy,Data Engineering,Licence 2,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,9.7,2022-2023,S1,2023-01-15
+708,1056,Ibrahima Badji,Intelligence Artificielle,Licence 3,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,19.42,2025-2026,S2,2026-06-20
+709,1126,Aïssatou Mendy,Intelligence Artificielle,Master 1,209,Statistiques Inférentielles,3.0,101,Mamadou Diallo,7.14,2025-2026,S1,2026-01-15
+710,1286,Fatou Kane,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,104,Fatou Diop,19.23,2022-2023,S1,2023-01-15
+711,1150,Rokhaya Badiane,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,14.48,2025-2026,S1,2026-01-15
+712,1147,Mariama Badiane,Cybersécurité,Master 2,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,13.49,2023-2024,S1,2024-01-15
+713,1151,Rokhaya Cissé,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,12.06,2022-2023,S1,2023-01-15
+714,1073,Awa Diop,Cybersécurité,Licence 3,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,15.08,2025-2026,S2,2026-06-20
+715,1257,Pape Badji,Cybersécurité,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,13.68,2023-2024,S1,2024-01-15
+716,1357,Oumar Gaye,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,17.33,2023-2024,S1,2024-01-15
+717,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,14.17,2025-2026,S2,2026-06-20
+718,1092,Aminata Seck,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,14.28,2023-2024,S2,2024-06-20
+719,1047,Oumar Faye,Intelligence Artificielle,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,12.64,2024-2025,S2,2025-06-20
+720,1064,Oumar Camara,Intelligence Artificielle,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,13.62,2022-2023,S2,2023-06-20
+721,1325,Binta Fall,Data Engineering,Licence 3,206,Machine Learning & Deep Learning,4.0,109,Mariama Ba,14.78,2022-2023,S2,2023-06-20
+722,1197,Saliou Samb,Génie Logiciel,Licence 2,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,8.33,2023-2024,S1,2024-01-15
+723,1282,Binta Badji,Génie Logiciel,Licence 2,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,9.49,2022-2023,S1,2023-01-15
+724,1172,Khadija Kane,Génie Logiciel,Licence 1,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,16.18,2023-2024,S1,2024-01-15
+725,1075,Oumar Sarr,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,107,Aminata Cissé,14.35,2022-2023,S1,2023-01-15
+726,1158,Fatou Mendy,Intelligence Artificielle,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,13.21,2025-2026,S2,2026-06-20
+727,1321,Mamadou Faye,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,13.86,2022-2023,S2,2023-06-20
+728,1104,Khadija Camara,Cybersécurité,Master 1,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,14.91,2024-2025,S1,2025-01-15
+729,1235,Cheikh Diop,Data Engineering,Master 1,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,12.07,2025-2026,S2,2026-06-20
+730,1003,Ibrahima Dramé,Génie Logiciel,Master 2,210,Business Intelligence & Power BI,3.5,104,Fatou Diop,11.31,2025-2026,S2,2026-06-20
+731,1112,Abdoulaye Sy,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,14.43,2025-2026,S2,2026-06-20
+732,1210,Moussa Sarr,Génie Logiciel,Licence 3,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,10.67,2022-2023,S2,2023-06-20
+733,1308,Modou Camara,Cybersécurité,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,15.11,2023-2024,S2,2024-06-20
+734,1143,Babacar Badji,Génie Logiciel,Licence 2,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,8.35,2023-2024,S2,2024-06-20
+735,1095,Aïssatou Badiane,Intelligence Artificielle,Master 2,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,17.09,2022-2023,S1,2023-01-15
+736,1019,Jean Ndiaye,Génie Logiciel,Licence 1,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,15.31,2022-2023,S1,2023-01-15
+737,1309,Jean Fall,Cybersécurité,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,102,Aïssatou Sow,14.62,2024-2025,S2,2025-06-20
+738,1026,Cheikh Faye,Cybersécurité,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,16.94,2025-2026,S1,2026-01-15
+739,1083,Babacar Touré,Intelligence Artificielle,Licence 3,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,19.13,2024-2025,S1,2025-01-15
+740,1339,Moussa Seck,Data Engineering,Licence 2,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,17.05,2023-2024,S1,2024-01-15
+741,1297,Mariama Seck,Data Engineering,Master 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,7.91,2022-2023,S1,2023-01-15
+742,1154,Modou Ndiaye,Data Engineering,Master 2,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,9.71,2024-2025,S2,2025-06-20
+743,1035,Saliou Badiane,Intelligence Artificielle,Licence 3,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,11.8,2022-2023,S2,2023-06-20
+744,1242,Awa Touré,Génie Logiciel,Licence 1,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,13.88,2022-2023,S2,2023-06-20
+745,1169,Mariama Faye,Génie Logiciel,Master 1,209,Statistiques Inférentielles,3.0,109,Mariama Ba,15.46,2025-2026,S1,2026-01-15
+746,1314,Cheikh Gaye,Intelligence Artificielle,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,11.48,2022-2023,S2,2023-06-20
+747,1323,Aminata Dramé,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,108,Moussa Seck,14.4,2022-2023,S2,2023-06-20
+748,1353,Modou Kane,Intelligence Artificielle,Licence 2,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,11.38,2024-2025,S1,2025-01-15
+749,1312,Oumar Badji,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,109,Mariama Ba,11.84,2024-2025,S1,2025-01-15
+750,1295,Adama Dramé,Cybersécurité,Master 1,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,9.3,2024-2025,S2,2025-06-20
+751,1315,Modou Cissé,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,10.85,2025-2026,S2,2026-06-20
+752,1324,Pape Sy,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,103,Cheikh Ndiaye,9.47,2025-2026,S2,2026-06-20
+753,1313,Modou Touré,Data Engineering,Licence 2,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,10.68,2024-2025,S1,2025-01-15
+754,1001,Ibrahima Cissé,Intelligence Artificielle,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,17.17,2022-2023,S1,2023-01-15
+755,1321,Mamadou Faye,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,10.76,2023-2024,S2,2024-06-20
+756,1213,Mamadou Samb,Data Engineering,Licence 3,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,20.0,2022-2023,S1,2023-01-15
+757,1180,Adama Diallo,Data Engineering,Licence 3,209,Statistiques Inférentielles,3.0,101,Mamadou Diallo,15.38,2023-2024,S2,2024-06-20
+758,1328,Mariama Diallo,Génie Logiciel,Licence 2,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,14.39,2024-2025,S1,2025-01-15
+759,1035,Saliou Badiane,Intelligence Artificielle,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,11.05,2024-2025,S1,2025-01-15
+760,1282,Binta Badji,Génie Logiciel,Licence 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,16.04,2022-2023,S1,2023-01-15
+761,1352,Abdoulaye Cissé,Data Engineering,Licence 1,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,11.96,2024-2025,S2,2025-06-20
+762,1292,Abdoulaye Touré,Génie Logiciel,Licence 3,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,14.19,2022-2023,S1,2023-01-15
+763,1100,Adama Mendy,Intelligence Artificielle,Master 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,20.0,2024-2025,S2,2025-06-20
+764,1243,Aminata Sy,Data Engineering,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,13.49,2023-2024,S1,2024-01-15
+765,1080,Modou Sow,Cybersécurité,Licence 2,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,17.48,2025-2026,S2,2026-06-20
+766,1172,Khadija Kane,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,11.55,2025-2026,S1,2026-01-15
+767,1267,Pape Diallo,Cybersécurité,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,13.69,2024-2025,S2,2025-06-20
+768,1275,Cheikh Sow,Génie Logiciel,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,19.47,2023-2024,S2,2024-06-20
+769,1351,Fatou Mendy,Génie Logiciel,Master 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,11.79,2024-2025,S2,2025-06-20
+770,1077,Jean Fall,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,19.6,2022-2023,S1,2023-01-15
+771,1193,Mariama Diallo,Intelligence Artificielle,Licence 2,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,16.06,2023-2024,S1,2024-01-15
+772,1311,Fatou Dramé,Cybersécurité,Licence 1,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,12.0,2023-2024,S1,2024-01-15
+773,1060,Saliou Faye,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,101,Mamadou Diallo,15.82,2024-2025,S2,2025-06-20
+774,1140,Abdoulaye Sow,Génie Logiciel,Licence 3,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,16.91,2022-2023,S2,2023-06-20
+775,1122,Aminata Fall,Intelligence Artificielle,Licence 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,15.79,2025-2026,S2,2026-06-20
+776,1111,Modou Cissé,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,8.78,2024-2025,S1,2025-01-15
+777,1058,Adama Samb,Intelligence Artificielle,Licence 1,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,11.47,2022-2023,S1,2023-01-15
+778,1048,Oumar Touré,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,13.01,2022-2023,S1,2023-01-15
+779,1257,Pape Badji,Cybersécurité,Licence 2,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,13.56,2023-2024,S2,2024-06-20
+780,1248,Binta Kane,Intelligence Artificielle,Master 1,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,15.79,2024-2025,S1,2025-01-15
+781,1074,Moussa Sy,Data Engineering,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,14.37,2023-2024,S1,2024-01-15
+782,1019,Jean Ndiaye,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,9.53,2025-2026,S1,2026-01-15
+783,1060,Saliou Faye,Génie Logiciel,Master 1,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,15.02,2024-2025,S1,2025-01-15
+784,1352,Abdoulaye Cissé,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,15.75,2022-2023,S2,2023-06-20
+785,1240,Pape Diallo,Cybersécurité,Master 2,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,15.59,2022-2023,S2,2023-06-20
+786,1338,Mamadou Kane,Cybersécurité,Master 1,212,Gouvernance des Données & DPO,2.5,101,Mamadou Diallo,17.26,2024-2025,S1,2025-01-15
+787,1296,Pape Fall,Intelligence Artificielle,Master 2,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,16.47,2023-2024,S2,2024-06-20
+788,1103,Saliou Camara,Data Engineering,Licence 2,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,15.27,2024-2025,S1,2025-01-15
+789,1273,Mariama Ndiaye,Génie Logiciel,Master 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,13.58,2025-2026,S2,2026-06-20
+790,1140,Abdoulaye Sow,Génie Logiciel,Licence 3,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,8.48,2023-2024,S1,2024-01-15
+791,1059,Modou Kane,Data Engineering,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,15.17,2022-2023,S2,2023-06-20
+792,1278,Modou Ba,Intelligence Artificielle,Licence 2,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,14.46,2024-2025,S2,2025-06-20
+793,1073,Awa Diop,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,14.67,2024-2025,S1,2025-01-15
+794,1126,Aïssatou Mendy,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,9.71,2022-2023,S2,2023-06-20
+795,1314,Cheikh Gaye,Intelligence Artificielle,Licence 2,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,10.34,2025-2026,S2,2026-06-20
+796,1067,Abdoulaye Badji,Cybersécurité,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,17.17,2025-2026,S2,2026-06-20
+797,1055,Babacar Sarr,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,102,Aïssatou Sow,13.67,2022-2023,S1,2023-01-15
+798,1219,Moussa Badiane,Génie Logiciel,Licence 3,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,15.98,2023-2024,S1,2024-01-15
+799,1304,Rokhaya Diop,Intelligence Artificielle,Master 1,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,13.89,2025-2026,S2,2026-06-20
+800,1183,Modou Diallo,Data Engineering,Master 1,205,Data Warehousing & ETL (SSIS),4.0,104,Fatou Diop,13.9,2024-2025,S2,2025-06-20
+801,1344,Modou Dramé,Génie Logiciel,Licence 2,209,Statistiques Inférentielles,3.0,108,Moussa Seck,16.8,2022-2023,S2,2023-06-20
+802,1291,Mamadou Sy,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,12.15,2022-2023,S2,2023-06-20
+803,1050,Mamadou Samb,Intelligence Artificielle,Licence 1,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,14.11,2024-2025,S1,2025-01-15
+804,1241,Mariama Diallo,Cybersécurité,Master 2,204,Algorithmique & Python Advanced,3.5,103,Cheikh Ndiaye,12.32,2023-2024,S2,2024-06-20
+805,1316,Abdoulaye Diallo,Intelligence Artificielle,Master 1,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,12.41,2024-2025,S2,2025-06-20
+806,1094,Adama Faye,Génie Logiciel,Master 2,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,12.81,2024-2025,S2,2025-06-20
+807,1233,Cheikh Badiane,Data Engineering,Licence 1,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,14.51,2022-2023,S1,2023-01-15
+808,1244,Babacar Faye,Cybersécurité,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,12.27,2024-2025,S2,2025-06-20
+809,1237,Mamadou Cissé,Intelligence Artificielle,Licence 3,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,17.82,2024-2025,S1,2025-01-15
+810,1310,Abdoulaye Faye,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,10.94,2023-2024,S1,2024-01-15
+811,1053,Moussa Faye,Intelligence Artificielle,Master 2,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,13.2,2022-2023,S2,2023-06-20
+812,1285,Mamadou Camara,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,12.39,2022-2023,S2,2023-06-20
+813,1273,Mariama Ndiaye,Génie Logiciel,Master 2,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,18.43,2025-2026,S1,2026-01-15
+814,1281,Fatou Samb,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,107,Aminata Cissé,14.43,2025-2026,S2,2026-06-20
+815,1034,Saliou Cissé,Génie Logiciel,Master 2,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,17.1,2023-2024,S2,2024-06-20
+816,1221,Pape Cissé,Génie Logiciel,Licence 3,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,9.05,2024-2025,S2,2025-06-20
+817,1356,Ibrahima Sow,Data Engineering,Licence 3,204,Algorithmique & Python Advanced,3.5,102,Aïssatou Sow,14.65,2023-2024,S1,2024-01-15
+818,1304,Rokhaya Diop,Intelligence Artificielle,Master 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,16.65,2025-2026,S2,2026-06-20
+819,1285,Mamadou Camara,Data Engineering,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,14.06,2025-2026,S2,2026-06-20
+820,1158,Fatou Mendy,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,17.21,2022-2023,S2,2023-06-20
+821,1056,Ibrahima Badji,Intelligence Artificielle,Licence 3,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,12.14,2025-2026,S1,2026-01-15
+822,1254,Fatou Mendy,Intelligence Artificielle,Licence 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,18.31,2022-2023,S1,2023-01-15
+823,1112,Abdoulaye Sy,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,20.0,2022-2023,S1,2023-01-15
+824,1339,Moussa Seck,Data Engineering,Licence 2,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,12.64,2025-2026,S2,2026-06-20
+825,1150,Rokhaya Badiane,Intelligence Artificielle,Master 1,207,Architecture Microservices & Cloud,3.0,104,Fatou Diop,12.37,2025-2026,S2,2026-06-20
+826,1106,Rokhaya Diop,Data Engineering,Master 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,18.45,2024-2025,S2,2025-06-20
+827,1292,Abdoulaye Touré,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,18.85,2024-2025,S1,2025-01-15
+828,1177,Binta Dramé,Génie Logiciel,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,110,Ibrahima Gaye,12.13,2022-2023,S1,2023-01-15
+829,1262,Aminata Sy,Data Engineering,Master 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,12.46,2023-2024,S1,2024-01-15
+830,1032,Aminata Badji,Intelligence Artificielle,Licence 1,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,12.9,2022-2023,S1,2023-01-15
+831,1287,Oumar Touré,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,9.5,2022-2023,S2,2023-06-20
+832,1016,Awa Badji,Intelligence Artificielle,Licence 1,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,10.86,2025-2026,S1,2026-01-15
+833,1202,Babacar Mendy,Data Engineering,Licence 2,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,10.59,2024-2025,S2,2025-06-20
+834,1208,Cheikh Sow,Cybersécurité,Licence 1,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,11.34,2025-2026,S1,2026-01-15
+835,1109,Abdoulaye Mendy,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,108,Moussa Seck,13.69,2023-2024,S1,2024-01-15
+836,1072,Awa Ba,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,14.55,2025-2026,S1,2026-01-15
+837,1214,Binta Mendy,Génie Logiciel,Licence 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,18.76,2024-2025,S1,2025-01-15
+838,1069,Rokhaya Faye,Génie Logiciel,Master 1,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,10.61,2022-2023,S2,2023-06-20
+839,1074,Moussa Sy,Data Engineering,Licence 1,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,16.95,2025-2026,S2,2026-06-20
+840,1070,Fatou Diop,Cybersécurité,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,13.12,2023-2024,S1,2024-01-15
+841,1234,Ibrahima Badji,Data Engineering,Master 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,13.64,2025-2026,S1,2026-01-15
+842,1093,Aminata Badiane,Génie Logiciel,Licence 2,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,15.96,2025-2026,S1,2026-01-15
+843,1231,Fatou Seck,Intelligence Artificielle,Licence 2,207,Architecture Microservices & Cloud,3.0,104,Fatou Diop,10.21,2024-2025,S2,2025-06-20
+844,1096,Babacar Kane,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,15.02,2022-2023,S1,2023-01-15
+845,1256,Aminata Mendy,Data Engineering,Licence 3,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,14.33,2023-2024,S2,2024-06-20
+846,1138,Oumar Cissé,Génie Logiciel,Master 1,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,15.38,2024-2025,S2,2025-06-20
+847,1020,Moussa Touré,Génie Logiciel,Licence 2,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,14.73,2025-2026,S2,2026-06-20
+848,1058,Adama Samb,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,20.0,2025-2026,S2,2026-06-20
+849,1239,Pape Dramé,Génie Logiciel,Licence 3,209,Statistiques Inférentielles,3.0,109,Mariama Ba,11.76,2022-2023,S2,2023-06-20
+850,1313,Modou Touré,Data Engineering,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,12.1,2023-2024,S2,2024-06-20
+851,1323,Aminata Dramé,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,11.81,2022-2023,S2,2023-06-20
+852,1297,Mariama Seck,Data Engineering,Master 2,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,12.02,2022-2023,S1,2023-01-15
+853,1274,Ibrahima Fall,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,11.76,2025-2026,S2,2026-06-20
+854,1263,Jean Cissé,Intelligence Artificielle,Master 2,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,17.6,2024-2025,S2,2025-06-20
+855,1181,Adama Camara,Génie Logiciel,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,18.35,2024-2025,S1,2025-01-15
+856,1019,Jean Ndiaye,Génie Logiciel,Licence 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,11.97,2024-2025,S1,2025-01-15
+857,1134,Cheikh Badji,Data Engineering,Master 1,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,11.14,2025-2026,S2,2026-06-20
+858,1087,Awa Sow,Intelligence Artificielle,Licence 3,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,15.31,2022-2023,S1,2023-01-15
+859,1320,Aïssatou Gaye,Cybersécurité,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,12.03,2024-2025,S1,2025-01-15
+860,1043,Rokhaya Sow,Cybersécurité,Master 2,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,15.83,2022-2023,S2,2023-06-20
+861,1130,Aminata Cissé,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,14.45,2024-2025,S1,2025-01-15
+862,1132,Awa Samb,Génie Logiciel,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,8.95,2022-2023,S2,2023-06-20
+863,1090,Ibrahima Mendy,Génie Logiciel,Licence 3,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,18.75,2023-2024,S1,2024-01-15
+864,1190,Pape Cissé,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,19.55,2024-2025,S1,2025-01-15
+865,1249,Saliou Cissé,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,11.84,2022-2023,S1,2023-01-15
+866,1044,Cheikh Ba,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,12.56,2023-2024,S1,2024-01-15
+867,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,14.71,2023-2024,S2,2024-06-20
+868,1327,Fatou Sow,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,14.87,2023-2024,S2,2024-06-20
+869,1177,Binta Dramé,Génie Logiciel,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,15.91,2024-2025,S1,2025-01-15
+870,1027,Fatou Diop,Data Engineering,Licence 2,203,Big Data & Hadoop/Spark,4.0,107,Aminata Cissé,20.0,2025-2026,S2,2026-06-20
+871,1244,Babacar Faye,Cybersécurité,Master 2,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,13.23,2025-2026,S2,2026-06-20
+872,1120,Rokhaya Touré,Data Engineering,Master 2,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,11.25,2025-2026,S1,2026-01-15
+873,1135,Awa Ndiaye,Cybersécurité,Licence 3,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,9.39,2025-2026,S1,2026-01-15
+874,1148,Aminata Fall,Cybersécurité,Master 1,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,11.46,2025-2026,S1,2026-01-15
+875,1272,Cheikh Faye,Cybersécurité,Master 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,13.69,2022-2023,S1,2023-01-15
+876,1273,Mariama Ndiaye,Génie Logiciel,Master 2,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,19.54,2024-2025,S2,2025-06-20
+877,1313,Modou Touré,Data Engineering,Licence 2,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,12.14,2024-2025,S1,2025-01-15
+878,1139,Aïssatou Sarr,Data Engineering,Master 1,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,14.52,2022-2023,S2,2023-06-20
+879,1336,Aïssatou Diop,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,13.75,2025-2026,S1,2026-01-15
+880,1346,Aminata Faye,Intelligence Artificielle,Licence 2,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,17.6,2023-2024,S2,2024-06-20
+881,1100,Adama Mendy,Intelligence Artificielle,Master 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,20.0,2024-2025,S2,2025-06-20
+882,1161,Aminata Dramé,Data Engineering,Licence 3,209,Statistiques Inférentielles,3.0,101,Mamadou Diallo,12.1,2022-2023,S1,2023-01-15
+883,1035,Saliou Badiane,Intelligence Artificielle,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,12.23,2025-2026,S1,2026-01-15
+884,1269,Rokhaya Ba,Cybersécurité,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,17.14,2025-2026,S2,2026-06-20
+885,1113,Awa Gaye,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,15.98,2024-2025,S1,2025-01-15
+886,1099,Rokhaya Cissé,Génie Logiciel,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,19.71,2022-2023,S1,2023-01-15
+887,1307,Saliou Seck,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,15.67,2022-2023,S2,2023-06-20
+888,1045,Cheikh Ba,Génie Logiciel,Licence 2,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,12.65,2023-2024,S1,2024-01-15
+889,1337,Khadija Sarr,Intelligence Artificielle,Master 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,15.69,2023-2024,S1,2024-01-15
+890,1357,Oumar Gaye,Cybersécurité,Licence 1,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,17.35,2024-2025,S1,2025-01-15
+891,1240,Pape Diallo,Cybersécurité,Master 2,211,DevOps & Docker/Kubernetes,3.0,108,Moussa Seck,16.43,2022-2023,S2,2023-06-20
+892,1142,Ibrahima Dramé,Data Engineering,Licence 3,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,15.42,2024-2025,S2,2025-06-20
+893,1083,Babacar Touré,Intelligence Artificielle,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,101,Mamadou Diallo,17.21,2024-2025,S1,2025-01-15
+894,1196,Aïssatou Sy,Cybersécurité,Licence 1,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,17.54,2024-2025,S2,2025-06-20
+895,1133,Abdoulaye Cissé,Data Engineering,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,18.22,2023-2024,S1,2024-01-15
+896,1036,Mamadou Camara,Génie Logiciel,Licence 3,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,15.88,2023-2024,S2,2024-06-20
+897,1202,Babacar Mendy,Data Engineering,Licence 2,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,13.27,2025-2026,S2,2026-06-20
+898,1074,Moussa Sy,Data Engineering,Licence 1,209,Statistiques Inférentielles,3.0,104,Fatou Diop,14.27,2025-2026,S1,2026-01-15
+899,1315,Modou Cissé,Intelligence Artificielle,Licence 1,211,DevOps & Docker/Kubernetes,3.0,108,Moussa Seck,17.66,2022-2023,S2,2023-06-20
+900,1133,Abdoulaye Cissé,Data Engineering,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,11.19,2022-2023,S1,2023-01-15
+901,1037,Adama Sow,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,14.98,2024-2025,S1,2025-01-15
+902,1010,Oumar Badji,Intelligence Artificielle,Licence 1,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,12.54,2023-2024,S1,2024-01-15
+903,1020,Moussa Touré,Génie Logiciel,Licence 2,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,13.89,2025-2026,S1,2026-01-15
+904,1078,Adama Mendy,Data Engineering,Master 2,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,17.89,2024-2025,S2,2025-06-20
+905,1295,Adama Dramé,Cybersécurité,Master 1,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,14.41,2025-2026,S2,2026-06-20
+906,1224,Adama Dramé,Intelligence Artificielle,Master 2,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,13.95,2022-2023,S2,2023-06-20
+907,1116,Oumar Diop,Cybersécurité,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,9.45,2025-2026,S1,2026-01-15
+908,1063,Adama Sow,Cybersécurité,Master 2,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,16.19,2024-2025,S2,2025-06-20
+909,1350,Rokhaya Gaye,Cybersécurité,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,101,Mamadou Diallo,15.87,2025-2026,S1,2026-01-15
+910,1324,Pape Sy,Génie Logiciel,Master 1,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,20.0,2022-2023,S2,2023-06-20
+911,1274,Ibrahima Fall,Intelligence Artificielle,Master 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,12.82,2022-2023,S2,2023-06-20
+912,1149,Moussa Sow,Data Engineering,Licence 3,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,14.5,2023-2024,S2,2024-06-20
+913,1284,Moussa Diallo,Cybersécurité,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,14.6,2025-2026,S1,2026-01-15
+914,1154,Modou Ndiaye,Data Engineering,Master 2,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,18.85,2025-2026,S1,2026-01-15
+915,1323,Aminata Dramé,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,13.5,2024-2025,S2,2025-06-20
+916,1044,Cheikh Ba,Génie Logiciel,Master 1,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,14.69,2025-2026,S2,2026-06-20
+917,1072,Awa Ba,Cybersécurité,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,15.75,2023-2024,S2,2024-06-20
+918,1304,Rokhaya Diop,Intelligence Artificielle,Master 1,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,14.4,2025-2026,S2,2026-06-20
+919,1033,Moussa Samb,Génie Logiciel,Licence 1,209,Statistiques Inférentielles,3.0,108,Moussa Seck,12.37,2024-2025,S1,2025-01-15
+920,1274,Ibrahima Fall,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,14.42,2022-2023,S1,2023-01-15
+921,1174,Binta Gaye,Cybersécurité,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,17.24,2024-2025,S2,2025-06-20
+922,1208,Cheikh Sow,Cybersécurité,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,109,Mariama Ba,10.52,2023-2024,S2,2024-06-20
+923,1235,Cheikh Diop,Data Engineering,Master 1,211,DevOps & Docker/Kubernetes,3.0,110,Ibrahima Gaye,14.23,2023-2024,S1,2024-01-15
+924,1120,Rokhaya Touré,Data Engineering,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,11.56,2022-2023,S1,2023-01-15
+925,1251,Awa Badji,Génie Logiciel,Licence 1,211,DevOps & Docker/Kubernetes,3.0,108,Moussa Seck,17.62,2022-2023,S1,2023-01-15
+926,1317,Khadija Diallo,Cybersécurité,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,8.93,2023-2024,S2,2024-06-20
+927,1008,Mamadou Cissé,Intelligence Artificielle,Master 1,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,12.01,2022-2023,S1,2023-01-15
+928,1050,Mamadou Samb,Intelligence Artificielle,Licence 1,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,15.01,2023-2024,S1,2024-01-15
+929,1033,Moussa Samb,Génie Logiciel,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,18.81,2022-2023,S2,2023-06-20
+930,1305,Aminata Ndiaye,Data Engineering,Master 1,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,13.59,2023-2024,S2,2024-06-20
+931,1104,Khadija Camara,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,107,Aminata Cissé,12.02,2024-2025,S2,2025-06-20
+932,1167,Fatou Gaye,Cybersécurité,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,19.82,2023-2024,S1,2024-01-15
+933,1110,Jean Seck,Data Engineering,Master 2,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,9.17,2023-2024,S1,2024-01-15
+934,1033,Moussa Samb,Génie Logiciel,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,6.76,2024-2025,S1,2025-01-15
+935,1213,Mamadou Samb,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,15.21,2024-2025,S2,2025-06-20
+936,1085,Binta Sy,Cybersécurité,Master 1,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,12.19,2023-2024,S2,2024-06-20
+937,1021,Aïssatou Dramé,Génie Logiciel,Master 2,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,10.53,2022-2023,S2,2023-06-20
+938,1193,Mariama Diallo,Intelligence Artificielle,Licence 2,203,Big Data & Hadoop/Spark,4.0,108,Moussa Seck,16.07,2022-2023,S1,2023-01-15
+939,1042,Aminata Camara,Data Engineering,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,14.58,2022-2023,S1,2023-01-15
+940,1046,Oumar Sarr,Génie Logiciel,Licence 2,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,11.99,2024-2025,S1,2025-01-15
+941,1356,Ibrahima Sow,Data Engineering,Licence 3,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,9.7,2023-2024,S1,2024-01-15
+942,1074,Moussa Sy,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,109,Mariama Ba,16.59,2024-2025,S1,2025-01-15
+943,1231,Fatou Seck,Intelligence Artificielle,Licence 2,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,15.88,2023-2024,S2,2024-06-20
+944,1313,Modou Touré,Data Engineering,Licence 2,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,13.48,2022-2023,S1,2023-01-15
+945,1093,Aminata Badiane,Génie Logiciel,Licence 2,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,19.71,2025-2026,S2,2026-06-20
+946,1046,Oumar Sarr,Génie Logiciel,Licence 2,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,10.38,2024-2025,S1,2025-01-15
+947,1215,Moussa Sow,Intelligence Artificielle,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,8.92,2023-2024,S2,2024-06-20
+948,1061,Mariama Fall,Cybersécurité,Licence 2,209,Statistiques Inférentielles,3.0,110,Ibrahima Gaye,11.59,2022-2023,S2,2023-06-20
+949,1186,Adama Seck,Génie Logiciel,Master 1,209,Statistiques Inférentielles,3.0,108,Moussa Seck,13.65,2023-2024,S2,2024-06-20
+950,1321,Mamadou Faye,Data Engineering,Master 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,14.58,2023-2024,S2,2024-06-20
+951,1028,Khadija Faye,Intelligence Artificielle,Master 1,204,Algorithmique & Python Advanced,3.5,103,Cheikh Ndiaye,13.03,2022-2023,S2,2023-06-20
+952,1351,Fatou Mendy,Génie Logiciel,Master 2,208,Sécurité des Systèmes d'Information,3.0,103,Cheikh Ndiaye,14.93,2025-2026,S2,2026-06-20
+953,1082,Saliou Sow,Cybersécurité,Licence 3,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,9.8,2022-2023,S1,2023-01-15
+954,1331,Moussa Camara,Data Engineering,Master 2,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,18.42,2024-2025,S1,2025-01-15
+955,1223,Adama Mendy,Data Engineering,Master 2,205,Data Warehousing & ETL (SSIS),4.0,110,Ibrahima Gaye,13.54,2024-2025,S2,2025-06-20
+956,1233,Cheikh Badiane,Data Engineering,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,17.38,2022-2023,S2,2023-06-20
+957,1276,Adama Faye,Data Engineering,Licence 2,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,14.9,2023-2024,S1,2024-01-15
+958,1249,Saliou Cissé,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,15.26,2022-2023,S2,2023-06-20
+959,1121,Aïssatou Gaye,Data Engineering,Licence 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,15.62,2025-2026,S2,2026-06-20
+960,1297,Mariama Seck,Data Engineering,Master 2,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,15.23,2025-2026,S1,2026-01-15
+961,1347,Mamadou Sy,Cybersécurité,Licence 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,15.86,2023-2024,S2,2024-06-20
+962,1167,Fatou Gaye,Cybersécurité,Master 2,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,18.05,2022-2023,S2,2023-06-20
+963,1212,Mamadou Ndiaye,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,14.43,2025-2026,S1,2026-01-15
+964,1038,Moussa Ndiaye,Génie Logiciel,Licence 3,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,16.07,2025-2026,S2,2026-06-20
+965,1224,Adama Dramé,Intelligence Artificielle,Master 2,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,13.51,2023-2024,S2,2024-06-20
+966,1233,Cheikh Badiane,Data Engineering,Licence 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,18.41,2025-2026,S1,2026-01-15
+967,1070,Fatou Diop,Cybersécurité,Licence 2,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,11.64,2023-2024,S2,2024-06-20
+968,1139,Aïssatou Sarr,Data Engineering,Master 1,204,Algorithmique & Python Advanced,3.5,103,Cheikh Ndiaye,19.56,2024-2025,S2,2025-06-20
+969,1017,Pape Camara,Génie Logiciel,Master 2,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,13.67,2022-2023,S1,2023-01-15
+970,1070,Fatou Diop,Cybersécurité,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,9.22,2025-2026,S2,2026-06-20
+971,1215,Moussa Sow,Intelligence Artificielle,Licence 3,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,14.21,2024-2025,S2,2025-06-20
+972,1152,Mamadou Sow,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,11.62,2023-2024,S1,2024-01-15
+973,1088,Rokhaya Cissé,Génie Logiciel,Licence 2,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,16.49,2023-2024,S2,2024-06-20
+974,1211,Abdoulaye Sarr,Intelligence Artificielle,Licence 3,209,Statistiques Inférentielles,3.0,104,Fatou Diop,11.71,2025-2026,S2,2026-06-20
+975,1303,Saliou Kane,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,12.37,2025-2026,S2,2026-06-20
+976,1008,Mamadou Cissé,Intelligence Artificielle,Master 1,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,7.75,2025-2026,S1,2026-01-15
+977,1127,Mamadou Sy,Intelligence Artificielle,Master 2,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,12.35,2025-2026,S1,2026-01-15
+978,1294,Moussa Sy,Génie Logiciel,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,6.04,2025-2026,S1,2026-01-15
+979,1021,Aïssatou Dramé,Génie Logiciel,Master 2,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,8.73,2022-2023,S1,2023-01-15
+980,1272,Cheikh Faye,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,102,Aïssatou Sow,16.23,2025-2026,S2,2026-06-20
+981,1232,Binta Mendy,Data Engineering,Licence 1,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,16.31,2023-2024,S2,2024-06-20
+982,1286,Fatou Kane,Intelligence Artificielle,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,15.16,2025-2026,S1,2026-01-15
+983,1068,Mamadou Badiane,Cybersécurité,Licence 1,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,10.71,2024-2025,S1,2025-01-15
+984,1332,Awa Cissé,Cybersécurité,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,13.65,2022-2023,S1,2023-01-15
+985,1343,Oumar Cissé,Génie Logiciel,Master 2,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,13.79,2023-2024,S1,2024-01-15
+986,1233,Cheikh Badiane,Data Engineering,Licence 1,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,10.09,2023-2024,S1,2024-01-15
+987,1095,Aïssatou Badiane,Intelligence Artificielle,Master 2,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,18.61,2025-2026,S2,2026-06-20
+988,1322,Cheikh Ba,Data Engineering,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,16.61,2025-2026,S1,2026-01-15
+989,1272,Cheikh Faye,Cybersécurité,Master 1,201,Bases de Données Relationnelles (SQL),4.0,107,Aminata Cissé,13.09,2024-2025,S1,2025-01-15
+990,1139,Aïssatou Sarr,Data Engineering,Master 1,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,13.89,2023-2024,S2,2024-06-20
+991,1318,Fatou Sy,Cybersécurité,Licence 3,206,Machine Learning & Deep Learning,4.0,109,Mariama Ba,14.47,2022-2023,S1,2023-01-15
+992,1346,Aminata Faye,Intelligence Artificielle,Licence 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,7.27,2022-2023,S1,2023-01-15
+993,1197,Saliou Samb,Génie Logiciel,Licence 2,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,13.01,2025-2026,S2,2026-06-20
+994,1021,Aïssatou Dramé,Génie Logiciel,Master 2,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,11.62,2024-2025,S2,2025-06-20
+995,1332,Awa Cissé,Cybersécurité,Master 2,209,Statistiques Inférentielles,3.0,109,Mariama Ba,10.59,2022-2023,S2,2023-06-20
+996,1123,Pape Sy,Cybersécurité,Master 2,209,Statistiques Inférentielles,3.0,108,Moussa Seck,12.9,2022-2023,S2,2023-06-20
+997,1298,Awa Ndiaye,Cybersécurité,Licence 1,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,19.55,2023-2024,S2,2024-06-20
+998,1165,Aïssatou Touré,Génie Logiciel,Licence 2,206,Machine Learning & Deep Learning,4.0,109,Mariama Ba,15.85,2024-2025,S1,2025-01-15
+999,1349,Saliou Diallo,Data Engineering,Licence 1,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,11.97,2024-2025,S1,2025-01-15
+1000,1033,Moussa Samb,Génie Logiciel,Licence 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,15.63,2024-2025,S2,2025-06-20
+1001,1241,Mariama Diallo,Cybersécurité,Master 2,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,18.28,2024-2025,S1,2025-01-15
+1002,1318,Fatou Sy,Cybersécurité,Licence 3,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,16.76,2022-2023,S2,2023-06-20
+1003,1235,Cheikh Diop,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,13.99,2022-2023,S2,2023-06-20
+1004,1092,Aminata Seck,Intelligence Artificielle,Master 1,205,Data Warehousing & ETL (SSIS),4.0,102,Aïssatou Sow,11.73,2022-2023,S2,2023-06-20
+1005,1085,Binta Sy,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,16.03,2022-2023,S2,2023-06-20
+1006,1255,Khadija Ba,Cybersécurité,Licence 2,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,15.06,2023-2024,S2,2024-06-20
+1007,1322,Cheikh Ba,Data Engineering,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,107,Aminata Cissé,16.66,2024-2025,S1,2025-01-15
+1008,1350,Rokhaya Gaye,Cybersécurité,Licence 2,209,Statistiques Inférentielles,3.0,108,Moussa Seck,15.83,2023-2024,S1,2024-01-15
+1009,1178,Pape Gaye,Génie Logiciel,Licence 1,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,17.16,2025-2026,S2,2026-06-20
+1010,1150,Rokhaya Badiane,Intelligence Artificielle,Master 1,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,12.09,2022-2023,S2,2023-06-20
+1011,1119,Fatou Camara,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,18.02,2024-2025,S2,2025-06-20
+1012,1297,Mariama Seck,Data Engineering,Master 2,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,14.43,2024-2025,S2,2025-06-20
+1013,1235,Cheikh Diop,Data Engineering,Master 1,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,20.0,2023-2024,S1,2024-01-15
+1014,1088,Rokhaya Cissé,Génie Logiciel,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,11.59,2023-2024,S2,2024-06-20
+1015,1191,Modou Samb,Cybersécurité,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,19.36,2022-2023,S1,2023-01-15
+1016,1181,Adama Camara,Génie Logiciel,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,14.43,2025-2026,S2,2026-06-20
+1017,1317,Khadija Diallo,Cybersécurité,Licence 3,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,11.72,2024-2025,S1,2025-01-15
+1018,1090,Ibrahima Mendy,Génie Logiciel,Licence 3,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,12.25,2023-2024,S1,2024-01-15
+1019,1122,Aminata Fall,Intelligence Artificielle,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,12.77,2022-2023,S1,2023-01-15
+1020,1295,Adama Dramé,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,15.16,2025-2026,S2,2026-06-20
+1021,1190,Pape Cissé,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,15.47,2023-2024,S2,2024-06-20
+1022,1018,Khadija Ndiaye,Data Engineering,Master 2,211,DevOps & Docker/Kubernetes,3.0,106,Babacar Kane,11.96,2024-2025,S2,2025-06-20
+1023,1076,Cheikh Camara,Génie Logiciel,Master 2,206,Machine Learning & Deep Learning,4.0,109,Mariama Ba,13.72,2025-2026,S2,2026-06-20
+1024,1084,Pape Fall,Génie Logiciel,Licence 1,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,20.0,2024-2025,S1,2025-01-15
+1025,1013,Aïssatou Badiane,Cybersécurité,Licence 3,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,19.33,2025-2026,S2,2026-06-20
+1026,1235,Cheikh Diop,Data Engineering,Master 1,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,15.2,2023-2024,S1,2024-01-15
+1027,1280,Rokhaya Faye,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,13.92,2024-2025,S2,2025-06-20
+1028,1243,Aminata Sy,Data Engineering,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,110,Ibrahima Gaye,14.18,2023-2024,S1,2024-01-15
+1029,1227,Aminata Gaye,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,15.76,2022-2023,S2,2023-06-20
+1030,1158,Fatou Mendy,Intelligence Artificielle,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,10.53,2025-2026,S1,2026-01-15
+1031,1113,Awa Gaye,Cybersécurité,Licence 3,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,12.98,2024-2025,S2,2025-06-20
+1032,1168,Mamadou Cissé,Data Engineering,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,8.46,2023-2024,S2,2024-06-20
+1033,1270,Saliou Kane,Data Engineering,Licence 1,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,15.08,2024-2025,S1,2025-01-15
+1034,1012,Modou Sow,Intelligence Artificielle,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,15.87,2025-2026,S2,2026-06-20
+1035,1263,Jean Cissé,Intelligence Artificielle,Master 2,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,12.25,2023-2024,S2,2024-06-20
+1036,1163,Binta Badiane,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,18.84,2022-2023,S1,2023-01-15
+1037,1204,Awa Diallo,Data Engineering,Licence 3,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,9.88,2025-2026,S1,2026-01-15
+1038,1198,Aïssatou Badiane,Génie Logiciel,Licence 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,9.11,2022-2023,S1,2023-01-15
+1039,1177,Binta Dramé,Génie Logiciel,Licence 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,14.52,2024-2025,S1,2025-01-15
+1040,1288,Rokhaya Sow,Intelligence Artificielle,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,17.15,2023-2024,S2,2024-06-20
+1041,1213,Mamadou Samb,Data Engineering,Licence 3,208,Sécurité des Systèmes d'Information,3.0,103,Cheikh Ndiaye,19.19,2024-2025,S1,2025-01-15
+1042,1218,Moussa Gaye,Intelligence Artificielle,Master 1,212,Gouvernance des Données & DPO,2.5,103,Cheikh Ndiaye,12.33,2025-2026,S1,2026-01-15
+1043,1301,Saliou Diallo,Data Engineering,Master 2,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,17.25,2022-2023,S2,2023-06-20
+1044,1107,Pape Diop,Data Engineering,Master 2,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,13.68,2025-2026,S2,2026-06-20
+1045,1172,Khadija Kane,Génie Logiciel,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,13.25,2025-2026,S1,2026-01-15
+1046,1004,Khadija Fall,Cybersécurité,Licence 3,207,Architecture Microservices & Cloud,3.0,107,Aminata Cissé,16.63,2024-2025,S1,2025-01-15
+1047,1090,Ibrahima Mendy,Génie Logiciel,Licence 3,209,Statistiques Inférentielles,3.0,110,Ibrahima Gaye,15.89,2025-2026,S2,2026-06-20
+1048,1071,Saliou Diop,Data Engineering,Licence 1,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,8.76,2023-2024,S1,2024-01-15
+1049,1149,Moussa Sow,Data Engineering,Licence 3,209,Statistiques Inférentielles,3.0,101,Mamadou Diallo,18.52,2025-2026,S2,2026-06-20
+1050,1155,Aminata Faye,Intelligence Artificielle,Master 2,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,18.22,2024-2025,S1,2025-01-15
+1051,1287,Oumar Touré,Génie Logiciel,Master 1,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,11.8,2025-2026,S2,2026-06-20
+1052,1014,Mariama Ba,Génie Logiciel,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,15.07,2023-2024,S1,2024-01-15
+1053,1154,Modou Ndiaye,Data Engineering,Master 2,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,15.38,2025-2026,S2,2026-06-20
+1054,1335,Cheikh Seck,Génie Logiciel,Master 2,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,14.63,2024-2025,S1,2025-01-15
+1055,1015,Abdoulaye Dramé,Intelligence Artificielle,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,12.04,2024-2025,S1,2025-01-15
+1056,1035,Saliou Badiane,Intelligence Artificielle,Licence 3,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,11.65,2024-2025,S2,2025-06-20
+1057,1247,Babacar Touré,Génie Logiciel,Licence 3,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,13.72,2025-2026,S1,2026-01-15
+1058,1322,Cheikh Ba,Data Engineering,Licence 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,17.55,2025-2026,S2,2026-06-20
+1059,1192,Mamadou Ba,Intelligence Artificielle,Licence 2,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,15.54,2022-2023,S1,2023-01-15
+1060,1084,Pape Fall,Génie Logiciel,Licence 1,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,12.61,2022-2023,S1,2023-01-15
+1061,1164,Jean Kane,Génie Logiciel,Licence 2,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,16.27,2023-2024,S1,2024-01-15
+1062,1084,Pape Fall,Génie Logiciel,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,4.68,2024-2025,S1,2025-01-15
+1063,1215,Moussa Sow,Intelligence Artificielle,Licence 3,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,17.48,2024-2025,S2,2025-06-20
+1064,1149,Moussa Sow,Data Engineering,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,8.23,2022-2023,S2,2023-06-20
+1065,1100,Adama Mendy,Intelligence Artificielle,Master 1,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,12.64,2023-2024,S1,2024-01-15
+1066,1307,Saliou Seck,Cybersécurité,Licence 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,10.22,2024-2025,S2,2025-06-20
+1067,1351,Fatou Mendy,Génie Logiciel,Master 2,205,Data Warehousing & ETL (SSIS),4.0,106,Babacar Kane,9.66,2024-2025,S1,2025-01-15
+1068,1050,Mamadou Samb,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,17.51,2024-2025,S2,2025-06-20
+1069,1007,Moussa Kane,Data Engineering,Licence 2,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,12.3,2024-2025,S1,2025-01-15
+1070,1249,Saliou Cissé,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,14.91,2024-2025,S2,2025-06-20
+1071,1053,Moussa Faye,Intelligence Artificielle,Master 2,204,Algorithmique & Python Advanced,3.5,109,Mariama Ba,13.65,2023-2024,S1,2024-01-15
+1072,1114,Saliou Badiane,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,15.33,2022-2023,S2,2023-06-20
+1073,1236,Jean Badji,Data Engineering,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,14.05,2022-2023,S2,2023-06-20
+1074,1009,Moussa Camara,Génie Logiciel,Master 2,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,9.69,2024-2025,S2,2025-06-20
+1075,1354,Cheikh Gaye,Génie Logiciel,Licence 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,16.99,2023-2024,S1,2024-01-15
+1076,1306,Ibrahima Diallo,Intelligence Artificielle,Master 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,12.22,2024-2025,S2,2025-06-20
+1077,1156,Oumar Touré,Data Engineering,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,8.82,2022-2023,S2,2023-06-20
+1078,1066,Oumar Sarr,Cybersécurité,Licence 2,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,12.43,2023-2024,S1,2024-01-15
+1079,1158,Fatou Mendy,Intelligence Artificielle,Licence 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,18.6,2023-2024,S2,2024-06-20
+1080,1041,Pape Camara,Cybersécurité,Licence 3,207,Architecture Microservices & Cloud,3.0,102,Aïssatou Sow,16.52,2022-2023,S2,2023-06-20
+1081,1010,Oumar Badji,Intelligence Artificielle,Licence 1,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,12.68,2025-2026,S1,2026-01-15
+1082,1101,Awa Diop,Cybersécurité,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,109,Mariama Ba,12.68,2022-2023,S1,2023-01-15
+1083,1304,Rokhaya Diop,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,12.77,2025-2026,S2,2026-06-20
+1084,1130,Aminata Cissé,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,20.0,2022-2023,S2,2023-06-20
+1085,1342,Oumar Cissé,Intelligence Artificielle,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,15.02,2022-2023,S2,2023-06-20
+1086,1309,Jean Fall,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,103,Cheikh Ndiaye,15.18,2023-2024,S2,2024-06-20
+1087,1344,Modou Dramé,Génie Logiciel,Licence 2,206,Machine Learning & Deep Learning,4.0,102,Aïssatou Sow,17.1,2022-2023,S1,2023-01-15
+1088,1075,Oumar Sarr,Génie Logiciel,Master 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,14.56,2024-2025,S1,2025-01-15
+1089,1179,Adama Samb,Génie Logiciel,Licence 3,206,Machine Learning & Deep Learning,4.0,109,Mariama Ba,12.97,2023-2024,S1,2024-01-15
+1090,1314,Cheikh Gaye,Intelligence Artificielle,Licence 2,204,Algorithmique & Python Advanced,3.5,102,Aïssatou Sow,13.17,2022-2023,S2,2023-06-20
+1091,1297,Mariama Seck,Data Engineering,Master 2,201,Bases de Données Relationnelles (SQL),4.0,104,Fatou Diop,13.57,2023-2024,S2,2024-06-20
+1092,1145,Cheikh Fall,Génie Logiciel,Master 2,203,Big Data & Hadoop/Spark,4.0,102,Aïssatou Sow,13.68,2022-2023,S1,2023-01-15
+1093,1110,Jean Seck,Data Engineering,Master 2,209,Statistiques Inférentielles,3.0,106,Babacar Kane,16.13,2025-2026,S2,2026-06-20
+1094,1358,Modou Mendy,Cybersécurité,Licence 2,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,13.97,2023-2024,S1,2024-01-15
+1095,1345,Khadija Badji,Intelligence Artificielle,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,16.14,2023-2024,S1,2024-01-15
+1096,1195,Rokhaya Sarr,Cybersécurité,Licence 1,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,13.54,2023-2024,S2,2024-06-20
+1097,1117,Binta Sarr,Data Engineering,Licence 2,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,14.05,2022-2023,S2,2023-06-20
+1098,1064,Oumar Camara,Intelligence Artificielle,Master 2,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,7.41,2022-2023,S2,2023-06-20
+1099,1070,Fatou Diop,Cybersécurité,Licence 2,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,16.73,2024-2025,S2,2025-06-20
+1100,1286,Fatou Kane,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,14.91,2022-2023,S1,2023-01-15
+1101,1168,Mamadou Cissé,Data Engineering,Licence 3,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,16.99,2022-2023,S2,2023-06-20
+1102,1146,Aïssatou Sarr,Data Engineering,Licence 1,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,4.53,2024-2025,S1,2025-01-15
+1103,1116,Oumar Diop,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,20.0,2025-2026,S1,2026-01-15
+1104,1220,Saliou Badji,Génie Logiciel,Licence 2,204,Algorithmique & Python Advanced,3.5,108,Moussa Seck,13.35,2022-2023,S2,2023-06-20
+1105,1348,Moussa Gaye,Cybersécurité,Master 2,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,17.35,2023-2024,S1,2024-01-15
+1106,1346,Aminata Faye,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,10.47,2022-2023,S2,2023-06-20
+1107,1225,Awa Badiane,Génie Logiciel,Master 2,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,15.76,2022-2023,S2,2023-06-20
+1108,1074,Moussa Sy,Data Engineering,Licence 1,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,10.43,2025-2026,S1,2026-01-15
+1109,1053,Moussa Faye,Intelligence Artificielle,Master 2,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,11.8,2023-2024,S1,2024-01-15
+1110,1187,Jean Dramé,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,19.92,2024-2025,S2,2025-06-20
+1111,1305,Aminata Ndiaye,Data Engineering,Master 1,207,Architecture Microservices & Cloud,3.0,104,Fatou Diop,13.19,2022-2023,S2,2023-06-20
+1112,1218,Moussa Gaye,Intelligence Artificielle,Master 1,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,14.5,2025-2026,S2,2026-06-20
+1113,1298,Awa Ndiaye,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,16.58,2024-2025,S1,2025-01-15
+1114,1183,Modou Diallo,Data Engineering,Master 1,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,15.39,2025-2026,S1,2026-01-15
+1115,1262,Aminata Sy,Data Engineering,Master 1,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,14.28,2023-2024,S1,2024-01-15
+1116,1056,Ibrahima Badji,Intelligence Artificielle,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,14.97,2024-2025,S1,2025-01-15
+1117,1255,Khadija Ba,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,20.0,2023-2024,S1,2024-01-15
+1118,1051,Adama Cissé,Cybersécurité,Licence 3,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,13.62,2022-2023,S1,2023-01-15
+1119,1256,Aminata Mendy,Data Engineering,Licence 3,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,14.44,2022-2023,S1,2023-01-15
+1120,1196,Aïssatou Sy,Cybersécurité,Licence 1,210,Business Intelligence & Power BI,3.5,103,Cheikh Ndiaye,17.16,2024-2025,S2,2025-06-20
+1121,1156,Oumar Touré,Data Engineering,Licence 3,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,17.34,2022-2023,S2,2023-06-20
+1122,1339,Moussa Seck,Data Engineering,Licence 2,209,Statistiques Inférentielles,3.0,108,Moussa Seck,17.6,2025-2026,S2,2026-06-20
+1123,1104,Khadija Camara,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,15.84,2025-2026,S2,2026-06-20
+1124,1259,Khadija Kane,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,10.14,2024-2025,S2,2025-06-20
+1125,1280,Rokhaya Faye,Cybersécurité,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,107,Aminata Cissé,19.03,2022-2023,S1,2023-01-15
+1126,1061,Mariama Fall,Cybersécurité,Licence 2,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,10.13,2025-2026,S2,2026-06-20
+1127,1193,Mariama Diallo,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,14.77,2025-2026,S2,2026-06-20
+1128,1017,Pape Camara,Génie Logiciel,Master 2,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,11.39,2024-2025,S1,2025-01-15
+1129,1252,Aminata Sy,Data Engineering,Master 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,13.59,2023-2024,S1,2024-01-15
+1130,1200,Cheikh Gaye,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,110,Ibrahima Gaye,14.85,2022-2023,S2,2023-06-20
+1131,1244,Babacar Faye,Cybersécurité,Master 2,209,Statistiques Inférentielles,3.0,109,Mariama Ba,14.83,2023-2024,S1,2024-01-15
+1132,1029,Ibrahima Badji,Data Engineering,Licence 2,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,15.15,2024-2025,S1,2025-01-15
+1133,1303,Saliou Kane,Génie Logiciel,Master 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,18.96,2024-2025,S2,2025-06-20
+1134,1165,Aïssatou Touré,Génie Logiciel,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,15.25,2022-2023,S1,2023-01-15
+1135,1024,Aminata Gaye,Intelligence Artificielle,Licence 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,13.02,2024-2025,S2,2025-06-20
+1136,1299,Jean Sy,Data Engineering,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,107,Aminata Cissé,16.89,2024-2025,S2,2025-06-20
+1137,1050,Mamadou Samb,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,17.61,2024-2025,S2,2025-06-20
+1138,1211,Abdoulaye Sarr,Intelligence Artificielle,Licence 3,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,9.87,2022-2023,S1,2023-01-15
+1139,1127,Mamadou Sy,Intelligence Artificielle,Master 2,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,15.71,2024-2025,S1,2025-01-15
+1140,1044,Cheikh Ba,Génie Logiciel,Master 1,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,16.04,2022-2023,S2,2023-06-20
+1141,1059,Modou Kane,Data Engineering,Licence 1,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,12.85,2023-2024,S1,2024-01-15
+1142,1276,Adama Faye,Data Engineering,Licence 2,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,18.2,2022-2023,S1,2023-01-15
+1143,1337,Khadija Sarr,Intelligence Artificielle,Master 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,13.32,2025-2026,S1,2026-01-15
+1144,1011,Moussa Camara,Génie Logiciel,Master 2,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,14.2,2025-2026,S2,2026-06-20
+1145,1012,Modou Sow,Intelligence Artificielle,Licence 2,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,13.25,2025-2026,S1,2026-01-15
+1146,1200,Cheikh Gaye,Génie Logiciel,Licence 1,206,Machine Learning & Deep Learning,4.0,108,Moussa Seck,13.85,2022-2023,S2,2023-06-20
+1147,1052,Babacar Badiane,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,10.29,2023-2024,S2,2024-06-20
+1148,1255,Khadija Ba,Cybersécurité,Licence 2,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,9.19,2024-2025,S2,2025-06-20
+1149,1315,Modou Cissé,Intelligence Artificielle,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,18.9,2024-2025,S2,2025-06-20
+1150,1104,Khadija Camara,Cybersécurité,Master 1,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,11.09,2022-2023,S2,2023-06-20
+1151,1110,Jean Seck,Data Engineering,Master 2,205,Data Warehousing & ETL (SSIS),4.0,101,Mamadou Diallo,10.63,2024-2025,S1,2025-01-15
+1152,1153,Binta Sarr,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,104,Fatou Diop,6.91,2025-2026,S1,2026-01-15
+1153,1320,Aïssatou Gaye,Cybersécurité,Licence 2,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,11.76,2022-2023,S2,2023-06-20
+1154,1049,Babacar Fall,Cybersécurité,Licence 3,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,9.57,2024-2025,S2,2025-06-20
+1155,1035,Saliou Badiane,Intelligence Artificielle,Licence 3,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,19.05,2025-2026,S2,2026-06-20
+1156,1108,Adama Ndiaye,Cybersécurité,Master 1,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,17.03,2022-2023,S2,2023-06-20
+1157,1259,Khadija Kane,Cybersécurité,Master 1,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,11.6,2025-2026,S1,2026-01-15
+1158,1161,Aminata Dramé,Data Engineering,Licence 3,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,20.0,2025-2026,S1,2026-01-15
+1159,1129,Oumar Mendy,Intelligence Artificielle,Licence 2,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,16.94,2025-2026,S2,2026-06-20
+1160,1093,Aminata Badiane,Génie Logiciel,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,12.76,2023-2024,S1,2024-01-15
+1161,1256,Aminata Mendy,Data Engineering,Licence 3,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,5.8,2025-2026,S2,2026-06-20
+1162,1327,Fatou Sow,Data Engineering,Licence 3,209,Statistiques Inférentielles,3.0,110,Ibrahima Gaye,20.0,2025-2026,S1,2026-01-15
+1163,1321,Mamadou Faye,Data Engineering,Master 1,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,9.35,2023-2024,S2,2024-06-20
+1164,1237,Mamadou Cissé,Intelligence Artificielle,Licence 3,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,8.53,2023-2024,S2,2024-06-20
+1165,1351,Fatou Mendy,Génie Logiciel,Master 2,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,17.07,2025-2026,S1,2026-01-15
+1166,1164,Jean Kane,Génie Logiciel,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,20.0,2023-2024,S2,2024-06-20
+1167,1137,Aïssatou Mendy,Data Engineering,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,105,Ousmane Faye,18.23,2023-2024,S1,2024-01-15
+1168,1352,Abdoulaye Cissé,Data Engineering,Licence 1,210,Business Intelligence & Power BI,3.5,107,Aminata Cissé,15.6,2023-2024,S2,2024-06-20
+1169,1123,Pape Sy,Cybersécurité,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,15.7,2023-2024,S1,2024-01-15
+1170,1015,Abdoulaye Dramé,Intelligence Artificielle,Master 2,204,Algorithmique & Python Advanced,3.5,108,Moussa Seck,16.53,2024-2025,S1,2025-01-15
+1171,1249,Saliou Cissé,Cybersécurité,Master 1,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,16.23,2025-2026,S1,2026-01-15
+1172,1332,Awa Cissé,Cybersécurité,Master 2,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,14.7,2023-2024,S2,2024-06-20
+1173,1140,Abdoulaye Sow,Génie Logiciel,Licence 3,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,14.13,2022-2023,S1,2023-01-15
+1174,1143,Babacar Badji,Génie Logiciel,Licence 2,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,13.6,2023-2024,S1,2024-01-15
+1175,1249,Saliou Cissé,Cybersécurité,Master 1,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,11.39,2022-2023,S1,2023-01-15
+1176,1161,Aminata Dramé,Data Engineering,Licence 3,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,12.9,2024-2025,S1,2025-01-15
+1177,1209,Moussa Ba,Cybersécurité,Licence 3,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,8.38,2022-2023,S2,2023-06-20
+1178,1072,Awa Ba,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,13.49,2022-2023,S2,2023-06-20
+1179,1257,Pape Badji,Cybersécurité,Licence 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,10.64,2024-2025,S1,2025-01-15
+1180,1047,Oumar Faye,Intelligence Artificielle,Licence 2,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,10.27,2022-2023,S2,2023-06-20
+1181,1169,Mariama Faye,Génie Logiciel,Master 1,210,Business Intelligence & Power BI,3.5,104,Fatou Diop,14.38,2025-2026,S1,2026-01-15
+1182,1217,Ibrahima Touré,Intelligence Artificielle,Master 2,204,Algorithmique & Python Advanced,3.5,102,Aïssatou Sow,18.25,2023-2024,S1,2024-01-15
+1183,1090,Ibrahima Mendy,Génie Logiciel,Licence 3,204,Algorithmique & Python Advanced,3.5,108,Moussa Seck,16.74,2024-2025,S1,2025-01-15
+1184,1210,Moussa Sarr,Génie Logiciel,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,108,Moussa Seck,8.77,2022-2023,S1,2023-01-15
+1185,1163,Binta Badiane,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,108,Moussa Seck,10.63,2025-2026,S1,2026-01-15
+1186,1350,Rokhaya Gaye,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,103,Cheikh Ndiaye,16.81,2024-2025,S1,2025-01-15
+1187,1186,Adama Seck,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,10.66,2024-2025,S2,2025-06-20
+1188,1011,Moussa Camara,Génie Logiciel,Master 2,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,13.08,2022-2023,S1,2023-01-15
+1189,1354,Cheikh Gaye,Génie Logiciel,Licence 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,15.56,2023-2024,S2,2024-06-20
+1190,1283,Rokhaya Ba,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,10.7,2024-2025,S1,2025-01-15
+1191,1351,Fatou Mendy,Génie Logiciel,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,108,Moussa Seck,14.14,2023-2024,S2,2024-06-20
+1192,1199,Aminata Touré,Cybersécurité,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,9.53,2025-2026,S1,2026-01-15
+1193,1155,Aminata Faye,Intelligence Artificielle,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,105,Ousmane Faye,11.88,2023-2024,S2,2024-06-20
+1194,1108,Adama Ndiaye,Cybersécurité,Master 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,14.82,2025-2026,S2,2026-06-20
+1195,1330,Adama Fall,Génie Logiciel,Master 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,8.7,2022-2023,S1,2023-01-15
+1196,1042,Aminata Camara,Data Engineering,Licence 3,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,15.21,2025-2026,S2,2026-06-20
+1197,1171,Babacar Samb,Intelligence Artificielle,Licence 3,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,13.74,2025-2026,S1,2026-01-15
+1198,1083,Babacar Touré,Intelligence Artificielle,Licence 3,212,Gouvernance des Données & DPO,2.5,109,Mariama Ba,15.57,2024-2025,S1,2025-01-15
+1199,1034,Saliou Cissé,Génie Logiciel,Master 2,206,Machine Learning & Deep Learning,4.0,110,Ibrahima Gaye,14.52,2025-2026,S1,2026-01-15
+1200,1281,Fatou Samb,Cybersécurité,Master 1,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,18.17,2024-2025,S2,2025-06-20
+1201,1356,Ibrahima Sow,Data Engineering,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,14.2,2022-2023,S1,2023-01-15
+1202,1323,Aminata Dramé,Cybersécurité,Licence 3,208,Sécurité des Systèmes d'Information,3.0,101,Mamadou Diallo,12.43,2023-2024,S1,2024-01-15
+1203,1206,Aïssatou Gaye,Data Engineering,Master 1,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,14.19,2024-2025,S1,2025-01-15
+1204,1295,Adama Dramé,Cybersécurité,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,15.54,2022-2023,S2,2023-06-20
+1205,1128,Awa Diop,Data Engineering,Master 2,209,Statistiques Inférentielles,3.0,110,Ibrahima Gaye,13.96,2023-2024,S1,2024-01-15
+1206,1352,Abdoulaye Cissé,Data Engineering,Licence 1,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,13.93,2024-2025,S2,2025-06-20
+1207,1245,Pape Sarr,Génie Logiciel,Master 2,212,Gouvernance des Données & DPO,2.5,105,Ousmane Faye,11.55,2023-2024,S1,2024-01-15
+1208,1089,Pape Badiane,Intelligence Artificielle,Licence 1,211,DevOps & Docker/Kubernetes,3.0,105,Ousmane Faye,11.68,2024-2025,S2,2025-06-20
+1209,1102,Adama Diallo,Intelligence Artificielle,Licence 1,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,9.31,2025-2026,S1,2026-01-15
+1210,1094,Adama Faye,Génie Logiciel,Master 2,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,19.4,2025-2026,S1,2026-01-15
+1211,1115,Rokhaya Badji,Cybersécurité,Master 1,201,Bases de Données Relationnelles (SQL),4.0,109,Mariama Ba,9.82,2022-2023,S1,2023-01-15
+1212,1332,Awa Cissé,Cybersécurité,Master 2,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,11.58,2023-2024,S2,2024-06-20
+1213,1237,Mamadou Cissé,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,103,Cheikh Ndiaye,11.5,2024-2025,S1,2025-01-15
+1214,1026,Cheikh Faye,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,110,Ibrahima Gaye,16.66,2025-2026,S1,2026-01-15
+1215,1134,Cheikh Badji,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,12.86,2022-2023,S2,2023-06-20
+1216,1088,Rokhaya Cissé,Génie Logiciel,Licence 2,210,Business Intelligence & Power BI,3.5,101,Mamadou Diallo,17.79,2022-2023,S2,2023-06-20
+1217,1345,Khadija Badji,Intelligence Artificielle,Licence 3,208,Sécurité des Systèmes d'Information,3.0,104,Fatou Diop,11.64,2022-2023,S2,2023-06-20
+1218,1105,Mariama Diallo,Génie Logiciel,Licence 3,204,Algorithmique & Python Advanced,3.5,105,Ousmane Faye,14.69,2024-2025,S1,2025-01-15
+1219,1254,Fatou Mendy,Intelligence Artificielle,Licence 1,207,Architecture Microservices & Cloud,3.0,107,Aminata Cissé,11.13,2023-2024,S1,2024-01-15
+1220,1106,Rokhaya Diop,Data Engineering,Master 1,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,20.0,2023-2024,S2,2024-06-20
+1221,1347,Mamadou Sy,Cybersécurité,Licence 2,204,Algorithmique & Python Advanced,3.5,103,Cheikh Ndiaye,10.0,2025-2026,S1,2026-01-15
+1222,1210,Moussa Sarr,Génie Logiciel,Licence 3,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,14.79,2022-2023,S1,2023-01-15
+1223,1135,Awa Ndiaye,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,15.83,2025-2026,S2,2026-06-20
+1224,1190,Pape Cissé,Data Engineering,Licence 3,210,Business Intelligence & Power BI,3.5,102,Aïssatou Sow,15.12,2025-2026,S2,2026-06-20
+1225,1006,Rokhaya Sow,Data Engineering,Master 1,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,13.21,2023-2024,S1,2024-01-15
+1226,1355,Mariama Gaye,Data Engineering,Licence 2,207,Architecture Microservices & Cloud,3.0,107,Aminata Cissé,13.38,2023-2024,S2,2024-06-20
+1227,1217,Ibrahima Touré,Intelligence Artificielle,Master 2,212,Gouvernance des Données & DPO,2.5,102,Aïssatou Sow,13.94,2024-2025,S1,2025-01-15
+1228,1049,Babacar Fall,Cybersécurité,Licence 3,209,Statistiques Inférentielles,3.0,101,Mamadou Diallo,13.33,2022-2023,S1,2023-01-15
+1229,1171,Babacar Samb,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,16.88,2025-2026,S2,2026-06-20
+1230,1311,Fatou Dramé,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,20.0,2022-2023,S1,2023-01-15
+1231,1130,Aminata Cissé,Intelligence Artificielle,Master 1,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,12.02,2025-2026,S1,2026-01-15
+1232,1203,Binta Badji,Intelligence Artificielle,Licence 1,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,9.42,2024-2025,S2,2025-06-20
+1233,1287,Oumar Touré,Génie Logiciel,Master 1,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,13.52,2023-2024,S1,2024-01-15
+1234,1087,Awa Sow,Intelligence Artificielle,Licence 3,209,Statistiques Inférentielles,3.0,106,Babacar Kane,20.0,2025-2026,S2,2026-06-20
+1235,1240,Pape Diallo,Cybersécurité,Master 2,203,Big Data & Hadoop/Spark,4.0,106,Babacar Kane,11.23,2022-2023,S2,2023-06-20
+1236,1272,Cheikh Faye,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,19.05,2023-2024,S1,2024-01-15
+1237,1060,Saliou Faye,Génie Logiciel,Master 1,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,19.17,2022-2023,S1,2023-01-15
+1238,1256,Aminata Mendy,Data Engineering,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,12.03,2024-2025,S2,2025-06-20
+1239,1145,Cheikh Fall,Génie Logiciel,Master 2,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,15.62,2024-2025,S1,2025-01-15
+1240,1161,Aminata Dramé,Data Engineering,Licence 3,207,Architecture Microservices & Cloud,3.0,106,Babacar Kane,19.01,2023-2024,S1,2024-01-15
+1241,1252,Aminata Sy,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,12.59,2025-2026,S2,2026-06-20
+1242,1097,Aïssatou Fall,Cybersécurité,Master 2,203,Big Data & Hadoop/Spark,4.0,104,Fatou Diop,13.15,2022-2023,S1,2023-01-15
+1243,1094,Adama Faye,Génie Logiciel,Master 2,201,Bases de Données Relationnelles (SQL),4.0,105,Ousmane Faye,11.94,2025-2026,S2,2026-06-20
+1244,1084,Pape Fall,Génie Logiciel,Licence 1,212,Gouvernance des Données & DPO,2.5,107,Aminata Cissé,10.55,2025-2026,S2,2026-06-20
+1245,1060,Saliou Faye,Génie Logiciel,Master 1,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,11.72,2022-2023,S1,2023-01-15
+1246,1183,Modou Diallo,Data Engineering,Master 1,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,9.88,2025-2026,S2,2026-06-20
+1247,1253,Ibrahima Sarr,Génie Logiciel,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,13.91,2023-2024,S1,2024-01-15
+1248,1179,Adama Samb,Génie Logiciel,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,105,Ousmane Faye,11.34,2023-2024,S2,2024-06-20
+1249,1093,Aminata Badiane,Génie Logiciel,Licence 2,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,14.55,2024-2025,S1,2025-01-15
+1250,1340,Khadija Mendy,Cybersécurité,Master 2,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,8.82,2023-2024,S2,2024-06-20
+1251,1003,Ibrahima Dramé,Génie Logiciel,Master 2,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,14.86,2023-2024,S1,2024-01-15
+1252,1040,Modou Badji,Intelligence Artificielle,Licence 3,204,Algorithmique & Python Advanced,3.5,102,Aïssatou Sow,16.47,2025-2026,S2,2026-06-20
+1253,1169,Mariama Faye,Génie Logiciel,Master 1,201,Bases de Données Relationnelles (SQL),4.0,102,Aïssatou Sow,7.42,2024-2025,S1,2025-01-15
+1254,1202,Babacar Mendy,Data Engineering,Licence 2,206,Machine Learning & Deep Learning,4.0,106,Babacar Kane,15.0,2022-2023,S2,2023-06-20
+1255,1079,Moussa Ndiaye,Intelligence Artificielle,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,17.73,2022-2023,S2,2023-06-20
+1256,1338,Mamadou Kane,Cybersécurité,Master 1,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,9.93,2025-2026,S2,2026-06-20
+1257,1169,Mariama Faye,Génie Logiciel,Master 1,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,19.15,2025-2026,S2,2026-06-20
+1258,1292,Abdoulaye Touré,Génie Logiciel,Licence 3,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,15.14,2023-2024,S2,2024-06-20
+1259,1330,Adama Fall,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,101,Mamadou Diallo,11.54,2024-2025,S2,2025-06-20
+1260,1037,Adama Sow,Data Engineering,Licence 1,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,13.62,2025-2026,S1,2026-01-15
+1261,1205,Fatou Diop,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,104,Fatou Diop,15.59,2023-2024,S1,2024-01-15
+1262,1205,Fatou Diop,Génie Logiciel,Master 1,202,Bases de Données NoSQL (MongoDB),3.0,104,Fatou Diop,14.04,2022-2023,S1,2023-01-15
+1263,1084,Pape Fall,Génie Logiciel,Licence 1,207,Architecture Microservices & Cloud,3.0,105,Ousmane Faye,15.52,2025-2026,S1,2026-01-15
+1264,1332,Awa Cissé,Cybersécurité,Master 2,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,10.85,2023-2024,S1,2024-01-15
+1265,1153,Binta Sarr,Data Engineering,Licence 1,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,14.34,2025-2026,S1,2026-01-15
+1266,1351,Fatou Mendy,Génie Logiciel,Master 2,210,Business Intelligence & Power BI,3.5,106,Babacar Kane,9.28,2023-2024,S1,2024-01-15
+1267,1341,Awa Cissé,Intelligence Artificielle,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,109,Mariama Ba,13.44,2024-2025,S2,2025-06-20
+1268,1103,Saliou Camara,Data Engineering,Licence 2,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,10.91,2025-2026,S2,2026-06-20
+1269,1244,Babacar Faye,Cybersécurité,Master 2,205,Data Warehousing & ETL (SSIS),4.0,102,Aïssatou Sow,11.45,2025-2026,S1,2026-01-15
+1270,1217,Ibrahima Touré,Intelligence Artificielle,Master 2,206,Machine Learning & Deep Learning,4.0,107,Aminata Cissé,17.76,2023-2024,S1,2024-01-15
+1271,1323,Aminata Dramé,Cybersécurité,Licence 3,207,Architecture Microservices & Cloud,3.0,101,Mamadou Diallo,17.29,2022-2023,S2,2023-06-20
+1272,1263,Jean Cissé,Intelligence Artificielle,Master 2,206,Machine Learning & Deep Learning,4.0,104,Fatou Diop,15.75,2025-2026,S2,2026-06-20
+1273,1254,Fatou Mendy,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,10.3,2022-2023,S2,2023-06-20
+1274,1240,Pape Diallo,Cybersécurité,Master 2,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,12.79,2022-2023,S2,2023-06-20
+1275,1154,Modou Ndiaye,Data Engineering,Master 2,203,Big Data & Hadoop/Spark,4.0,105,Ousmane Faye,17.68,2023-2024,S1,2024-01-15
+1276,1128,Awa Diop,Data Engineering,Master 2,209,Statistiques Inférentielles,3.0,105,Ousmane Faye,14.25,2025-2026,S1,2026-01-15
+1277,1292,Abdoulaye Touré,Génie Logiciel,Licence 3,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,20.0,2022-2023,S2,2023-06-20
+1278,1263,Jean Cissé,Intelligence Artificielle,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,107,Aminata Cissé,15.06,2025-2026,S1,2026-01-15
+1279,1049,Babacar Fall,Cybersécurité,Licence 3,208,Sécurité des Systèmes d'Information,3.0,106,Babacar Kane,14.41,2024-2025,S1,2025-01-15
+1280,1131,Fatou Mendy,Cybersécurité,Licence 2,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,12.81,2022-2023,S2,2023-06-20
+1281,1009,Moussa Camara,Génie Logiciel,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,14.23,2025-2026,S2,2026-06-20
+1282,1094,Adama Faye,Génie Logiciel,Master 2,207,Architecture Microservices & Cloud,3.0,102,Aïssatou Sow,13.31,2022-2023,S1,2023-01-15
+1283,1214,Binta Mendy,Génie Logiciel,Licence 1,212,Gouvernance des Données & DPO,2.5,106,Babacar Kane,16.07,2024-2025,S1,2025-01-15
+1284,1301,Saliou Diallo,Data Engineering,Master 2,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,16.86,2025-2026,S2,2026-06-20
+1285,1320,Aïssatou Gaye,Cybersécurité,Licence 2,205,Data Warehousing & ETL (SSIS),4.0,103,Cheikh Ndiaye,11.28,2024-2025,S2,2025-06-20
+1286,1109,Abdoulaye Mendy,Cybersécurité,Licence 1,203,Big Data & Hadoop/Spark,4.0,110,Ibrahima Gaye,9.54,2022-2023,S2,2023-06-20
+1287,1133,Abdoulaye Cissé,Data Engineering,Licence 2,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,7.92,2022-2023,S2,2023-06-20
+1288,1274,Ibrahima Fall,Intelligence Artificielle,Master 1,201,Bases de Données Relationnelles (SQL),4.0,107,Aminata Cissé,15.43,2022-2023,S1,2023-01-15
+1289,1060,Saliou Faye,Génie Logiciel,Master 1,201,Bases de Données Relationnelles (SQL),4.0,108,Moussa Seck,10.27,2023-2024,S1,2024-01-15
+1290,1236,Jean Badji,Data Engineering,Master 1,212,Gouvernance des Données & DPO,2.5,110,Ibrahima Gaye,6.91,2025-2026,S1,2026-01-15
+1291,1250,Cheikh Gaye,Cybersécurité,Licence 3,205,Data Warehousing & ETL (SSIS),4.0,107,Aminata Cissé,15.04,2024-2025,S2,2025-06-20
+1292,1155,Aminata Faye,Intelligence Artificielle,Master 2,202,Bases de Données NoSQL (MongoDB),3.0,103,Cheikh Ndiaye,20.0,2023-2024,S1,2024-01-15
+1293,1008,Mamadou Cissé,Intelligence Artificielle,Master 1,204,Algorithmique & Python Advanced,3.5,101,Mamadou Diallo,13.78,2022-2023,S2,2023-06-20
+1294,1357,Oumar Gaye,Cybersécurité,Licence 1,204,Algorithmique & Python Advanced,3.5,104,Fatou Diop,16.48,2022-2023,S1,2023-01-15
+1295,1247,Babacar Touré,Génie Logiciel,Licence 3,211,DevOps & Docker/Kubernetes,3.0,104,Fatou Diop,14.06,2023-2024,S1,2024-01-15
+1296,1224,Adama Dramé,Intelligence Artificielle,Master 2,211,DevOps & Docker/Kubernetes,3.0,102,Aïssatou Sow,13.48,2023-2024,S2,2024-06-20
+1297,1155,Aminata Faye,Intelligence Artificielle,Master 2,208,Sécurité des Systèmes d'Information,3.0,108,Moussa Seck,16.74,2023-2024,S1,2024-01-15
+1298,1217,Ibrahima Touré,Intelligence Artificielle,Master 2,201,Bases de Données Relationnelles (SQL),4.0,103,Cheikh Ndiaye,12.87,2022-2023,S2,2023-06-20
+1299,1079,Moussa Ndiaye,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,14.66,2025-2026,S2,2026-06-20
+1300,1242,Awa Touré,Génie Logiciel,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,14.83,2025-2026,S2,2026-06-20
+1301,1125,Ibrahima Camara,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,110,Ibrahima Gaye,11.66,2024-2025,S1,2025-01-15
+1302,1201,Khadija Diallo,Cybersécurité,Master 1,201,Bases de Données Relationnelles (SQL),4.0,101,Mamadou Diallo,16.97,2024-2025,S2,2025-06-20
+1303,1053,Moussa Faye,Intelligence Artificielle,Master 2,211,DevOps & Docker/Kubernetes,3.0,107,Aminata Cissé,13.24,2025-2026,S1,2026-01-15
+1304,1254,Fatou Mendy,Intelligence Artificielle,Licence 1,212,Gouvernance des Données & DPO,2.5,101,Mamadou Diallo,11.38,2024-2025,S1,2025-01-15
+1305,1250,Cheikh Gaye,Cybersécurité,Licence 3,207,Architecture Microservices & Cloud,3.0,109,Mariama Ba,15.52,2025-2026,S2,2026-06-20
+1306,1303,Saliou Kane,Génie Logiciel,Master 1,212,Gouvernance des Données & DPO,2.5,104,Fatou Diop,10.92,2025-2026,S2,2026-06-20
+1307,1032,Aminata Badji,Intelligence Artificielle,Licence 1,209,Statistiques Inférentielles,3.0,107,Aminata Cissé,13.89,2022-2023,S1,2023-01-15
+1308,1296,Pape Fall,Intelligence Artificielle,Master 2,206,Machine Learning & Deep Learning,4.0,105,Ousmane Faye,13.77,2022-2023,S2,2023-06-20
+1309,1332,Awa Cissé,Cybersécurité,Master 2,207,Architecture Microservices & Cloud,3.0,102,Aïssatou Sow,17.27,2025-2026,S2,2026-06-20
+1310,1254,Fatou Mendy,Intelligence Artificielle,Licence 1,210,Business Intelligence & Power BI,3.5,108,Moussa Seck,15.32,2024-2025,S2,2025-06-20
+1311,1358,Modou Mendy,Cybersécurité,Licence 2,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,13.72,2022-2023,S1,2023-01-15
+1312,1148,Aminata Fall,Cybersécurité,Master 1,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,16.42,2023-2024,S2,2024-06-20
+1313,1177,Binta Dramé,Génie Logiciel,Licence 1,208,Sécurité des Systèmes d'Information,3.0,109,Mariama Ba,18.25,2023-2024,S2,2024-06-20
+1314,1113,Awa Gaye,Cybersécurité,Licence 3,210,Business Intelligence & Power BI,3.5,110,Ibrahima Gaye,15.58,2024-2025,S2,2025-06-20
+1315,1337,Khadija Sarr,Intelligence Artificielle,Master 1,208,Sécurité des Systèmes d'Information,3.0,105,Ousmane Faye,13.83,2023-2024,S1,2024-01-15
+1316,1200,Cheikh Gaye,Génie Logiciel,Licence 1,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,9.6,2024-2025,S2,2025-06-20
+1317,1083,Babacar Touré,Intelligence Artificielle,Licence 3,210,Business Intelligence & Power BI,3.5,105,Ousmane Faye,10.39,2023-2024,S2,2024-06-20
+1318,1354,Cheikh Gaye,Génie Logiciel,Licence 1,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,12.82,2022-2023,S2,2023-06-20
+1319,1067,Abdoulaye Badji,Cybersécurité,Licence 1,203,Big Data & Hadoop/Spark,4.0,103,Cheikh Ndiaye,11.85,2023-2024,S2,2024-06-20
+1320,1311,Fatou Dramé,Cybersécurité,Licence 1,208,Sécurité des Systèmes d'Information,3.0,107,Aminata Cissé,13.2,2022-2023,S2,2023-06-20
+1321,1253,Ibrahima Sarr,Génie Logiciel,Master 1,205,Data Warehousing & ETL (SSIS),4.0,104,Fatou Diop,13.98,2023-2024,S2,2024-06-20
+1322,1286,Fatou Kane,Intelligence Artificielle,Licence 1,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,15.5,2022-2023,S1,2023-01-15
+1323,1134,Cheikh Badji,Data Engineering,Master 1,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,13.57,2023-2024,S1,2024-01-15
+1324,1258,Abdoulaye Seck,Intelligence Artificielle,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,106,Babacar Kane,15.36,2022-2023,S2,2023-06-20
+1325,1221,Pape Cissé,Génie Logiciel,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,102,Aïssatou Sow,14.01,2023-2024,S2,2024-06-20
+1326,1133,Abdoulaye Cissé,Data Engineering,Licence 2,206,Machine Learning & Deep Learning,4.0,101,Mamadou Diallo,7.48,2024-2025,S2,2025-06-20
+1327,1286,Fatou Kane,Intelligence Artificielle,Licence 1,205,Data Warehousing & ETL (SSIS),4.0,109,Mariama Ba,10.79,2023-2024,S1,2024-01-15
+1328,1310,Abdoulaye Faye,Cybersécurité,Licence 1,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,13.34,2022-2023,S2,2023-06-20
+1329,1225,Awa Badiane,Génie Logiciel,Master 2,208,Sécurité des Systèmes d'Information,3.0,102,Aïssatou Sow,9.93,2022-2023,S2,2023-06-20
+1330,1313,Modou Touré,Data Engineering,Licence 2,210,Business Intelligence & Power BI,3.5,109,Mariama Ba,15.72,2022-2023,S2,2023-06-20
+1331,1022,Abdoulaye Ndiaye,Cybersécurité,Licence 1,209,Statistiques Inférentielles,3.0,103,Cheikh Ndiaye,18.7,2022-2023,S2,2023-06-20
+1332,1323,Aminata Dramé,Cybersécurité,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,17.7,2023-2024,S2,2024-06-20
+1333,1081,Saliou Faye,Intelligence Artificielle,Licence 3,212,Gouvernance des Données & DPO,2.5,108,Moussa Seck,13.12,2024-2025,S1,2025-01-15
+1334,1260,Binta Sarr,Intelligence Artificielle,Licence 2,208,Sécurité des Systèmes d'Information,3.0,103,Cheikh Ndiaye,18.57,2022-2023,S2,2023-06-20
+1335,1332,Awa Cissé,Cybersécurité,Master 2,206,Machine Learning & Deep Learning,4.0,103,Cheikh Ndiaye,14.28,2024-2025,S2,2025-06-20
+1336,1063,Adama Sow,Cybersécurité,Master 2,204,Algorithmique & Python Advanced,3.5,107,Aminata Cissé,12.72,2025-2026,S2,2026-06-20
+1337,1004,Khadija Fall,Cybersécurité,Licence 3,204,Algorithmique & Python Advanced,3.5,106,Babacar Kane,11.84,2025-2026,S2,2026-06-20
+1338,1147,Mariama Badiane,Cybersécurité,Master 2,209,Statistiques Inférentielles,3.0,102,Aïssatou Sow,12.83,2023-2024,S1,2024-01-15
+1339,1137,Aïssatou Mendy,Data Engineering,Licence 2,206,Machine Learning & Deep Learning,4.0,106,Babacar Kane,12.56,2025-2026,S1,2026-01-15
+1340,1323,Aminata Dramé,Cybersécurité,Licence 3,211,DevOps & Docker/Kubernetes,3.0,103,Cheikh Ndiaye,14.35,2023-2024,S2,2024-06-20
+1341,1272,Cheikh Faye,Cybersécurité,Master 1,207,Architecture Microservices & Cloud,3.0,103,Cheikh Ndiaye,14.31,2023-2024,S2,2024-06-20
+1342,1220,Saliou Badji,Génie Logiciel,Licence 2,207,Architecture Microservices & Cloud,3.0,108,Moussa Seck,13.81,2025-2026,S1,2026-01-15
+1343,1265,Adama Sy,Data Engineering,Master 2,211,DevOps & Docker/Kubernetes,3.0,101,Mamadou Diallo,15.2,2024-2025,S2,2025-06-20
+1344,1227,Aminata Gaye,Génie Logiciel,Master 1,203,Big Data & Hadoop/Spark,4.0,109,Mariama Ba,17.61,2022-2023,S1,2023-01-15
+1345,1036,Mamadou Camara,Génie Logiciel,Licence 3,202,Bases de Données NoSQL (MongoDB),3.0,106,Babacar Kane,16.84,2024-2025,S2,2025-06-20
+1346,1206,Aïssatou Gaye,Data Engineering,Master 1,203,Big Data & Hadoop/Spark,4.0,101,Mamadou Diallo,9.05,2025-2026,S1,2026-01-15
+1347,1202,Babacar Mendy,Data Engineering,Licence 2,201,Bases de Données Relationnelles (SQL),4.0,110,Ibrahima Gaye,5.63,2023-2024,S1,2024-01-15

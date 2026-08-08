@@ -1,0 +1,361 @@
+id_etudiant,nom,prenom,date_naissance,email,adresse,id_niveau,id_filiere,nom_filiere,nom_niveau
+1001,Cissé,Ibrahima,2001-03-24,ibrahima.cissé1@student.sn,"Thiès, Quartier 11",2,3,Intelligence Artificielle,Licence 2
+1002,Badji,Moussa,1998-02-07,moussa.badji2@student.sn,"Ziguinchor, Quartier 9",1,4,Cybersécurité,Licence 1
+1003,Dramé,Ibrahima,2004-04-15,ibrahima.dramé3@student.sn,"Rufisque, Quartier 13",5,2,Génie Logiciel,Master 2
+1004,Fall,Khadija,2002-03-07,khadija.fall4@student.sn,"Kaolack, Quartier 2",3,4,Cybersécurité,Licence 3
+1005,Gaye,Mamadou,2003-10-09,mamadou.gaye5@student.sn,"Dakar, Quartier 12",3,1,Data Engineering,Licence 3
+1006,Sow,Rokhaya,1999-09-10,rokhaya.sow6@student.sn,"Kaolack, Quartier 10",4,1,Data Engineering,Master 1
+1007,Kane,Moussa,2002-02-28,moussa.kane7@student.sn,"Ziguinchor, Quartier 14",2,1,Data Engineering,Licence 2
+1008,Cissé,Mamadou,2003-03-12,mamadou.cissé8@student.sn,"Kaolack, Quartier 4",4,3,Intelligence Artificielle,Master 1
+1009,Camara,Moussa,2001-03-15,moussa.camara9@student.sn,"Mbour, Quartier 5",5,2,Génie Logiciel,Master 2
+1010,Badji,Oumar,2001-01-26,oumar.badji10@student.sn,"Kaolack, Quartier 7",1,3,Intelligence Artificielle,Licence 1
+1011,Camara,Moussa,2003-04-21,moussa.camara11@student.sn,"Touba, Quartier 7",5,2,Génie Logiciel,Master 2
+1012,Sow,Modou,2001-12-18,modou.sow12@student.sn,"Rufisque, Quartier 12",2,3,Intelligence Artificielle,Licence 2
+1013,Badiane,Aïssatou,2001-03-17,aïssatou.badiane13@student.sn,"Touba, Quartier 2",3,4,Cybersécurité,Licence 3
+1014,Ba,Mariama,2004-10-03,mariama.ba14@student.sn,"Mbour, Quartier 7",2,2,Génie Logiciel,Licence 2
+1015,Dramé,Abdoulaye,1998-11-24,abdoulaye.dramé15@student.sn,"Thiès, Quartier 11",5,3,Intelligence Artificielle,Master 2
+1016,Badji,Awa,2002-07-06,awa.badji16@student.sn,"Touba, Quartier 1",1,3,Intelligence Artificielle,Licence 1
+1017,Camara,Pape,1999-11-10,pape.camara17@student.sn,"Ziguinchor, Quartier 3",5,2,Génie Logiciel,Master 2
+1018,Ndiaye,Khadija,2003-08-01,khadija.ndiaye18@student.sn,"Thiès, Quartier 15",5,1,Data Engineering,Master 2
+1019,Ndiaye,Jean,2001-10-03,jean.ndiaye19@student.sn,"Thiès, Quartier 12",1,2,Génie Logiciel,Licence 1
+1020,Touré,Moussa,2005-09-06,moussa.touré20@student.sn,"Rufisque, Quartier 9",2,2,Génie Logiciel,Licence 2
+1021,Dramé,Aïssatou,2001-12-10,aïssatou.dramé21@student.sn,"Mbour, Quartier 11",5,2,Génie Logiciel,Master 2
+1022,Ndiaye,Abdoulaye,2001-04-03,abdoulaye.ndiaye22@student.sn,"Kaolack, Quartier 1",1,4,Cybersécurité,Licence 1
+1023,Badiane,Rokhaya,2001-01-03,rokhaya.badiane23@student.sn,"Dakar, Quartier 4",5,2,Génie Logiciel,Master 2
+1024,Gaye,Aminata,2001-05-22,aminata.gaye24@student.sn,"Touba, Quartier 4",1,3,Intelligence Artificielle,Licence 1
+1025,Badji,Modou,2005-07-07,modou.badji25@student.sn,"Thiès, Quartier 2",2,4,Cybersécurité,Licence 2
+1026,Faye,Cheikh,2005-12-02,cheikh.faye26@student.sn,"Thiès, Quartier 1",4,4,Cybersécurité,Master 1
+1027,Diop,Fatou,2001-04-18,fatou.diop27@student.sn,"Touba, Quartier 3",2,1,Data Engineering,Licence 2
+1028,Faye,Khadija,2001-02-15,khadija.faye28@student.sn,"Thiès, Quartier 1",4,3,Intelligence Artificielle,Master 1
+1029,Badji,Ibrahima,2000-07-16,ibrahima.badji29@student.sn,"Touba, Quartier 4",2,1,Data Engineering,Licence 2
+1030,Diop,Aminata,1998-07-09,aminata.diop30@student.sn,"Touba, Quartier 5",4,2,Génie Logiciel,Master 1
+1031,Faye,Rokhaya,2001-05-07,rokhaya.faye31@student.sn,"Dakar, Quartier 10",2,4,Cybersécurité,Licence 2
+1032,Badji,Aminata,1998-10-16,aminata.badji32@student.sn,"Saint-Louis, Quartier 1",1,3,Intelligence Artificielle,Licence 1
+1033,Samb,Moussa,1999-11-28,moussa.samb33@student.sn,"Ziguinchor, Quartier 7",1,2,Génie Logiciel,Licence 1
+1034,Cissé,Saliou,1998-10-03,saliou.cissé34@student.sn,"Mbour, Quartier 11",5,2,Génie Logiciel,Master 2
+1035,Badiane,Saliou,2001-11-23,saliou.badiane35@student.sn,"Kaolack, Quartier 4",3,3,Intelligence Artificielle,Licence 3
+1036,Camara,Mamadou,2005-06-25,mamadou.camara36@student.sn,"Thiès, Quartier 1",3,2,Génie Logiciel,Licence 3
+1037,Sow,Adama,2001-09-09,adama.sow37@student.sn,"Saint-Louis, Quartier 15",1,1,Data Engineering,Licence 1
+1038,Ndiaye,Moussa,2002-03-15,moussa.ndiaye38@student.sn,"Rufisque, Quartier 10",3,2,Génie Logiciel,Licence 3
+1039,Samb,Ibrahima,2000-05-04,ibrahima.samb39@student.sn,"Thiès, Quartier 12",1,3,Intelligence Artificielle,Licence 1
+1040,Badji,Modou,2001-12-11,modou.badji40@student.sn,"Ziguinchor, Quartier 11",3,3,Intelligence Artificielle,Licence 3
+1041,Camara,Pape,1998-02-21,pape.camara41@student.sn,"Mbour, Quartier 14",3,4,Cybersécurité,Licence 3
+1042,Camara,Aminata,2000-11-09,aminata.camara42@student.sn,"Saint-Louis, Quartier 12",3,1,Data Engineering,Licence 3
+1043,Sow,Rokhaya,1998-02-03,rokhaya.sow43@student.sn,"Saint-Louis, Quartier 9",5,4,Cybersécurité,Master 2
+1044,Ba,Cheikh,2000-01-10,cheikh.ba44@student.sn,"Kaolack, Quartier 15",4,2,Génie Logiciel,Master 1
+1045,Ba,Cheikh,1999-06-25,cheikh.ba45@student.sn,"Mbour, Quartier 10",2,2,Génie Logiciel,Licence 2
+1046,Sarr,Oumar,2004-01-06,oumar.sarr46@student.sn,"Kaolack, Quartier 13",2,2,Génie Logiciel,Licence 2
+1047,Faye,Oumar,1999-07-28,oumar.faye47@student.sn,"Dakar, Quartier 14",2,3,Intelligence Artificielle,Licence 2
+1048,Touré,Oumar,2003-05-27,oumar.touré48@student.sn,"Ziguinchor, Quartier 4",4,2,Génie Logiciel,Master 1
+1049,Fall,Babacar,2002-02-25,babacar.fall49@student.sn,"Rufisque, Quartier 6",3,4,Cybersécurité,Licence 3
+1050,Samb,Mamadou,1999-05-06,mamadou.samb50@student.sn,"Rufisque, Quartier 1",1,3,Intelligence Artificielle,Licence 1
+1051,Cissé,Adama,2003-07-20,adama.cissé51@student.sn,"Thiès, Quartier 7",3,4,Cybersécurité,Licence 3
+1052,Badiane,Babacar,2004-01-17,babacar.badiane52@student.sn,"Ziguinchor, Quartier 6",1,3,Intelligence Artificielle,Licence 1
+1053,Faye,Moussa,2003-11-28,moussa.faye53@student.sn,"Thiès, Quartier 12",5,3,Intelligence Artificielle,Master 2
+1054,Mendy,Pape,2003-07-23,pape.mendy54@student.sn,"Rufisque, Quartier 9",4,3,Intelligence Artificielle,Master 1
+1055,Sarr,Babacar,2000-10-19,babacar.sarr55@student.sn,"Rufisque, Quartier 7",4,4,Cybersécurité,Master 1
+1056,Badji,Ibrahima,2001-07-26,ibrahima.badji56@student.sn,"Kaolack, Quartier 8",3,3,Intelligence Artificielle,Licence 3
+1057,Sow,Abdoulaye,2005-12-06,abdoulaye.sow57@student.sn,"Thiès, Quartier 5",5,2,Génie Logiciel,Master 2
+1058,Samb,Adama,2001-11-10,adama.samb58@student.sn,"Ziguinchor, Quartier 13",1,3,Intelligence Artificielle,Licence 1
+1059,Kane,Modou,2001-08-20,modou.kane59@student.sn,"Thiès, Quartier 8",1,1,Data Engineering,Licence 1
+1060,Faye,Saliou,2005-07-08,saliou.faye60@student.sn,"Saint-Louis, Quartier 11",4,2,Génie Logiciel,Master 1
+1061,Fall,Mariama,2000-12-17,mariama.fall61@student.sn,"Touba, Quartier 1",2,4,Cybersécurité,Licence 2
+1062,Badji,Oumar,2000-08-22,oumar.badji62@student.sn,"Kaolack, Quartier 13",4,1,Data Engineering,Master 1
+1063,Sow,Adama,2005-03-24,adama.sow63@student.sn,"Touba, Quartier 8",5,4,Cybersécurité,Master 2
+1064,Camara,Oumar,2005-11-08,oumar.camara64@student.sn,"Rufisque, Quartier 8",5,3,Intelligence Artificielle,Master 2
+1065,Gaye,Jean,2003-06-18,jean.gaye65@student.sn,"Thiès, Quartier 3",3,2,Génie Logiciel,Licence 3
+1066,Sarr,Oumar,2001-02-14,oumar.sarr66@student.sn,"Mbour, Quartier 6",2,4,Cybersécurité,Licence 2
+1067,Badji,Abdoulaye,2001-07-13,abdoulaye.badji67@student.sn,"Dakar, Quartier 14",1,4,Cybersécurité,Licence 1
+1068,Badiane,Mamadou,2003-05-25,mamadou.badiane68@student.sn,"Mbour, Quartier 14",1,4,Cybersécurité,Licence 1
+1069,Faye,Rokhaya,2001-05-14,rokhaya.faye69@student.sn,"Touba, Quartier 1",4,2,Génie Logiciel,Master 1
+1070,Diop,Fatou,2005-03-20,fatou.diop70@student.sn,"Dakar, Quartier 15",2,4,Cybersécurité,Licence 2
+1071,Diop,Saliou,2004-03-28,saliou.diop71@student.sn,"Touba, Quartier 3",1,1,Data Engineering,Licence 1
+1072,Ba,Awa,2001-08-11,awa.ba72@student.sn,"Kaolack, Quartier 13",3,4,Cybersécurité,Licence 3
+1073,Diop,Awa,1999-08-01,awa.diop73@student.sn,"Dakar, Quartier 6",3,4,Cybersécurité,Licence 3
+1074,Sy,Moussa,2001-04-27,moussa.sy74@student.sn,"Dakar, Quartier 10",1,1,Data Engineering,Licence 1
+1075,Sarr,Oumar,1999-10-07,oumar.sarr75@student.sn,"Touba, Quartier 12",4,2,Génie Logiciel,Master 1
+1076,Camara,Cheikh,1999-03-10,cheikh.camara76@student.sn,"Thiès, Quartier 10",5,2,Génie Logiciel,Master 2
+1077,Fall,Jean,2001-02-19,jean.fall77@student.sn,"Ziguinchor, Quartier 2",4,4,Cybersécurité,Master 1
+1078,Mendy,Adama,1998-06-18,adama.mendy78@student.sn,"Mbour, Quartier 11",5,1,Data Engineering,Master 2
+1079,Ndiaye,Moussa,2004-08-04,moussa.ndiaye79@student.sn,"Mbour, Quartier 6",1,3,Intelligence Artificielle,Licence 1
+1080,Sow,Modou,2002-10-26,modou.sow80@student.sn,"Touba, Quartier 8",2,4,Cybersécurité,Licence 2
+1081,Faye,Saliou,2001-02-09,saliou.faye81@student.sn,"Touba, Quartier 4",3,3,Intelligence Artificielle,Licence 3
+1082,Sow,Saliou,1998-08-28,saliou.sow82@student.sn,"Kaolack, Quartier 3",3,4,Cybersécurité,Licence 3
+1083,Touré,Babacar,2003-05-20,babacar.touré83@student.sn,"Rufisque, Quartier 9",3,3,Intelligence Artificielle,Licence 3
+1084,Fall,Pape,2001-12-14,pape.fall84@student.sn,"Touba, Quartier 9",1,2,Génie Logiciel,Licence 1
+1085,Sy,Binta,1998-02-10,binta.sy85@student.sn,"Ziguinchor, Quartier 7",4,4,Cybersécurité,Master 1
+1086,Sy,Jean,2003-07-24,jean.sy86@student.sn,"Kaolack, Quartier 6",4,3,Intelligence Artificielle,Master 1
+1087,Sow,Awa,2001-02-24,awa.sow87@student.sn,"Ziguinchor, Quartier 6",3,3,Intelligence Artificielle,Licence 3
+1088,Cissé,Rokhaya,2001-12-16,rokhaya.cissé88@student.sn,"Rufisque, Quartier 12",2,2,Génie Logiciel,Licence 2
+1089,Badiane,Pape,2001-05-08,pape.badiane89@student.sn,"Kaolack, Quartier 3",1,3,Intelligence Artificielle,Licence 1
+1090,Mendy,Ibrahima,1998-01-18,ibrahima.mendy90@student.sn,"Rufisque, Quartier 12",3,2,Génie Logiciel,Licence 3
+1091,Sarr,Binta,2002-08-16,binta.sarr91@student.sn,"Touba, Quartier 6",1,1,Data Engineering,Licence 1
+1092,Seck,Aminata,1999-02-13,aminata.seck92@student.sn,"Touba, Quartier 2",4,3,Intelligence Artificielle,Master 1
+1093,Badiane,Aminata,2002-02-08,aminata.badiane93@student.sn,"Thiès, Quartier 9",2,2,Génie Logiciel,Licence 2
+1094,Faye,Adama,2004-08-15,adama.faye94@student.sn,"Rufisque, Quartier 14",5,2,Génie Logiciel,Master 2
+1095,Badiane,Aïssatou,1998-10-24,aïssatou.badiane95@student.sn,"Thiès, Quartier 13",5,3,Intelligence Artificielle,Master 2
+1096,Kane,Babacar,2000-04-06,babacar.kane96@student.sn,"Thiès, Quartier 3",1,3,Intelligence Artificielle,Licence 1
+1097,Fall,Aïssatou,2005-05-02,aïssatou.fall97@student.sn,"Ziguinchor, Quartier 5",5,4,Cybersécurité,Master 2
+1098,Mendy,Abdoulaye,2002-11-19,abdoulaye.mendy98@student.sn,"Ziguinchor, Quartier 7",2,1,Data Engineering,Licence 2
+1099,Cissé,Rokhaya,2002-03-03,rokhaya.cissé99@student.sn,"Dakar, Quartier 3",2,2,Génie Logiciel,Licence 2
+1100,Mendy,Adama,1999-08-23,adama.mendy100@student.sn,"Rufisque, Quartier 12",4,3,Intelligence Artificielle,Master 1
+1101,Diop,Awa,1999-10-02,awa.diop101@student.sn,"Mbour, Quartier 12",4,4,Cybersécurité,Master 1
+1102,Diallo,Adama,1999-04-22,adama.diallo102@student.sn,"Dakar, Quartier 13",1,3,Intelligence Artificielle,Licence 1
+1103,Camara,Saliou,2005-09-21,saliou.camara103@student.sn,"Touba, Quartier 15",2,1,Data Engineering,Licence 2
+1104,Camara,Khadija,1999-08-12,khadija.camara104@student.sn,"Mbour, Quartier 6",4,4,Cybersécurité,Master 1
+1105,Diallo,Mariama,2004-12-16,mariama.diallo105@student.sn,"Rufisque, Quartier 11",3,2,Génie Logiciel,Licence 3
+1106,Diop,Rokhaya,1999-06-09,rokhaya.diop106@student.sn,"Kaolack, Quartier 2",4,1,Data Engineering,Master 1
+1107,Diop,Pape,2005-07-02,pape.diop107@student.sn,"Ziguinchor, Quartier 9",5,1,Data Engineering,Master 2
+1108,Ndiaye,Adama,1998-04-09,adama.ndiaye108@student.sn,"Saint-Louis, Quartier 15",4,4,Cybersécurité,Master 1
+1109,Mendy,Abdoulaye,1998-11-20,abdoulaye.mendy109@student.sn,"Ziguinchor, Quartier 12",1,4,Cybersécurité,Licence 1
+1110,Seck,Jean,2004-02-08,jean.seck110@student.sn,"Thiès, Quartier 8",5,1,Data Engineering,Master 2
+1111,Cissé,Modou,2002-07-27,modou.cissé111@student.sn,"Touba, Quartier 8",3,4,Cybersécurité,Licence 3
+1112,Sy,Abdoulaye,2001-10-17,abdoulaye.sy112@student.sn,"Saint-Louis, Quartier 14",4,2,Génie Logiciel,Master 1
+1113,Gaye,Awa,2002-01-10,awa.gaye113@student.sn,"Rufisque, Quartier 14",3,4,Cybersécurité,Licence 3
+1114,Badiane,Saliou,2005-09-16,saliou.badiane114@student.sn,"Kaolack, Quartier 6",2,4,Cybersécurité,Licence 2
+1115,Badji,Rokhaya,2003-04-23,rokhaya.badji115@student.sn,"Ziguinchor, Quartier 10",4,4,Cybersécurité,Master 1
+1116,Diop,Oumar,2003-12-16,oumar.diop116@student.sn,"Mbour, Quartier 7",1,4,Cybersécurité,Licence 1
+1117,Sarr,Binta,2003-02-28,binta.sarr117@student.sn,"Touba, Quartier 2",2,1,Data Engineering,Licence 2
+1118,Samb,Abdoulaye,2004-11-05,abdoulaye.samb118@student.sn,"Thiès, Quartier 8",2,1,Data Engineering,Licence 2
+1119,Camara,Fatou,2003-11-28,fatou.camara119@student.sn,"Mbour, Quartier 6",1,4,Cybersécurité,Licence 1
+1120,Touré,Rokhaya,1999-04-21,rokhaya.touré120@student.sn,"Rufisque, Quartier 4",5,1,Data Engineering,Master 2
+1121,Gaye,Aïssatou,2005-03-23,aïssatou.gaye121@student.sn,"Rufisque, Quartier 15",1,1,Data Engineering,Licence 1
+1122,Fall,Aminata,2002-06-12,aminata.fall122@student.sn,"Mbour, Quartier 3",1,3,Intelligence Artificielle,Licence 1
+1123,Sy,Pape,2000-03-06,pape.sy123@student.sn,"Thiès, Quartier 10",5,4,Cybersécurité,Master 2
+1124,Diop,Adama,2000-04-15,adama.diop124@student.sn,"Rufisque, Quartier 8",4,2,Génie Logiciel,Master 1
+1125,Camara,Ibrahima,2000-02-15,ibrahima.camara125@student.sn,"Kaolack, Quartier 10",3,4,Cybersécurité,Licence 3
+1126,Mendy,Aïssatou,2002-04-13,aïssatou.mendy126@student.sn,"Touba, Quartier 2",4,3,Intelligence Artificielle,Master 1
+1127,Sy,Mamadou,2002-12-10,mamadou.sy127@student.sn,"Dakar, Quartier 14",5,3,Intelligence Artificielle,Master 2
+1128,Diop,Awa,1998-10-24,awa.diop128@student.sn,"Touba, Quartier 14",5,1,Data Engineering,Master 2
+1129,Mendy,Oumar,2001-10-09,oumar.mendy129@student.sn,"Saint-Louis, Quartier 11",2,3,Intelligence Artificielle,Licence 2
+1130,Cissé,Aminata,1998-10-12,aminata.cissé130@student.sn,"Saint-Louis, Quartier 2",4,3,Intelligence Artificielle,Master 1
+1131,Mendy,Fatou,2001-03-26,fatou.mendy131@student.sn,"Kaolack, Quartier 9",2,4,Cybersécurité,Licence 2
+1132,Samb,Awa,2005-05-24,awa.samb132@student.sn,"Kaolack, Quartier 13",3,2,Génie Logiciel,Licence 3
+1133,Cissé,Abdoulaye,2001-11-24,abdoulaye.cissé133@student.sn,"Mbour, Quartier 14",2,1,Data Engineering,Licence 2
+1134,Badji,Cheikh,1998-05-18,cheikh.badji134@student.sn,"Thiès, Quartier 8",4,1,Data Engineering,Master 1
+1135,Ndiaye,Awa,1999-11-08,awa.ndiaye135@student.sn,"Touba, Quartier 1",3,4,Cybersécurité,Licence 3
+1136,Dramé,Rokhaya,2001-11-03,rokhaya.dramé136@student.sn,"Touba, Quartier 15",5,3,Intelligence Artificielle,Master 2
+1137,Mendy,Aïssatou,1998-01-10,aïssatou.mendy137@student.sn,"Touba, Quartier 2",2,1,Data Engineering,Licence 2
+1138,Cissé,Oumar,2005-06-22,oumar.cissé138@student.sn,"Mbour, Quartier 10",4,2,Génie Logiciel,Master 1
+1139,Sarr,Aïssatou,2004-05-02,aïssatou.sarr139@student.sn,"Kaolack, Quartier 4",4,1,Data Engineering,Master 1
+1140,Sow,Abdoulaye,1999-11-12,abdoulaye.sow140@student.sn,"Kaolack, Quartier 1",3,2,Génie Logiciel,Licence 3
+1141,Diop,Awa,2005-02-22,awa.diop141@student.sn,"Ziguinchor, Quartier 11",1,2,Génie Logiciel,Licence 1
+1142,Dramé,Ibrahima,2001-03-26,ibrahima.dramé142@student.sn,"Ziguinchor, Quartier 2",3,1,Data Engineering,Licence 3
+1143,Badji,Babacar,2003-03-26,babacar.badji143@student.sn,"Dakar, Quartier 5",2,2,Génie Logiciel,Licence 2
+1144,Sarr,Modou,1999-11-28,modou.sarr144@student.sn,"Dakar, Quartier 3",2,3,Intelligence Artificielle,Licence 2
+1145,Fall,Cheikh,2003-01-06,cheikh.fall145@student.sn,"Rufisque, Quartier 1",5,2,Génie Logiciel,Master 2
+1146,Sarr,Aïssatou,2005-08-25,aïssatou.sarr146@student.sn,"Kaolack, Quartier 9",1,1,Data Engineering,Licence 1
+1147,Badiane,Mariama,2001-10-02,mariama.badiane147@student.sn,"Rufisque, Quartier 8",5,4,Cybersécurité,Master 2
+1148,Fall,Aminata,2004-11-04,aminata.fall148@student.sn,"Touba, Quartier 12",4,4,Cybersécurité,Master 1
+1149,Sow,Moussa,2000-02-05,moussa.sow149@student.sn,"Rufisque, Quartier 10",3,1,Data Engineering,Licence 3
+1150,Badiane,Rokhaya,2002-08-17,rokhaya.badiane150@student.sn,"Mbour, Quartier 2",4,3,Intelligence Artificielle,Master 1
+1151,Cissé,Rokhaya,2005-04-14,rokhaya.cissé151@student.sn,"Kaolack, Quartier 14",4,2,Génie Logiciel,Master 1
+1152,Sow,Mamadou,2003-07-11,mamadou.sow152@student.sn,"Rufisque, Quartier 6",1,4,Cybersécurité,Licence 1
+1153,Sarr,Binta,1999-02-14,binta.sarr153@student.sn,"Thiès, Quartier 12",1,1,Data Engineering,Licence 1
+1154,Ndiaye,Modou,2003-11-04,modou.ndiaye154@student.sn,"Mbour, Quartier 6",5,1,Data Engineering,Master 2
+1155,Faye,Aminata,2002-06-04,aminata.faye155@student.sn,"Ziguinchor, Quartier 3",5,3,Intelligence Artificielle,Master 2
+1156,Touré,Oumar,2003-02-25,oumar.touré156@student.sn,"Rufisque, Quartier 10",3,1,Data Engineering,Licence 3
+1157,Sy,Aïssatou,2002-01-06,aïssatou.sy157@student.sn,"Rufisque, Quartier 12",5,1,Data Engineering,Master 2
+1158,Mendy,Fatou,2000-03-19,fatou.mendy158@student.sn,"Mbour, Quartier 2",1,3,Intelligence Artificielle,Licence 1
+1159,Sarr,Ibrahima,2001-07-14,ibrahima.sarr159@student.sn,"Touba, Quartier 6",5,1,Data Engineering,Master 2
+1160,Seck,Cheikh,1999-01-05,cheikh.seck160@student.sn,"Saint-Louis, Quartier 13",3,3,Intelligence Artificielle,Licence 3
+1161,Dramé,Aminata,2005-11-14,aminata.dramé161@student.sn,"Touba, Quartier 10",3,1,Data Engineering,Licence 3
+1162,Sow,Aïssatou,1999-06-14,aïssatou.sow162@student.sn,"Thiès, Quartier 5",2,3,Intelligence Artificielle,Licence 2
+1163,Badiane,Binta,2001-07-20,binta.badiane163@student.sn,"Dakar, Quartier 1",1,3,Intelligence Artificielle,Licence 1
+1164,Kane,Jean,2002-05-11,jean.kane164@student.sn,"Thiès, Quartier 1",2,2,Génie Logiciel,Licence 2
+1165,Touré,Aïssatou,2004-09-23,aïssatou.touré165@student.sn,"Ziguinchor, Quartier 9",2,2,Génie Logiciel,Licence 2
+1166,Badji,Cheikh,1998-07-01,cheikh.badji166@student.sn,"Touba, Quartier 15",4,1,Data Engineering,Master 1
+1167,Gaye,Fatou,2004-12-21,fatou.gaye167@student.sn,"Mbour, Quartier 5",5,4,Cybersécurité,Master 2
+1168,Cissé,Mamadou,2000-10-15,mamadou.cissé168@student.sn,"Kaolack, Quartier 2",3,1,Data Engineering,Licence 3
+1169,Faye,Mariama,2004-09-03,mariama.faye169@student.sn,"Mbour, Quartier 14",4,2,Génie Logiciel,Master 1
+1170,Mendy,Fatou,2000-02-17,fatou.mendy170@student.sn,"Thiès, Quartier 9",3,2,Génie Logiciel,Licence 3
+1171,Samb,Babacar,2000-04-04,babacar.samb171@student.sn,"Saint-Louis, Quartier 5",3,3,Intelligence Artificielle,Licence 3
+1172,Kane,Khadija,2000-11-16,khadija.kane172@student.sn,"Touba, Quartier 13",1,2,Génie Logiciel,Licence 1
+1173,Badiane,Saliou,2003-11-11,saliou.badiane173@student.sn,"Saint-Louis, Quartier 8",5,4,Cybersécurité,Master 2
+1174,Gaye,Binta,2002-10-02,binta.gaye174@student.sn,"Kaolack, Quartier 9",3,4,Cybersécurité,Licence 3
+1175,Gaye,Jean,1998-01-12,jean.gaye175@student.sn,"Rufisque, Quartier 2",4,4,Cybersécurité,Master 1
+1176,Gaye,Adama,1998-08-26,adama.gaye176@student.sn,"Ziguinchor, Quartier 6",4,4,Cybersécurité,Master 1
+1177,Dramé,Binta,2005-02-26,binta.dramé177@student.sn,"Kaolack, Quartier 12",1,2,Génie Logiciel,Licence 1
+1178,Gaye,Pape,2001-12-15,pape.gaye178@student.sn,"Touba, Quartier 9",1,2,Génie Logiciel,Licence 1
+1179,Samb,Adama,2003-05-13,adama.samb179@student.sn,"Mbour, Quartier 13",3,2,Génie Logiciel,Licence 3
+1180,Diallo,Adama,1999-06-04,adama.diallo180@student.sn,"Mbour, Quartier 5",3,1,Data Engineering,Licence 3
+1181,Camara,Adama,1999-10-22,adama.camara181@student.sn,"Saint-Louis, Quartier 15",3,2,Génie Logiciel,Licence 3
+1182,Ndiaye,Jean,1999-05-18,jean.ndiaye182@student.sn,"Mbour, Quartier 11",2,4,Cybersécurité,Licence 2
+1183,Diallo,Modou,2003-01-12,modou.diallo183@student.sn,"Rufisque, Quartier 3",4,1,Data Engineering,Master 1
+1184,Kane,Fatou,2001-03-05,fatou.kane184@student.sn,"Thiès, Quartier 5",2,4,Cybersécurité,Licence 2
+1185,Cissé,Pape,2000-10-13,pape.cissé185@student.sn,"Saint-Louis, Quartier 3",3,1,Data Engineering,Licence 3
+1186,Seck,Adama,1998-07-12,adama.seck186@student.sn,"Ziguinchor, Quartier 8",4,2,Génie Logiciel,Master 1
+1187,Dramé,Jean,2001-05-26,jean.dramé187@student.sn,"Touba, Quartier 15",2,4,Cybersécurité,Licence 2
+1188,Kane,Cheikh,2002-07-17,cheikh.kane188@student.sn,"Mbour, Quartier 3",4,4,Cybersécurité,Master 1
+1189,Kane,Adama,1998-11-16,adama.kane189@student.sn,"Kaolack, Quartier 9",3,2,Génie Logiciel,Licence 3
+1190,Cissé,Pape,1999-03-09,pape.cissé190@student.sn,"Touba, Quartier 15",3,1,Data Engineering,Licence 3
+1191,Samb,Modou,2001-08-12,modou.samb191@student.sn,"Dakar, Quartier 7",1,4,Cybersécurité,Licence 1
+1192,Ba,Mamadou,2004-02-12,mamadou.ba192@student.sn,"Ziguinchor, Quartier 1",2,3,Intelligence Artificielle,Licence 2
+1193,Diallo,Mariama,2000-01-10,mariama.diallo193@student.sn,"Touba, Quartier 12",2,3,Intelligence Artificielle,Licence 2
+1194,Sarr,Binta,1998-02-01,binta.sarr194@student.sn,"Rufisque, Quartier 4",5,4,Cybersécurité,Master 2
+1195,Sarr,Rokhaya,2002-04-10,rokhaya.sarr195@student.sn,"Thiès, Quartier 1",1,4,Cybersécurité,Licence 1
+1196,Sy,Aïssatou,1999-08-20,aïssatou.sy196@student.sn,"Dakar, Quartier 11",1,4,Cybersécurité,Licence 1
+1197,Samb,Saliou,2002-07-01,saliou.samb197@student.sn,"Kaolack, Quartier 4",2,2,Génie Logiciel,Licence 2
+1198,Badiane,Aïssatou,2003-02-17,aïssatou.badiane198@student.sn,"Dakar, Quartier 7",1,2,Génie Logiciel,Licence 1
+1199,Touré,Aminata,2002-12-01,aminata.touré199@student.sn,"Kaolack, Quartier 13",3,4,Cybersécurité,Licence 3
+1200,Gaye,Cheikh,2003-03-02,cheikh.gaye200@student.sn,"Kaolack, Quartier 9",1,2,Génie Logiciel,Licence 1
+1201,Diallo,Khadija,2000-03-03,khadija.diallo201@student.sn,"Touba, Quartier 1",4,4,Cybersécurité,Master 1
+1202,Mendy,Babacar,1998-06-10,babacar.mendy202@student.sn,"Mbour, Quartier 14",2,1,Data Engineering,Licence 2
+1203,Badji,Binta,2001-05-12,binta.badji203@student.sn,"Dakar, Quartier 14",1,3,Intelligence Artificielle,Licence 1
+1204,Diallo,Awa,2004-07-24,awa.diallo204@student.sn,"Touba, Quartier 15",3,1,Data Engineering,Licence 3
+1205,Diop,Fatou,2005-06-26,fatou.diop205@student.sn,"Rufisque, Quartier 13",4,2,Génie Logiciel,Master 1
+1206,Gaye,Aïssatou,2000-09-10,aïssatou.gaye206@student.sn,"Kaolack, Quartier 2",4,1,Data Engineering,Master 1
+1207,Gaye,Fatou,2005-10-23,fatou.gaye207@student.sn,"Mbour, Quartier 3",3,3,Intelligence Artificielle,Licence 3
+1208,Sow,Cheikh,2003-10-14,cheikh.sow208@student.sn,"Rufisque, Quartier 11",1,4,Cybersécurité,Licence 1
+1209,Ba,Moussa,2000-01-05,moussa.ba209@student.sn,"Touba, Quartier 1",3,4,Cybersécurité,Licence 3
+1210,Sarr,Moussa,2003-07-19,moussa.sarr210@student.sn,"Dakar, Quartier 10",3,2,Génie Logiciel,Licence 3
+1211,Sarr,Abdoulaye,2005-02-19,abdoulaye.sarr211@student.sn,"Saint-Louis, Quartier 9",3,3,Intelligence Artificielle,Licence 3
+1212,Ndiaye,Mamadou,2001-02-01,mamadou.ndiaye212@student.sn,"Saint-Louis, Quartier 8",3,3,Intelligence Artificielle,Licence 3
+1213,Samb,Mamadou,2002-12-15,mamadou.samb213@student.sn,"Ziguinchor, Quartier 10",3,1,Data Engineering,Licence 3
+1214,Mendy,Binta,2000-02-15,binta.mendy214@student.sn,"Saint-Louis, Quartier 15",1,2,Génie Logiciel,Licence 1
+1215,Sow,Moussa,1999-09-18,moussa.sow215@student.sn,"Rufisque, Quartier 15",3,3,Intelligence Artificielle,Licence 3
+1216,Mendy,Khadija,2001-02-07,khadija.mendy216@student.sn,"Saint-Louis, Quartier 4",3,2,Génie Logiciel,Licence 3
+1217,Touré,Ibrahima,2003-08-26,ibrahima.touré217@student.sn,"Saint-Louis, Quartier 10",5,3,Intelligence Artificielle,Master 2
+1218,Gaye,Moussa,2005-09-14,moussa.gaye218@student.sn,"Mbour, Quartier 14",4,3,Intelligence Artificielle,Master 1
+1219,Badiane,Moussa,1999-08-15,moussa.badiane219@student.sn,"Kaolack, Quartier 3",3,2,Génie Logiciel,Licence 3
+1220,Badji,Saliou,2004-09-28,saliou.badji220@student.sn,"Dakar, Quartier 14",2,2,Génie Logiciel,Licence 2
+1221,Cissé,Pape,2000-03-11,pape.cissé221@student.sn,"Ziguinchor, Quartier 6",3,2,Génie Logiciel,Licence 3
+1222,Samb,Jean,2001-11-18,jean.samb222@student.sn,"Rufisque, Quartier 3",3,1,Data Engineering,Licence 3
+1223,Mendy,Adama,2000-10-19,adama.mendy223@student.sn,"Saint-Louis, Quartier 3",5,1,Data Engineering,Master 2
+1224,Dramé,Adama,1998-01-03,adama.dramé224@student.sn,"Dakar, Quartier 11",5,3,Intelligence Artificielle,Master 2
+1225,Badiane,Awa,2004-10-21,awa.badiane225@student.sn,"Dakar, Quartier 8",5,2,Génie Logiciel,Master 2
+1226,Badji,Jean,2001-11-13,jean.badji226@student.sn,"Rufisque, Quartier 8",4,3,Intelligence Artificielle,Master 1
+1227,Gaye,Aminata,2004-08-15,aminata.gaye227@student.sn,"Ziguinchor, Quartier 6",4,2,Génie Logiciel,Master 1
+1228,Dramé,Modou,2003-07-05,modou.dramé228@student.sn,"Kaolack, Quartier 9",3,3,Intelligence Artificielle,Licence 3
+1229,Badji,Mariama,2005-02-09,mariama.badji229@student.sn,"Touba, Quartier 4",2,3,Intelligence Artificielle,Licence 2
+1230,Sarr,Mariama,2004-10-14,mariama.sarr230@student.sn,"Ziguinchor, Quartier 14",3,1,Data Engineering,Licence 3
+1231,Seck,Fatou,2000-08-17,fatou.seck231@student.sn,"Touba, Quartier 8",2,3,Intelligence Artificielle,Licence 2
+1232,Mendy,Binta,2004-09-15,binta.mendy232@student.sn,"Ziguinchor, Quartier 4",1,1,Data Engineering,Licence 1
+1233,Badiane,Cheikh,2002-08-20,cheikh.badiane233@student.sn,"Touba, Quartier 5",1,1,Data Engineering,Licence 1
+1234,Badji,Ibrahima,2000-05-24,ibrahima.badji234@student.sn,"Kaolack, Quartier 13",4,1,Data Engineering,Master 1
+1235,Diop,Cheikh,1998-10-18,cheikh.diop235@student.sn,"Ziguinchor, Quartier 6",4,1,Data Engineering,Master 1
+1236,Badji,Jean,2005-09-09,jean.badji236@student.sn,"Thiès, Quartier 3",4,1,Data Engineering,Master 1
+1237,Cissé,Mamadou,2003-03-07,mamadou.cissé237@student.sn,"Mbour, Quartier 9",3,3,Intelligence Artificielle,Licence 3
+1238,Ba,Aminata,2003-08-17,aminata.ba238@student.sn,"Touba, Quartier 3",2,1,Data Engineering,Licence 2
+1239,Dramé,Pape,2003-03-13,pape.dramé239@student.sn,"Rufisque, Quartier 10",3,2,Génie Logiciel,Licence 3
+1240,Diallo,Pape,2002-08-27,pape.diallo240@student.sn,"Dakar, Quartier 6",5,4,Cybersécurité,Master 2
+1241,Diallo,Mariama,2002-12-28,mariama.diallo241@student.sn,"Dakar, Quartier 10",5,4,Cybersécurité,Master 2
+1242,Touré,Awa,2005-03-17,awa.touré242@student.sn,"Mbour, Quartier 3",1,2,Génie Logiciel,Licence 1
+1243,Sy,Aminata,1998-08-11,aminata.sy243@student.sn,"Mbour, Quartier 3",2,1,Data Engineering,Licence 2
+1244,Faye,Babacar,2005-12-24,babacar.faye244@student.sn,"Dakar, Quartier 12",5,4,Cybersécurité,Master 2
+1245,Sarr,Pape,2003-11-16,pape.sarr245@student.sn,"Mbour, Quartier 6",5,2,Génie Logiciel,Master 2
+1246,Seck,Abdoulaye,2003-11-25,abdoulaye.seck246@student.sn,"Rufisque, Quartier 10",5,3,Intelligence Artificielle,Master 2
+1247,Touré,Babacar,2002-04-10,babacar.touré247@student.sn,"Rufisque, Quartier 12",3,2,Génie Logiciel,Licence 3
+1248,Kane,Binta,2003-09-26,binta.kane248@student.sn,"Rufisque, Quartier 5",4,3,Intelligence Artificielle,Master 1
+1249,Cissé,Saliou,2003-03-10,saliou.cissé249@student.sn,"Dakar, Quartier 5",4,4,Cybersécurité,Master 1
+1250,Gaye,Cheikh,2005-04-07,cheikh.gaye250@student.sn,"Rufisque, Quartier 15",3,4,Cybersécurité,Licence 3
+1251,Badji,Awa,2001-04-02,awa.badji251@student.sn,"Ziguinchor, Quartier 11",1,2,Génie Logiciel,Licence 1
+1252,Sy,Aminata,2003-12-16,aminata.sy252@student.sn,"Thiès, Quartier 11",4,1,Data Engineering,Master 1
+1253,Sarr,Ibrahima,2005-08-21,ibrahima.sarr253@student.sn,"Ziguinchor, Quartier 13",4,2,Génie Logiciel,Master 1
+1254,Mendy,Fatou,1999-11-19,fatou.mendy254@student.sn,"Ziguinchor, Quartier 9",1,3,Intelligence Artificielle,Licence 1
+1255,Ba,Khadija,1998-07-26,khadija.ba255@student.sn,"Touba, Quartier 3",2,4,Cybersécurité,Licence 2
+1256,Mendy,Aminata,1999-06-10,aminata.mendy256@student.sn,"Touba, Quartier 11",3,1,Data Engineering,Licence 3
+1257,Badji,Pape,2005-05-07,pape.badji257@student.sn,"Thiès, Quartier 6",2,4,Cybersécurité,Licence 2
+1258,Seck,Abdoulaye,1998-12-11,abdoulaye.seck258@student.sn,"Rufisque, Quartier 10",2,3,Intelligence Artificielle,Licence 2
+1259,Kane,Khadija,2003-02-13,khadija.kane259@student.sn,"Thiès, Quartier 3",4,4,Cybersécurité,Master 1
+1260,Sarr,Binta,1998-05-13,binta.sarr260@student.sn,"Ziguinchor, Quartier 8",2,3,Intelligence Artificielle,Licence 2
+1261,Camara,Fatou,1998-05-21,fatou.camara261@student.sn,"Kaolack, Quartier 12",5,3,Intelligence Artificielle,Master 2
+1262,Sy,Aminata,2002-03-13,aminata.sy262@student.sn,"Rufisque, Quartier 12",4,1,Data Engineering,Master 1
+1263,Cissé,Jean,2001-04-05,jean.cissé263@student.sn,"Touba, Quartier 3",5,3,Intelligence Artificielle,Master 2
+1264,Sow,Adama,2005-09-26,adama.sow264@student.sn,"Ziguinchor, Quartier 13",4,3,Intelligence Artificielle,Master 1
+1265,Sy,Adama,2005-09-23,adama.sy265@student.sn,"Kaolack, Quartier 2",5,1,Data Engineering,Master 2
+1266,Badiane,Mariama,2001-10-18,mariama.badiane266@student.sn,"Saint-Louis, Quartier 3",5,1,Data Engineering,Master 2
+1267,Diallo,Pape,2001-12-19,pape.diallo267@student.sn,"Touba, Quartier 2",1,4,Cybersécurité,Licence 1
+1268,Samb,Abdoulaye,2000-09-14,abdoulaye.samb268@student.sn,"Touba, Quartier 10",4,1,Data Engineering,Master 1
+1269,Ba,Rokhaya,1998-07-09,rokhaya.ba269@student.sn,"Dakar, Quartier 12",3,4,Cybersécurité,Licence 3
+1270,Kane,Saliou,2004-06-23,saliou.kane270@student.sn,"Thiès, Quartier 9",1,1,Data Engineering,Licence 1
+1271,Ba,Moussa,2002-07-06,moussa.ba271@student.sn,"Saint-Louis, Quartier 13",1,4,Cybersécurité,Licence 1
+1272,Faye,Cheikh,2004-07-03,cheikh.faye272@student.sn,"Saint-Louis, Quartier 11",4,4,Cybersécurité,Master 1
+1273,Ndiaye,Mariama,2004-09-05,mariama.ndiaye273@student.sn,"Ziguinchor, Quartier 14",5,2,Génie Logiciel,Master 2
+1274,Fall,Ibrahima,2004-09-13,ibrahima.fall274@student.sn,"Ziguinchor, Quartier 4",4,3,Intelligence Artificielle,Master 1
+1275,Sow,Cheikh,2001-12-25,cheikh.sow275@student.sn,"Thiès, Quartier 1",3,2,Génie Logiciel,Licence 3
+1276,Faye,Adama,2001-02-04,adama.faye276@student.sn,"Dakar, Quartier 8",2,1,Data Engineering,Licence 2
+1277,Dramé,Aminata,2004-08-08,aminata.dramé277@student.sn,"Ziguinchor, Quartier 13",1,2,Génie Logiciel,Licence 1
+1278,Ba,Modou,2003-10-20,modou.ba278@student.sn,"Kaolack, Quartier 4",2,3,Intelligence Artificielle,Licence 2
+1279,Mendy,Modou,2002-05-02,modou.mendy279@student.sn,"Saint-Louis, Quartier 11",4,2,Génie Logiciel,Master 1
+1280,Faye,Rokhaya,2003-11-22,rokhaya.faye280@student.sn,"Mbour, Quartier 13",1,4,Cybersécurité,Licence 1
+1281,Samb,Fatou,2000-05-13,fatou.samb281@student.sn,"Saint-Louis, Quartier 13",4,4,Cybersécurité,Master 1
+1282,Badji,Binta,2002-12-05,binta.badji282@student.sn,"Touba, Quartier 15",2,2,Génie Logiciel,Licence 2
+1283,Ba,Rokhaya,2000-07-08,rokhaya.ba283@student.sn,"Rufisque, Quartier 4",4,4,Cybersécurité,Master 1
+1284,Diallo,Moussa,1999-09-24,moussa.diallo284@student.sn,"Ziguinchor, Quartier 1",3,4,Cybersécurité,Licence 3
+1285,Camara,Mamadou,2001-10-24,mamadou.camara285@student.sn,"Ziguinchor, Quartier 8",1,1,Data Engineering,Licence 1
+1286,Kane,Fatou,2001-04-24,fatou.kane286@student.sn,"Thiès, Quartier 12",1,3,Intelligence Artificielle,Licence 1
+1287,Touré,Oumar,2001-09-11,oumar.touré287@student.sn,"Rufisque, Quartier 7",4,2,Génie Logiciel,Master 1
+1288,Sow,Rokhaya,2002-06-17,rokhaya.sow288@student.sn,"Touba, Quartier 8",3,3,Intelligence Artificielle,Licence 3
+1289,Cissé,Binta,2003-06-14,binta.cissé289@student.sn,"Dakar, Quartier 10",2,3,Intelligence Artificielle,Licence 2
+1290,Sy,Modou,2004-05-05,modou.sy290@student.sn,"Ziguinchor, Quartier 6",3,1,Data Engineering,Licence 3
+1291,Sy,Mamadou,2003-05-25,mamadou.sy291@student.sn,"Touba, Quartier 12",4,2,Génie Logiciel,Master 1
+1292,Touré,Abdoulaye,2000-03-24,abdoulaye.touré292@student.sn,"Touba, Quartier 3",3,2,Génie Logiciel,Licence 3
+1293,Badji,Aminata,1998-01-14,aminata.badji293@student.sn,"Saint-Louis, Quartier 14",1,1,Data Engineering,Licence 1
+1294,Sy,Moussa,2001-09-15,moussa.sy294@student.sn,"Kaolack, Quartier 1",1,2,Génie Logiciel,Licence 1
+1295,Dramé,Adama,1998-01-18,adama.dramé295@student.sn,"Mbour, Quartier 1",4,4,Cybersécurité,Master 1
+1296,Fall,Pape,2002-01-17,pape.fall296@student.sn,"Mbour, Quartier 13",5,3,Intelligence Artificielle,Master 2
+1297,Seck,Mariama,2000-04-07,mariama.seck297@student.sn,"Rufisque, Quartier 14",5,1,Data Engineering,Master 2
+1298,Ndiaye,Awa,2003-07-15,awa.ndiaye298@student.sn,"Ziguinchor, Quartier 12",1,4,Cybersécurité,Licence 1
+1299,Sy,Jean,1999-07-13,jean.sy299@student.sn,"Mbour, Quartier 9",1,1,Data Engineering,Licence 1
+1300,Touré,Aminata,1999-08-28,aminata.touré300@student.sn,"Mbour, Quartier 11",2,1,Data Engineering,Licence 2
+1301,Diallo,Saliou,1998-04-07,saliou.diallo301@student.sn,"Touba, Quartier 5",5,1,Data Engineering,Master 2
+1302,Ba,Moussa,1998-03-28,moussa.ba302@student.sn,"Kaolack, Quartier 1",5,3,Intelligence Artificielle,Master 2
+1303,Kane,Saliou,1999-05-06,saliou.kane303@student.sn,"Ziguinchor, Quartier 10",4,2,Génie Logiciel,Master 1
+1304,Diop,Rokhaya,2000-12-24,rokhaya.diop304@student.sn,"Thiès, Quartier 9",4,3,Intelligence Artificielle,Master 1
+1305,Ndiaye,Aminata,2001-02-11,aminata.ndiaye305@student.sn,"Mbour, Quartier 13",4,1,Data Engineering,Master 1
+1306,Diallo,Ibrahima,2005-04-12,ibrahima.diallo306@student.sn,"Mbour, Quartier 7",4,3,Intelligence Artificielle,Master 1
+1307,Seck,Saliou,2002-04-23,saliou.seck307@student.sn,"Thiès, Quartier 2",1,4,Cybersécurité,Licence 1
+1308,Camara,Modou,2004-06-12,modou.camara308@student.sn,"Thiès, Quartier 2",2,4,Cybersécurité,Licence 2
+1309,Fall,Jean,2002-02-05,jean.fall309@student.sn,"Thiès, Quartier 3",3,4,Cybersécurité,Licence 3
+1310,Faye,Abdoulaye,1998-02-12,abdoulaye.faye310@student.sn,"Thiès, Quartier 10",1,4,Cybersécurité,Licence 1
+1311,Dramé,Fatou,2002-07-13,fatou.dramé311@student.sn,"Thiès, Quartier 12",1,4,Cybersécurité,Licence 1
+1312,Badji,Oumar,2000-03-09,oumar.badji312@student.sn,"Rufisque, Quartier 5",4,2,Génie Logiciel,Master 1
+1313,Touré,Modou,2004-05-14,modou.touré313@student.sn,"Rufisque, Quartier 8",2,1,Data Engineering,Licence 2
+1314,Gaye,Cheikh,2005-10-20,cheikh.gaye314@student.sn,"Ziguinchor, Quartier 8",2,3,Intelligence Artificielle,Licence 2
+1315,Cissé,Modou,2004-06-27,modou.cissé315@student.sn,"Mbour, Quartier 13",1,3,Intelligence Artificielle,Licence 1
+1316,Diallo,Abdoulaye,2000-05-11,abdoulaye.diallo316@student.sn,"Ziguinchor, Quartier 8",4,3,Intelligence Artificielle,Master 1
+1317,Diallo,Khadija,2002-12-23,khadija.diallo317@student.sn,"Touba, Quartier 10",3,4,Cybersécurité,Licence 3
+1318,Sy,Fatou,2004-06-04,fatou.sy318@student.sn,"Ziguinchor, Quartier 10",3,4,Cybersécurité,Licence 3
+1319,Badji,Khadija,2001-08-26,khadija.badji319@student.sn,"Rufisque, Quartier 14",4,1,Data Engineering,Master 1
+1320,Gaye,Aïssatou,2002-04-09,aïssatou.gaye320@student.sn,"Saint-Louis, Quartier 12",2,4,Cybersécurité,Licence 2
+1321,Faye,Mamadou,2005-10-13,mamadou.faye321@student.sn,"Mbour, Quartier 9",4,1,Data Engineering,Master 1
+1322,Ba,Cheikh,2001-11-22,cheikh.ba322@student.sn,"Kaolack, Quartier 3",1,1,Data Engineering,Licence 1
+1323,Dramé,Aminata,2004-02-01,aminata.dramé323@student.sn,"Thiès, Quartier 5",3,4,Cybersécurité,Licence 3
+1324,Sy,Pape,2003-07-15,pape.sy324@student.sn,"Saint-Louis, Quartier 6",4,2,Génie Logiciel,Master 1
+1325,Fall,Binta,2004-02-04,binta.fall325@student.sn,"Saint-Louis, Quartier 6",3,1,Data Engineering,Licence 3
+1326,Mendy,Fatou,2005-06-16,fatou.mendy326@student.sn,"Thiès, Quartier 8",2,4,Cybersécurité,Licence 2
+1327,Sow,Fatou,1998-12-04,fatou.sow327@student.sn,"Dakar, Quartier 14",3,1,Data Engineering,Licence 3
+1328,Diallo,Mariama,2000-09-06,mariama.diallo328@student.sn,"Kaolack, Quartier 9",2,2,Génie Logiciel,Licence 2
+1329,Faye,Abdoulaye,2000-03-21,abdoulaye.faye329@student.sn,"Mbour, Quartier 7",4,2,Génie Logiciel,Master 1
+1330,Fall,Adama,2004-07-01,adama.fall330@student.sn,"Ziguinchor, Quartier 4",4,2,Génie Logiciel,Master 1
+1331,Camara,Moussa,2000-06-11,moussa.camara331@student.sn,"Ziguinchor, Quartier 8",5,1,Data Engineering,Master 2
+1332,Cissé,Awa,2003-10-13,awa.cissé332@student.sn,"Mbour, Quartier 10",5,4,Cybersécurité,Master 2
+1333,Cissé,Cheikh,2000-11-23,cheikh.cissé333@student.sn,"Rufisque, Quartier 15",4,3,Intelligence Artificielle,Master 1
+1334,Dramé,Saliou,2003-02-08,saliou.dramé334@student.sn,"Rufisque, Quartier 2",2,1,Data Engineering,Licence 2
+1335,Seck,Cheikh,2004-07-20,cheikh.seck335@student.sn,"Saint-Louis, Quartier 10",5,2,Génie Logiciel,Master 2
+1336,Diop,Aïssatou,2000-09-06,aïssatou.diop336@student.sn,"Touba, Quartier 5",4,2,Génie Logiciel,Master 1
+1337,Sarr,Khadija,1998-06-01,khadija.sarr337@student.sn,"Touba, Quartier 3",4,3,Intelligence Artificielle,Master 1
+1338,Kane,Mamadou,2005-07-23,mamadou.kane338@student.sn,"Touba, Quartier 8",4,4,Cybersécurité,Master 1
+1339,Seck,Moussa,2002-01-09,moussa.seck339@student.sn,"Ziguinchor, Quartier 9",2,1,Data Engineering,Licence 2
+1340,Mendy,Khadija,2005-09-17,khadija.mendy340@student.sn,"Thiès, Quartier 10",5,4,Cybersécurité,Master 2
+1341,Cissé,Awa,1998-12-15,awa.cissé341@student.sn,"Ziguinchor, Quartier 7",5,3,Intelligence Artificielle,Master 2
+1342,Cissé,Oumar,2005-05-12,oumar.cissé342@student.sn,"Thiès, Quartier 8",1,3,Intelligence Artificielle,Licence 1
+1343,Cissé,Oumar,2003-12-20,oumar.cissé343@student.sn,"Mbour, Quartier 3",5,2,Génie Logiciel,Master 2
+1344,Dramé,Modou,1998-10-12,modou.dramé344@student.sn,"Rufisque, Quartier 10",2,2,Génie Logiciel,Licence 2
+1345,Badji,Khadija,2002-10-09,khadija.badji345@student.sn,"Thiès, Quartier 3",3,3,Intelligence Artificielle,Licence 3
+1346,Faye,Aminata,2000-04-05,aminata.faye346@student.sn,"Kaolack, Quartier 14",2,3,Intelligence Artificielle,Licence 2
+1347,Sy,Mamadou,2002-11-14,mamadou.sy347@student.sn,"Mbour, Quartier 8",2,4,Cybersécurité,Licence 2
+1348,Gaye,Moussa,2002-12-12,moussa.gaye348@student.sn,"Touba, Quartier 8",5,4,Cybersécurité,Master 2
+1349,Diallo,Saliou,2005-11-22,saliou.diallo349@student.sn,"Kaolack, Quartier 14",1,1,Data Engineering,Licence 1
+1350,Gaye,Rokhaya,2004-04-16,rokhaya.gaye350@student.sn,"Rufisque, Quartier 6",2,4,Cybersécurité,Licence 2
+1351,Mendy,Fatou,2005-06-22,fatou.mendy351@student.sn,"Dakar, Quartier 1",5,2,Génie Logiciel,Master 2
+1352,Cissé,Abdoulaye,2000-08-15,abdoulaye.cissé352@student.sn,"Dakar, Quartier 7",1,1,Data Engineering,Licence 1
+1353,Kane,Modou,2002-02-21,modou.kane353@student.sn,"Kaolack, Quartier 5",2,3,Intelligence Artificielle,Licence 2
+1354,Gaye,Cheikh,2004-11-10,cheikh.gaye354@student.sn,"Ziguinchor, Quartier 7",1,2,Génie Logiciel,Licence 1
+1355,Gaye,Mariama,2005-02-05,mariama.gaye355@student.sn,"Ziguinchor, Quartier 9",2,1,Data Engineering,Licence 2
+1356,Sow,Ibrahima,1999-07-23,ibrahima.sow356@student.sn,"Saint-Louis, Quartier 8",3,1,Data Engineering,Licence 3
+1357,Gaye,Oumar,1999-02-11,oumar.gaye357@student.sn,"Kaolack, Quartier 15",1,4,Cybersécurité,Licence 1
+1358,Mendy,Modou,2000-02-17,modou.mendy358@student.sn,"Dakar, Quartier 10",2,4,Cybersécurité,Licence 2
+1359,Seck,Abdoulaye,2000-07-20,abdoulaye.seck359@student.sn,"Touba, Quartier 14",2,3,Intelligence Artificielle,Licence 2
+1360,Kane,Moussa,1999-10-24,moussa.kane360@student.sn,"Mbour, Quartier 6",2,1,Data Engineering,Licence 2

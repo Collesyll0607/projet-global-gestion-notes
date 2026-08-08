@@ -1,0 +1,13 @@
+id_matiere,nom_matiere,coefficient
+201,Bases de Données Relationnelles (SQL),4.0
+202,Bases de Données NoSQL (MongoDB),3.0
+203,Big Data & Hadoop/Spark,4.0
+204,Algorithmique & Python Advanced,3.5
+205,Data Warehousing & ETL (SSIS),4.0
+206,Machine Learning & Deep Learning,4.0
+207,Architecture Microservices & Cloud,3.0
+208,Sécurité des Systèmes d'Information,3.0
+209,Statistiques Inférentielles,3.0
+210,Business Intelligence & Power BI,3.5
+211,DevOps & Docker/Kubernetes,3.0
+212,Gouvernance des Données & DPO,2.5
