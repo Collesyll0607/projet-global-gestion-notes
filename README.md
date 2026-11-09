@@ -1,3 +1,9 @@
+﻿> 🌐 **Démo Interactive Déployée en Ligne :** [**https://collesyll0607.github.io/projet-global-gestion-notes/**](https://collesyll0607.github.io/projet-global-gestion-notes/)
+>
+> 👩‍💻 **Portfolio de l'Auteure (Collé Syll) :** [https://collesyll0607.github.io/](https://collesyll0607.github.io/)
+
+---
+
 # 🎓 Projet Global : Système Décisionnel de Gestion des Notes des Étudiants
 
 [![GitHub User](https://img.shields.io/badge/GitHub-Collesyll0607-blue?logo=github)](https://github.com/Collesyll0607)
@@ -38,3 +44,4 @@ Ce script exécute l'intégralité du pipeline en 1 clic :
 
 ## 👤 Auteur
 - **GitHub** : [@Collesyll0607](https://github.com/Collesyll0607)
+
